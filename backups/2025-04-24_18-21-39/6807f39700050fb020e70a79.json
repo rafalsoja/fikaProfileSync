@@ -1130,7 +1130,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1745511818
+				"UpdateTime": 1745506281
 			},
 			"Hideout": {
 				"Areas": [
@@ -1625,7 +1625,7 @@
 				"Production": {},
 				"HideoutCounters": null,
 				"Seed": 1997639802,
-				"sptUpdateLastRunTimestamp": 1745511898
+				"sptUpdateLastRunTimestamp": 1745506896
 			},
 			"Info": {
 				"AccountType": 0,
@@ -9206,8 +9206,8 @@
 					"Maximum": 100
 				},
 				"Temperature": {
-					"Current": 30,
-					"Maximum": 30
+					"Current": 33,
+					"Maximum": 33
 				},
 				"BodyParts": {
 					"Head": {
