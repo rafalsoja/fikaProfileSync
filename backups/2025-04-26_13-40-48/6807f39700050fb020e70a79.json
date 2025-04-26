@@ -19095,65 +19095,11 @@
 						"location": "bigmap"
 					},
 					"items": {}
-				},
-				{
-					"_id": "680cc64b06cdbd6ef031fadc",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1745667659,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 1",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "25.04.2025",
-						"time": "22:48",
-						"location": "bigmap"
-					},
-					"items": {
-						"stash": "680cc64b06cdbd6ef031fadb",
-						"data": [
-							{
-								"_id": "680cc64b06cdbd6ef031fadd",
-								"_tpl": "5c165d832e2216398b5a7e36",
-								"slotId": "main",
-								"parentId": "680cc64b06cdbd6ef031fadb"
-							}
-						]
-					},
-					"maxStorageTime": 345600
-				},
-				{
-					"_id": "680cc64b06cdbd6ef031fadf",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1745667659,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 2",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "25.04.2025",
-						"time": "23:27",
-						"location": "bigmap"
-					},
-					"items": {
-						"stash": "680cc64b06cdbd6ef031fade",
-						"data": [
-							{
-								"_id": "680cc64b06cdbd6ef031fae0",
-								"_tpl": "5645bcc04bdc2d363b8b4572",
-								"parentId": "680cc64b06cdbd6ef031fade",
-								"slotId": "main"
-							}
-						]
-					},
-					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 2,
-			"attachmentsNew": 2
+			"new": 0,
+			"attachmentsNew": 0
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -19805,38 +19751,11 @@
 						]
 					},
 					"maxStorageTime": 518400
-				},
-				{
-					"_id": "680cc64b06cdbd6ef031fae2",
-					"uid": "54cb57776803fa99248b456e",
-					"type": 8,
-					"dt": 1745667659,
-					"text": "",
-					"templateId": "58fe0e3486f77471f772c3f2 1",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "25.04.2025",
-						"time": "23:27",
-						"location": "bigmap"
-					},
-					"items": {
-						"stash": "680cc64b06cdbd6ef031fae1",
-						"data": [
-							{
-								"_id": "680cc64b06cdbd6ef031fae3",
-								"_tpl": "5a01c29586f77474660c694c",
-								"parentId": "680cc64b06cdbd6ef031fae1",
-								"slotId": "main"
-							}
-						]
-					},
-					"maxStorageTime": 518400
 				}
 			],
 			"pinned": false,
-			"new": 2,
-			"attachmentsNew": 2
+			"new": 1,
+			"attachmentsNew": 1
 		},
 		"579dc571d53a0658a154fbec": {
 			"_id": "579dc571d53a0658a154fbec",
@@ -21007,7 +20926,94 @@
 	"inraid": {
 		"location": "Sandbox"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1745635101,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "25.04.2025",
+				"time": "22:48",
+				"location": "bigmap"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 1",
+			"items": [
+				{
+					"_id": "680b7fcd64339a5ca03208a6",
+					"_tpl": "5ea05cf85ad9772e6624305d",
+					"slotId": "Headwear",
+					"parentId": "6807f47a8e1b6367e4325ee3"
+				},
+				{
+					"_id": "680b7fcd64339a5ca03208a7",
+					"_tpl": "657ba2eef58ba5a625010798",
+					"slotId": "Helmet_top",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 18.41,
+							"Durability": 18.41
+						}
+					},
+					"parentId": "680b7fcd64339a5ca03208a6"
+				},
+				{
+					"_id": "680b7fcd64339a5ca03208a8",
+					"_tpl": "657ba34b9ba22f103e08139b",
+					"slotId": "Helmet_back",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 12.1,
+							"Durability": 12.1
+						}
+					},
+					"parentId": "680b7fcd64339a5ca03208a6"
+				},
+				{
+					"_id": "680bbb8464339a5ca048c2ee",
+					"_tpl": "5c165d832e2216398b5a7e36",
+					"slotId": "Earpiece",
+					"parentId": "6807f47a8e1b6367e4325ee3"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1745635991,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "25.04.2025",
+				"time": "23:27",
+				"location": "bigmap"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 2",
+			"items": [
+				{
+					"_id": "680a50cd160a14070835a0f5",
+					"_tpl": "5645bcc04bdc2d363b8b4572"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1745630699,
+			"traderId": "54cb57776803fa99248b456e",
+			"maxStorageTime": 518400,
+			"systemData": {
+				"date": "25.04.2025",
+				"time": "23:27",
+				"location": "bigmap"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e3486f77471f772c3f2 1",
+			"items": [
+				{
+					"_id": "680b7fcd64339a5ca03208a4",
+					"_tpl": "5a01c29586f77474660c694c"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"5935c25fb3acc3127c3d8cd9": {},
 		"54cb57776803fa99248b456e": {},
