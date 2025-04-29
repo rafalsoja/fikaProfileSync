@@ -22530,7 +22530,10 @@
 						"time": "21:19",
 						"location": "sandbox"
 					},
-					"items": {},
+					"items": {
+						"stash": "680a0b305b16d724443208a7",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22563,7 +22566,10 @@
 						"time": "22:26",
 						"location": "sandbox"
 					},
-					"items": {},
+					"items": {
+						"stash": "680a0b305b16d724443208c7",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22671,7 +22677,10 @@
 						"time": "20:29",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "680b7fcd64339a5ca03208b6",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22688,7 +22697,10 @@
 						"time": "21:13",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "680b7fcd64339a5ca03208b9",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22721,7 +22733,10 @@
 						"time": "22:34",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680b7fcd64339a5ca03208be",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -23702,7 +23717,10 @@
 					"templateId": "657315ddab5a49b71f098853 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680811f74b3f548fc03a6308",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -24391,7 +24409,10 @@
 					"templateId": "657315e270bb0b8dba00cc48 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6807fc7c4b3f548fc032cf38",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -24414,7 +24435,10 @@
 					"templateId": "657315e270bb0b8dba00cc48 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68080a554b3f548fc03899df",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{

@@ -22671,7 +22671,10 @@
 						"time": "20:29",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "680b7fcd64339a5ca03208b6",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22688,7 +22691,10 @@
 						"time": "21:13",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "680b7fcd64339a5ca03208b9",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22721,7 +22727,10 @@
 						"time": "22:34",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680b7fcd64339a5ca03208be",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{

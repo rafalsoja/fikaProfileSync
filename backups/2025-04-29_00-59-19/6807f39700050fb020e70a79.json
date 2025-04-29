@@ -24278,7 +24278,10 @@
 					"text": "<ch>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</ch><cz>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</cz><en>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</en><fr>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</fr><ge>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</ge><hu>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</hu><it>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</it><jp>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</jp><kr>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</kr><pl>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</pl><po>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</po><sk>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</sk><es>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</es><es-mx>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</es-mx><tu>Hello there, friend. Happy New Year to you! You've probably forgotten that holidays exist, but I think it's important to remain human in any situation. Wishing you lots of working graphics cards this year and that your Hideout never lets you down. Take this gift and be happy!</tu><ru>Ну, здравствуй, друг! С Новым годом тебя! Ты наверное забыл уже, что есть праздники, но я считаю, важно оставаться людьми в любой ситуации. Работающих видеокарт тебе в новом году и убежище чтобы не подводило. Держи и радуйся!</ru>",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {},
+					"items": {
+						"stash": "66dec233ab84eb041703c012",
+						"data": []
+					},
 					"maxStorageTime": 72000
 				},
 				{
@@ -24557,91 +24560,11 @@
 						]
 					},
 					"maxStorageTime": 604800
-				},
-				{
-					"_id": "681022e3d958f92bb0556537",
-					"uid": "59e7125688a45068a6249071",
-					"type": 7,
-					"dt": 1745887971,
-					"text": "You have received a gift from Cichaj",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": [
-							{
-								"_id": "681022e3d958f92bb0556538",
-								"_tpl": "544a37c44bdc2d25388b4567",
-								"slotId": "main",
-								"location": {
-									"x": 9,
-									"y": 14,
-									"r": "Horizontal"
-								},
-								"upd": {
-									"SpawnedInSession": false
-								},
-								"parentId": "5fe4977574f15b4ad31b66b6"
-							},
-							{
-								"_id": "681022e3d958f92bb0556539",
-								"_tpl": "5c0d5ae286f7741e46554302",
-								"slotId": "cartridges",
-								"location": 0,
-								"upd": {
-									"StackObjectsCount": 51,
-									"SpawnedInSession": false
-								},
-								"parentId": "681022e3d958f92bb0556538"
-							}
-						]
-					},
-					"maxStorageTime": 604800
-				},
-				{
-					"_id": "681022e6d958f92bb055653a",
-					"uid": "59e7125688a45068a6249071",
-					"type": 7,
-					"dt": 1745887974,
-					"text": "You have received a gift from Cichaj",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": [
-							{
-								"_id": "681022e6d958f92bb055653b",
-								"_tpl": "544a37c44bdc2d25388b4567",
-								"slotId": "main",
-								"location": {
-									"x": 9,
-									"y": 14,
-									"r": "Horizontal"
-								},
-								"upd": {
-									"SpawnedInSession": false
-								},
-								"parentId": "5fe4977574f15b4ad31b66b6"
-							},
-							{
-								"_id": "681022e6d958f92bb055653c",
-								"_tpl": "5c0d5ae286f7741e46554302",
-								"slotId": "cartridges",
-								"location": 0,
-								"upd": {
-									"StackObjectsCount": 60,
-									"SpawnedInSession": false
-								},
-								"parentId": "681022e6d958f92bb055653b"
-							}
-						]
-					},
-					"maxStorageTime": 604800
 				}
 			],
 			"pinned": false,
-			"new": 7,
-			"attachmentsNew": 5
+			"new": 5,
+			"attachmentsNew": 3
 		},
 		"5c0647fdd443bc2504c2d371": {
 			"_id": "5c0647fdd443bc2504c2d371",
