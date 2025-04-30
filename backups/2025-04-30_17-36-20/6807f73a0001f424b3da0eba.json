@@ -22467,7 +22467,10 @@
 					"templateId": "657315df034d76585f032e01 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68095b3dc6f9c156c43534ab",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -22883,7 +22886,10 @@
 						"time": "14:40",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680bcd7664339a5ca04f681c",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22900,7 +22906,10 @@
 						"time": "15:37",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680bddee64339a5ca051bf1d",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22917,7 +22926,10 @@
 						"time": "17:05",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680bec0c64339a5ca052709c",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22982,7 +22994,10 @@
 						"time": "22:28",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680cc64b06cdbd6ef031fae4",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -22999,7 +23014,10 @@
 						"time": "23:26",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680cc64b06cdbd6ef031faee",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -23016,7 +23034,10 @@
 						"time": "00:26",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "680cc64b06cdbd6ef031fafa",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -23709,7 +23730,10 @@
 						"time": "21:27",
 						"location": "sandbox"
 					},
-					"items": {},
+					"items": {
+						"stash": "68091e6fe7d9084760320340",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -23726,7 +23750,10 @@
 						"time": "22:00",
 						"location": "sandbox"
 					},
-					"items": {},
+					"items": {
+						"stash": "68091e6fe7d9084760320343",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -23759,7 +23786,10 @@
 						"time": "21:19",
 						"location": "sandbox"
 					},
-					"items": {},
+					"items": {
+						"stash": "680a0b305b16d724443208ac",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -24718,7 +24748,10 @@
 					"templateId": "657315e4a6af4ab4b50f3459 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680961d8c6f9c156c436b8fa",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
