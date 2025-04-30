@@ -28104,7 +28104,10 @@
 						"time": "14:38",
 						"location": "factory4_day"
 					},
-					"items": {},
+					"items": {
+						"stash": "680d3f55d72a1c45c0320139",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28121,7 +28124,10 @@
 						"time": "15:32",
 						"location": "factory4_day"
 					},
-					"items": {},
+					"items": {
+						"stash": "680d3f55d72a1c45c032013f",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28876,7 +28882,10 @@
 					"templateId": "5967733e86f774602332fc84 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680aa016f1045734d437f185",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -29862,7 +29871,10 @@
 					"templateId": "5d2495a886f77425cd51e403 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680aa08ef1045734d4388218",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -29942,7 +29954,10 @@
 					"templateId": "painter_1 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680a9f98f1045734d437f171",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -30432,7 +30447,10 @@
 					"templateId": "5d24b81486f77439c92d6ba8 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680aa097f1045734d438821f",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
