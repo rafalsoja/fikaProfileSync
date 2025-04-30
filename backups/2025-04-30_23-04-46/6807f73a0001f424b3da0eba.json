@@ -23771,7 +23771,10 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680aa9fbf1045734d43b3a68",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
