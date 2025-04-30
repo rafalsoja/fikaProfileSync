@@ -27907,7 +27907,10 @@
 						"time": "14:42",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680bcd7664339a5ca04f6813",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -27940,7 +27943,10 @@
 						"time": "17:06",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680bf57464339a5ca052eaec",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28021,7 +28027,10 @@
 						"time": "22:48",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680cc64b06cdbd6ef031faba",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28038,7 +28047,10 @@
 						"time": "23:26",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "680cc64b06cdbd6ef031fac5",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28055,7 +28067,10 @@
 						"time": "00:26",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "680cc64b06cdbd6ef031face",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28847,7 +28862,10 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68096bbcc6f9c156c439934b",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -28864,7 +28882,10 @@
 						"time": "21:19",
 						"location": "sandbox"
 					},
-					"items": {},
+					"items": {
+						"stash": "68096da4c6f9c156c43a272f",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -29838,7 +29859,10 @@
 					"templateId": "5ac23c6186f7741247042bad successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680a42dc5b16d724443a6f2d",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -29850,7 +29874,10 @@
 					"templateId": "5ac2426c86f774138762edfe description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680a42df5b16d724443a6f3d",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
