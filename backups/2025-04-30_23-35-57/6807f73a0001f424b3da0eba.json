@@ -22632,7 +22632,10 @@
 					"templateId": "Marvelous, young man. Thank you for some fine work.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680ab313f1045734d43ebabf",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -24412,7 +24415,10 @@
 					"templateId": "66058cb22cee99303f1ba067 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680abd62f1045734d442cca6",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -24897,7 +24903,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
