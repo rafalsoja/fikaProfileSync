@@ -27511,10 +27511,7 @@
 						"time": "23:27",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "680cc64b06cdbd6ef031fae1",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
