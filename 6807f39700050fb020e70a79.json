@@ -26343,10 +26343,7 @@
 					"templateId": "657315e1dccd301f1301416a successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680bb87464339a5ca0485e7d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -26385,10 +26382,7 @@
 					"templateId": "5936da9e86f7742d65037edf successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680bc9ba64339a5ca04e3c97",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -26714,10 +26708,7 @@
 						"time": "18:03",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "680ef88d3608c7530432045c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -27098,11 +27089,38 @@
 						"location": "woods"
 					},
 					"items": {}
+				},
+				{
+					"_id": "68146c89fc417630b832039f",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1746168970,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 0",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "01.05.2025",
+						"time": "15:33",
+						"location": "woods"
+					},
+					"items": {
+						"stash": "68146c89fc417630b832039e",
+						"data": [
+							{
+								"_id": "68146c89fc417630b83203a0",
+								"_tpl": "5e9db13186f7742f845ee9d3",
+								"parentId": "68146c89fc417630b832039e",
+								"slotId": "main"
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 0
+			"new": 2,
+			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -27394,10 +27412,7 @@
 						"time": "14:42",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "680bb84464339a5ca0485e24",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -27430,10 +27445,7 @@
 						"time": "18:09",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "680be9af64339a5ca0524e03",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -27482,10 +27494,7 @@
 						"time": "22:48",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "680c295a3d535109643fe8df",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -27954,10 +27963,7 @@
 					"templateId": "596b36c586f77450d6045ad2 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680bc27864339a5ca04b5dc0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -28002,10 +28008,7 @@
 					"templateId": "596b43fb86f77457ca186186 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680c1b153d535109643a02ea",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -28146,10 +28149,7 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680c1b323d535109643a038a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -28248,10 +28248,7 @@
 					"templateId": "painter_1 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680bb88264339a5ca0485f69",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -28274,10 +28271,7 @@
 					"templateId": "painter_2 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680c1e053d535109643a121e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -28395,10 +28389,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -28409,10 +28400,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -29989,114 +29977,7 @@
 	"inraid": {
 		"location": "bigmap"
 	},
-	"insurance": [
-		{
-			"scheduledTime": 1746124463,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "01.05.2025",
-				"time": "15:33",
-				"location": "woods"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 0",
-			"items": [
-				{
-					"_id": "6812b1c0c9687b461445c91c",
-					"_tpl": "5648a7494bdc2d9d488b4583"
-				},
-				{
-					"_id": "68136a1572d45c19f03208a0",
-					"_tpl": "5ea05cf85ad9772e6624305d"
-				},
-				{
-					"_id": "680f9dddd958f92bb0375782",
-					"_tpl": "5c165d832e2216398b5a7e36"
-				},
-				{
-					"_id": "680e303d41158452a842c384",
-					"_tpl": "5e9db13186f7742f845ee9d3"
-				},
-				{
-					"_id": "6812b1c0c9687b461445c917",
-					"_tpl": "56e335e4d2720b6c058b456d"
-				},
-				{
-					"_id": "6812b1c0c9687b461445c91d",
-					"_tpl": "65703d866584602f7d057a8a",
-					"slotId": "Soft_armor_front",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 26.49,
-							"Durability": 26.49
-						}
-					},
-					"parentId": "6812b1c0c9687b461445c91c"
-				},
-				{
-					"_id": "6812b1c0c9687b461445c91e",
-					"_tpl": "65703fa06584602f7d057a8e",
-					"slotId": "Soft_armor_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 100,
-							"Durability": 60
-						}
-					},
-					"parentId": "6812b1c0c9687b461445c91c"
-				},
-				{
-					"_id": "6812b1c0c9687b461445c91f",
-					"_tpl": "65703fe46a912c8b5c03468b",
-					"slotId": "Soft_armor_left",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 18.48,
-							"Durability": 18.48
-						}
-					},
-					"parentId": "6812b1c0c9687b461445c91c"
-				},
-				{
-					"_id": "6812b1c0c9687b461445c920",
-					"_tpl": "657040374e67e8ec7a0d261c",
-					"slotId": "soft_armor_right",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 13.44,
-							"Durability": 13.44
-						}
-					},
-					"parentId": "6812b1c0c9687b461445c91c"
-				},
-				{
-					"_id": "68136a1572d45c19f03208a1",
-					"_tpl": "657ba2eef58ba5a625010798",
-					"slotId": "Helmet_top",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 9.52,
-							"Durability": 9.52
-						}
-					},
-					"parentId": "68136a1572d45c19f03208a0"
-				},
-				{
-					"_id": "68136a1572d45c19f03208a2",
-					"_tpl": "657ba34b9ba22f103e08139b",
-					"slotId": "Helmet_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 40,
-							"Durability": 20
-						}
-					},
-					"parentId": "68136a1572d45c19f03208a0"
-				}
-			]
-		}
-	],
+	"insurance": [],
 	"traderPurchases": {
 		"5935c25fb3acc3127c3d8cd9": {},
 		"54cb57776803fa99248b456e": {},
