@@ -37995,54 +37995,11 @@
 						"data": []
 					},
 					"maxStorageTime": 518400
-				},
-				{
-					"_id": "6816a94b1b95904e34320268",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746315596,
-					"text": "",
-					"templateId": "595f995d86f77476b51172ee 0",
-					"hasRewards": false,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "03.05.2025",
-						"time": "19:52",
-						"location": "factory4_day"
-					},
-					"items": {}
-				},
-				{
-					"_id": "6816a94b1b95904e3432026a",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746315596,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 4",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "03.05.2025",
-						"time": "20:09",
-						"location": "factory4_day"
-					},
-					"items": {
-						"stash": "6816a94b1b95904e34320269",
-						"data": [
-							{
-								"_id": "6816a94b1b95904e3432026b",
-								"_tpl": "5c6d46132e221601da357d56",
-								"parentId": "6816a94b1b95904e34320269",
-								"slotId": "main"
-							}
-						]
-					},
-					"maxStorageTime": 345600
 				}
 			],
 			"pinned": true,
-			"new": 2,
-			"attachmentsNew": 1
+			"new": 0,
+			"attachmentsNew": 0
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -38854,26 +38811,10 @@
 						"data": []
 					},
 					"maxStorageTime": 518400
-				},
-				{
-					"_id": "6816a94b1b95904e3432026d",
-					"uid": "54cb57776803fa99248b456e",
-					"type": 8,
-					"dt": 1746315596,
-					"text": "",
-					"templateId": "5c1a3e2a86f77476ad6d23b0 0",
-					"hasRewards": false,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "03.05.2025",
-						"time": "21:13",
-						"location": "laboratory"
-					},
-					"items": {}
 				}
 			],
 			"pinned": true,
-			"new": 1,
+			"new": 0,
 			"attachmentsNew": 0
 		},
 		"579dc571d53a0658a154fbec": {
@@ -38924,7 +38865,10 @@
 					"templateId": "64648f64063abf54100f587b 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6812a7e5c9687b46143e0350",
+						"data": []
+					},
 					"maxStorageTime": 259200
 				},
 				{
@@ -42623,6 +42567,42 @@
 	},
 	"insurance": [
 		{
+			"scheduledTime": 1746315078,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "03.05.2025",
+				"time": "19:52",
+				"location": "factory4_day"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 0",
+			"items": [
+				{
+					"_id": "681395dd72d45c19f04b7027",
+					"_tpl": "5d5d940f86f7742797262046"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1746313817,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "03.05.2025",
+				"time": "20:09",
+				"location": "factory4_day"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 4",
+			"items": [
+				{
+					"_id": "68162c4b5c9d8153e43f4af8",
+					"_tpl": "5c6d46132e221601da357d56"
+				}
+			]
+		},
+		{
 			"scheduledTime": 1746317897,
 			"traderId": "54cb50c76803fa8b248b4571",
 			"maxStorageTime": 345600,
@@ -42661,6 +42641,24 @@
 						}
 					},
 					"parentId": "6812bcd6c9687b46144969ab"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1746312777,
+			"traderId": "54cb57776803fa99248b456e",
+			"maxStorageTime": 518400,
+			"systemData": {
+				"date": "03.05.2025",
+				"time": "21:13",
+				"location": "laboratory"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e3486f77471f772c3f2 4",
+			"items": [
+				{
+					"_id": "681633161e921a4f9400041c",
+					"_tpl": "5ab8f39486f7745cd93a1cca"
 				}
 			]
 		}
