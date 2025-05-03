@@ -23155,10 +23155,7 @@
 					"templateId": "5ede55112c95834b583f052a successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "680e5fce525d3e1698382879",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -23229,10 +23226,7 @@
 					"templateId": "5ede567cfa6dc072ce15d6e3 successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "680e7a38525d3e1698406342",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -23244,10 +23238,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680e7a3b525d3e1698406355",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -23856,49 +23847,7 @@
 						"time": "18:02",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "680e88c3525d3e1698414e78",
-						"data": [
-							{
-								"_id": "680e88c3525d3e1698414e7a",
-								"_tpl": "593d490386f7745ee97a1555",
-								"slotId": "main",
-								"parentId": "680e88c3525d3e1698414e78"
-							},
-							{
-								"_id": "680e88c3525d3e1698414e7b",
-								"_tpl": "587df583245977373c4f1129",
-								"slotId": "main",
-								"parentId": "680e88c3525d3e1698414e78"
-							},
-							{
-								"_id": "680e88c3525d3e1698414e7c",
-								"_tpl": "57aca93d2459771f2c7e26db",
-								"slotId": "main",
-								"upd": {
-									"Sight": {
-										"ScopesCurrentCalibPointIndexes": [
-											1,
-											0
-										],
-										"ScopesSelectedModes": [
-											1,
-											0
-										],
-										"SelectedScope": 0,
-										"ScopeZoomValue": 0
-									}
-								},
-								"parentId": "680e88c3525d3e1698414e78"
-							},
-							{
-								"_id": "680e88c3525d3e1698414e7d",
-								"_tpl": "587df583245977373c4f1129",
-								"slotId": "main",
-								"parentId": "680e88c3525d3e1698414e78"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -24196,10 +24145,7 @@
 					"templateId": "5a27c99a86f7747d2c6bdd8e successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "680e5ffa525d3e16983828a8",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -24914,10 +24860,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680e7a51525d3e1698406361",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -25046,10 +24989,7 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680e6003525d3e16983828c9",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -25061,10 +25001,7 @@
 					"templateId": "5a27b75b86f7742e97191958 description",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "680e6cb5525d3e169838f368",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],

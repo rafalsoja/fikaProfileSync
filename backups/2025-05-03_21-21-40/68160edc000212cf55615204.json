@@ -193,7 +193,7 @@
 				},
 				"65141cdcb9d5ff895410e1e4": {
 					"id": "65141cdcb9d5ff895410e1e4",
-					"value": 5,
+					"value": 3,
 					"sourceId": "65141cd2cf2f1c285e606449",
 					"type": "CounterCreator"
 				},
@@ -205,7 +205,7 @@
 				},
 				"65141df0e69594cf853a40b9": {
 					"id": "65141df0e69594cf853a40b9",
-					"value": 5,
+					"value": 3,
 					"sourceId": "65141dd6303df252af1c72c9",
 					"type": "CounterCreator"
 				},
@@ -277,7 +277,7 @@
 				},
 				"6512f0166a9637a1cb352507": {
 					"id": "6512f0166a9637a1cb352507",
-					"value": 1,
+					"value": 0,
 					"sourceId": "6512eb3ddfb0ae1ee75a0376",
 					"type": "CounterCreator"
 				},
@@ -301,7 +301,7 @@
 				},
 				"6512f819fddeee167c2518e3": {
 					"id": "6512f819fddeee167c2518e3",
-					"value": 1,
+					"value": 0,
 					"sourceId": "6512eb3ddfb0ae1ee75a0376",
 					"type": "CounterCreator"
 				},
@@ -895,7 +895,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1746306816
+				"UpdateTime": 1746286462
 			},
 			"Hideout": {
 				"Areas": [
@@ -1390,18 +1390,18 @@
 				"Production": {},
 				"Seed": 1998564060,
 				"HideoutCounters": null,
-				"sptUpdateLastRunTimestamp": 1746308192
+				"sptUpdateLastRunTimestamp": 1746289578
 			},
 			"Info": {
 				"AccountType": 0,
 				"BannedState": false,
 				"BannedUntil": 0,
 				"Bans": [],
-				"Experience": 1055576,
+				"Experience": 759307,
 				"GameVersion": "edge_of_darkness",
 				"IsStreamerModeAvailable": false,
 				"LastTimePlayedAsSavage": 0,
-				"Level": 30,
+				"Level": 27,
 				"LowerNickname": "dedicated_68160edc0000f903e584abb0",
 				"MemberCategory": 2,
 				"isMigratedSkills": false,
@@ -5005,9 +5005,9 @@
 					},
 					{
 						"Id": "StressResistance",
-						"Progress": 1.155,
+						"Progress": 0.693,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746306812
+						"LastAccess": 1746286459
 					},
 					{
 						"Id": "Metabolism",
@@ -5025,7 +5025,7 @@
 						"Id": "Perception",
 						"Progress": 0,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746306812
+						"LastAccess": 1746286459
 					},
 					{
 						"Id": "Intellect",
@@ -5043,7 +5043,7 @@
 						"Id": "Charisma",
 						"Progress": 300,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746306812
+						"LastAccess": 1746286459
 					},
 					{
 						"Id": "Pistol",
@@ -5155,9 +5155,9 @@
 					},
 					{
 						"Id": "MagDrills",
-						"Progress": 8.399999,
+						"Progress": 4.19999933,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746305310
+						"LastAccess": 1746285358
 					},
 					{
 						"Id": "FieldMedicine",
@@ -5251,9 +5251,16 @@
 						"Items": [
 							{
 								"Key": [
+									"Exp",
+									"ExpEnergy"
+								],
+								"Value": 0
+							},
+							{
+								"Key": [
 									"Kills"
 								],
-								"Value": 11
+								"Value": 7
 							},
 							{
 								"Key": [
@@ -5261,7 +5268,7 @@
 									"ExpKill",
 									"ExpKillBase"
 								],
-								"Value": 3032
+								"Value": 1468
 							}
 						]
 					},
