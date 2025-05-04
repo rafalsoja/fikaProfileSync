@@ -193,7 +193,7 @@
 				},
 				"65141cdcb9d5ff895410e1e4": {
 					"id": "65141cdcb9d5ff895410e1e4",
-					"value": 6,
+					"value": 5,
 					"sourceId": "65141cd2cf2f1c285e606449",
 					"type": "CounterCreator"
 				},
@@ -205,7 +205,7 @@
 				},
 				"65141df0e69594cf853a40b9": {
 					"id": "65141df0e69594cf853a40b9",
-					"value": 6,
+					"value": 5,
 					"sourceId": "65141dd6303df252af1c72c9",
 					"type": "CounterCreator"
 				},
@@ -259,7 +259,7 @@
 				},
 				"6512eb68f6c95fe8862e384d": {
 					"id": "6512eb68f6c95fe8862e384d",
-					"value": 2,
+					"value": 1,
 					"sourceId": "6512eb3ddfb0ae1ee75a0376",
 					"type": "CounterCreator"
 				},
@@ -895,7 +895,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1746360123
+				"UpdateTime": 1746306816
 			},
 			"Hideout": {
 				"Areas": [
@@ -1390,7 +1390,7 @@
 				"Production": {},
 				"Seed": 1998564060,
 				"HideoutCounters": null,
-				"sptUpdateLastRunTimestamp": 1746364033
+				"sptUpdateLastRunTimestamp": 1746308192
 			},
 			"Info": {
 				"AccountType": 0,
@@ -5005,9 +5005,9 @@
 					},
 					{
 						"Id": "StressResistance",
-						"Progress": 1.287,
+						"Progress": 1.155,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746360120
+						"LastAccess": 1746306812
 					},
 					{
 						"Id": "Metabolism",
@@ -5025,7 +5025,7 @@
 						"Id": "Perception",
 						"Progress": 0,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746360120
+						"LastAccess": 1746306812
 					},
 					{
 						"Id": "Intellect",
@@ -5043,7 +5043,7 @@
 						"Id": "Charisma",
 						"Progress": 300,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746360120
+						"LastAccess": 1746306812
 					},
 					{
 						"Id": "Pistol",
@@ -5155,9 +5155,9 @@
 					},
 					{
 						"Id": "MagDrills",
-						"Progress": 9.199998,
+						"Progress": 8.399999,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746358740
+						"LastAccess": 1746305310
 					},
 					{
 						"Id": "FieldMedicine",
@@ -5253,7 +5253,7 @@
 								"Key": [
 									"Kills"
 								],
-								"Value": 6
+								"Value": 11
 							},
 							{
 								"Key": [
@@ -5261,7 +5261,7 @@
 									"ExpKill",
 									"ExpKillBase"
 								],
-								"Value": 1768
+								"Value": 3032
 							}
 						]
 					},
@@ -7979,18 +7979,6 @@
 				"dateAdded": 1746276320098,
 				"name": "SVM",
 				"version": "1.10.1"
-			},
-			{
-				"author": "Shibdib",
-				"dateAdded": 1746358063484,
-				"name": "NoTransitTasks",
-				"version": "1.0.2"
-			},
-			{
-				"author": "TheDevilsrevenge",
-				"dateAdded": 1746358063485,
-				"name": "Zero2Hero++ Unheard Editon",
-				"version": "1.0.2"
 			}
 		],
 		"freeRepeatableRefreshUsedCount": {
