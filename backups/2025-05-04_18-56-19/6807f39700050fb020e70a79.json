@@ -25510,26 +25510,10 @@
 						"location": "factory4_day"
 					},
 					"items": {}
-				},
-				{
-					"_id": "68179c3e138887748c320952",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746377791,
-					"text": "",
-					"templateId": "595f995d86f77476b51172ee 1",
-					"hasRewards": false,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "04.05.2025",
-						"time": "13:30",
-						"location": "factory4_day"
-					},
-					"items": {}
 				}
 			],
 			"pinned": false,
-			"new": 5,
+			"new": 4,
 			"attachmentsNew": 0
 		},
 		"54cb57776803fa99248b456e": {
@@ -27846,7 +27830,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -27857,7 +27844,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -29240,7 +29230,83 @@
 	"inraid": {
 		"location": "Sandbox_high"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1746377035,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "04.05.2025",
+				"time": "13:30",
+				"location": "factory4_day"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 1",
+			"items": [
+				{
+					"_id": "6817508a3e534a184c442558",
+					"_tpl": "65719f0775149d62ce0a670b",
+					"slotId": "Headwear",
+					"parentId": "6807f47a8e1b6367e4325ee3"
+				},
+				{
+					"_id": "6817508a3e534a184c44255c",
+					"_tpl": "65719f9ef392ad76c50a2ec8",
+					"slotId": "mod_equipment_000",
+					"upd": {
+						"Togglable": {
+							"On": true
+						},
+						"FaceShield": {
+							"HitSeed": 96,
+							"Hits": 0
+						},
+						"Repairable": {
+							"MaxDurability": 35,
+							"Durability": 35
+						}
+					},
+					"parentId": "6817508a3e534a184c442558"
+				},
+				{
+					"_id": "6817508a3e534a184c442559",
+					"_tpl": "657fa0fcd4caf976440afe3e",
+					"slotId": "Helmet_top",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 150,
+							"Durability": 150
+						}
+					},
+					"parentId": "6817508a3e534a184c442558"
+				},
+				{
+					"_id": "6817508a3e534a184c44255a",
+					"_tpl": "657fa168e9433140ad0baf8e",
+					"slotId": "Helmet_back",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 150,
+							"Durability": 150
+						}
+					},
+					"parentId": "6817508a3e534a184c442558"
+				},
+				{
+					"_id": "6817508a3e534a184c44255b",
+					"_tpl": "657fa186d4caf976440afe42",
+					"slotId": "Helmet_ears",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 150,
+							"Durability": 150
+						}
+					},
+					"parentId": "6817508a3e534a184c442558"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"5935c25fb3acc3127c3d8cd9": {},
 		"54cb57776803fa99248b456e": {},

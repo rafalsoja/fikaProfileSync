@@ -2766,7 +2766,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1746377996
+				"UpdateTime": 1746376272
 			},
 			"Hideout": {
 				"Areas": [
@@ -3313,7 +3313,7 @@
 				"Production": {},
 				"HideoutCounters": null,
 				"Seed": 1997640159,
-				"sptUpdateLastRunTimestamp": 1746378108
+				"sptUpdateLastRunTimestamp": 1746377296
 			},
 			"Info": {
 				"AccountType": 0,
@@ -40160,7 +40160,10 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
