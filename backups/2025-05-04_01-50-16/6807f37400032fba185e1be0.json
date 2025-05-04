@@ -38038,26 +38038,10 @@
 						]
 					},
 					"maxStorageTime": 345600
-				},
-				{
-					"_id": "6816b2cd948e187244331a17",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746318029,
-					"text": "",
-					"templateId": "5c1a3e0686f77445b95c29b3 0",
-					"hasRewards": false,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "03.05.2025",
-						"time": "21:13",
-						"location": "laboratory"
-					},
-					"items": {}
 				}
 			],
 			"pinned": true,
-			"new": 3,
+			"new": 2,
 			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
@@ -42637,7 +42621,50 @@
 	"inraid": {
 		"location": "Woods"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1746317897,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "03.05.2025",
+				"time": "21:13",
+				"location": "laboratory"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 0",
+			"items": [
+				{
+					"_id": "6812bcd6c9687b46144969ab",
+					"_tpl": "66b5f666cad6f002ab7214c2"
+				},
+				{
+					"_id": "6812bcd6c9687b46144969a9",
+					"_tpl": "66b61cfae98be930d701c029",
+					"slotId": "Helmet_top",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 50,
+							"Durability": 50
+						}
+					},
+					"parentId": "6812bcd6c9687b46144969ab"
+				},
+				{
+					"_id": "6812bcd6c9687b46144969aa",
+					"_tpl": "66b61ce0c5d72b027748867e",
+					"slotId": "Helmet_back",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 50,
+							"Durability": 50
+						}
+					},
+					"parentId": "6812bcd6c9687b46144969ab"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"5ac3b934156ae10c4430e83c": {},
 		"54cb50c76803fa8b248b4571": {},
