@@ -3694,7 +3694,7 @@
 				"Improvements": {},
 				"Production": {
 					"66827062405f392b203a44cf": {
-						"Progress": 17299,
+						"Progress": 17284,
 						"inProgress": true,
 						"RecipeId": "66827062405f392b203a44cf",
 						"StartTimestamp": "1746545637",
@@ -3860,7 +3860,7 @@
 				},
 				"HideoutCounters": null,
 				"Seed": 1997640159,
-				"sptUpdateLastRunTimestamp": 1746562922
+				"sptUpdateLastRunTimestamp": 1746562907
 			},
 			"Info": {
 				"AccountType": 0,
