@@ -2710,6 +2710,12 @@
 					"value": 0,
 					"sourceId": "5eda19f0edce541157209cee",
 					"type": "CounterCreator"
+				},
+				"673f5d6fdd6ed700c703afdc": {
+					"id": "6666d7ea0b734650a91d0a42",
+					"type": "673f5d6fdd6ed700c703afdc",
+					"sourceId": "CounterCrafting",
+					"value": 60
 				}
 			},
 			"Bonuses": [
@@ -3298,18 +3304,18 @@
 					}
 				},
 				"Energy": {
-					"Current": 78,
+					"Current": 0,
 					"Maximum": 100
 				},
 				"Hydration": {
-					"Current": 91,
+					"Current": 25,
 					"Maximum": 100
 				},
 				"Temperature": {
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1746624693
+				"UpdateTime": 1746622070
 			},
 			"Hideout": {
 				"Areas": [
@@ -3370,8 +3376,8 @@
 										"upd": {
 											"StackObjectsCount": 1,
 											"Resource": {
-												"Value": 93.663,
-												"UnitsConsumed": 6.337
+												"Value": 94.351,
+												"UnitsConsumed": 5.649
 											},
 											"SpawnedInSession": false
 										}
@@ -3850,7 +3856,7 @@
 				"Improvements": {},
 				"Production": {
 					"66827062405f392b203a44cf": {
-						"Progress": 12028,
+						"Progress": 11482,
 						"inProgress": true,
 						"RecipeId": "66827062405f392b203a44cf",
 						"StartTimestamp": "1746612696",
@@ -3939,7 +3945,7 @@
 				},
 				"HideoutCounters": null,
 				"Seed": 1997640159,
-				"sptUpdateLastRunTimestamp": 1746624721
+				"sptUpdateLastRunTimestamp": 1746624175
 			},
 			"Info": {
 				"AccountType": 0,
@@ -29542,14 +29548,6 @@
 					"standing": 0.48,
 					"nextResupply": 1745353561,
 					"unlocked": true
-				},
-				"66bf1f65e1f3b83ea069a271": {
-					"disabled": false,
-					"loyaltyLevel": 1,
-					"salesSum": 0,
-					"standing": 0,
-					"nextResupply": 1746626441,
-					"unlocked": true
 				}
 			},
 			"UnlockedInfo": {
@@ -46432,18 +46430,6 @@
 				"dateAdded": 1746563547968,
 				"name": "betterkeys-updated",
 				"version": "1.3.0"
-			},
-			{
-				"author": "Delod",
-				"dateAdded": 1746624693190,
-				"name": "arena-lockbox-mod",
-				"version": "1.0.0"
-			},
-			{
-				"author": "dirtbikercj",
-				"dateAdded": 1746624693190,
-				"name": "Skills Extended",
-				"version": "1.4.1"
 			}
 		],
 		"receivedGifts": [
