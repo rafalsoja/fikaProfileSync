@@ -31201,42 +31201,10 @@
 						]
 					},
 					"maxStorageTime": 345600
-				},
-				{
-					"_id": "681b307080fb2b5ab43208ee",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746612337,
-					"text": "",
-					"templateId": "595f995d86f77476b51172ee 1",
-					"hasRewards": false,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "06.05.2025",
-						"time": "22:01",
-						"location": "bigmap"
-					},
-					"items": {}
-				},
-				{
-					"_id": "681b307080fb2b5ab43208f0",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746612337,
-					"text": "",
-					"templateId": "595f995d86f77476b51172ee 0",
-					"hasRewards": false,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "06.05.2025",
-						"time": "23:00",
-						"location": "bigmap"
-					},
-					"items": {}
 				}
 			],
 			"pinned": false,
-			"new": 6,
+			"new": 4,
 			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
@@ -36335,7 +36303,82 @@
 	"inraid": {
 		"location": "bigmap"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1746582989,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "06.05.2025",
+				"time": "22:01",
+				"location": "bigmap"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 3",
+			"items": [
+				{
+					"_id": "680e58b4525d3e1698347ff6",
+					"_tpl": "5e01ef6886f77445f643baa4",
+					"slotId": "Headwear",
+					"parentId": "6807f47a8e1b6367e4325ee3"
+				},
+				{
+					"_id": "680e58b4525d3e1698347ff7",
+					"_tpl": "5e01f31d86f77465cf261343",
+					"slotId": "mod_equipment_000",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 8,
+							"Durability": 8
+						}
+					},
+					"parentId": "680e58b4525d3e1698347ff6"
+				},
+				{
+					"_id": "680e58b4525d3e1698347ff8",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"slotId": "helmet_top",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 55,
+							"Durability": 55
+						}
+					},
+					"parentId": "680e58b4525d3e1698347ff6"
+				},
+				{
+					"_id": "680e58b4525d3e1698347ff9",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"slotId": "helmet_back",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 55,
+							"Durability": 55
+						}
+					},
+					"parentId": "680e58b4525d3e1698347ff6"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1746584151,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "06.05.2025",
+				"time": "23:00",
+				"location": "bigmap"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 2",
+			"items": [
+				{
+					"_id": "681733123e534a184c35b5e5",
+					"_tpl": "6033fa48ffd42c541047f728"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"5935c25fb3acc3127c3d8cd9": {},
 		"54cb57776803fa99248b456e": {},
