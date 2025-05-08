@@ -8624,65 +8624,7 @@
 					"templateId": "5fd4c8d49e4b2a58b34bbd29 0",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "64b996c9d0de4697180359b6",
-						"data": [
-							{
-								"_id": "681a0c777b90f02cf44d09bf",
-								"_tpl": "5751a25924597722c463c472",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 1
-								},
-								"parentId": "64b996c9d0de4697180359b6"
-							},
-							{
-								"_id": "681a0c777b90f02cf44d09c0",
-								"_tpl": "5751a25924597722c463c472",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 1
-								},
-								"parentId": "64b996c9d0de4697180359b6"
-							},
-							{
-								"_id": "681a0c777b90f02cf44d09c1",
-								"_tpl": "5ca20d5986f774331e7c9602",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 1
-								},
-								"parentId": "64b996c9d0de4697180359b6"
-							},
-							{
-								"_id": "681a0c777b90f02cf44d09c2",
-								"_tpl": "5755356824597772cb798962",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 1
-								},
-								"parentId": "64b996c9d0de4697180359b6"
-							},
-							{
-								"_id": "681a0c777b90f02cf44d09c3",
-								"_tpl": "5755356824597772cb798962",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 1
-								},
-								"parentId": "64b996c9d0de4697180359b6"
-							},
-							{
-								"_id": "681a0c777b90f02cf44d09c4",
-								"_tpl": "5755356824597772cb798962",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 1
-								},
-								"parentId": "64b996c9d0de4697180359b6"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
