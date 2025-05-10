@@ -36649,77 +36649,11 @@
 						"location": "factory4_night"
 					},
 					"items": {}
-				},
-				{
-					"_id": "681ee6c413681f3f5c2ed120",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746855621,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 0",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "09.05.2025",
-						"time": "20:41",
-						"location": "factory4_night"
-					},
-					"items": {
-						"stash": "681ee6c413681f3f5c2ed11f",
-						"data": [
-							{
-								"_id": "681ee6c413681f3f5c2ed121",
-								"_tpl": "6033fa48ffd42c541047f728",
-								"parentId": "681ee6c413681f3f5c2ed11f",
-								"slotId": "main"
-							}
-						]
-					},
-					"maxStorageTime": 345600
-				},
-				{
-					"_id": "681ee6c413681f3f5c2ed123",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746855621,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 4",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "09.05.2025",
-						"time": "22:49",
-						"location": "woods"
-					},
-					"items": {
-						"stash": "681ee6c413681f3f5c2ed122",
-						"data": [
-							{
-								"_id": "681ee6c413681f3f5c2ed124",
-								"_tpl": "5a398ab9c4a282000c5a9842",
-								"parentId": "681ee6c413681f3f5c2ed122",
-								"slotId": "main"
-							},
-							{
-								"_id": "681ee6c413681f3f5c2ed125",
-								"_tpl": "57d17c5e2459775a5c57d17d",
-								"slotId": "mod_flashlight",
-								"upd": {
-									"Light": {
-										"IsActive": true,
-										"SelectedMode": 0
-									}
-								},
-								"parentId": "681ee6c413681f3f5c2ed124"
-							}
-						]
-					},
-					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 3,
-			"attachmentsNew": 2
+			"new": 1,
+			"attachmentsNew": 0
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -42865,7 +42799,56 @@
 	"inraid": {
 		"location": "Woods"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1746834559,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "09.05.2025",
+				"time": "20:41",
+				"location": "factory4_night"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 0",
+			"items": [
+				{
+					"_id": "681e56d1ed2a7a57a437e848",
+					"_tpl": "6033fa48ffd42c541047f728"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1746843159,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "09.05.2025",
+				"time": "22:49",
+				"location": "woods"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 4",
+			"items": [
+				{
+					"_id": "681e57afed2a7a57a437f5b0",
+					"_tpl": "5a398ab9c4a282000c5a9842"
+				},
+				{
+					"_id": "681e57b5ed2a7a57a437f5b1",
+					"_tpl": "57d17c5e2459775a5c57d17d",
+					"slotId": "mod_flashlight",
+					"upd": {
+						"Light": {
+							"IsActive": true,
+							"SelectedMode": 0
+						}
+					},
+					"parentId": "681e57afed2a7a57a437f5b0"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"54cb50c76803fa8b248b4571": {},
 		"5c0647fdd443bc2504c2d371": {},
