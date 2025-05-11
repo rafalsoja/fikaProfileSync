@@ -39873,7 +39873,10 @@
 						"time": "21:59",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "681ab1e5bf178f32983fc8c8",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -39906,7 +39909,10 @@
 						"time": "00:35",
 						"location": "shoreline"
 					},
-					"items": {},
+					"items": {
+						"stash": "681b307080fb2b5ab43208f1",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -39923,7 +39929,10 @@
 						"time": "01:36",
 						"location": "shoreline"
 					},
-					"items": {},
+					"items": {
+						"stash": "681b307080fb2b5ab43208f6",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -40543,81 +40552,11 @@
 					"hasRewards": false,
 					"rewardCollected": false,
 					"items": {}
-				},
-				{
-					"_id": "68207081650ba524fc2ed291",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746956418,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 2",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "10.05.2025",
-						"time": "21:20",
-						"location": "shoreline"
-					},
-					"items": {
-						"stash": "68207081650ba524fc2ed290",
-						"data": [
-							{
-								"_id": "68207081650ba524fc2ed292",
-								"_tpl": "5e4d34ca86f774264f758330",
-								"slotId": "main",
-								"parentId": "68207081650ba524fc2ed290"
-							}
-						]
-					},
-					"maxStorageTime": 345600
-				},
-				{
-					"_id": "68207081650ba524fc2ed294",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746956418,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 2",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "10.05.2025",
-						"time": "22:40",
-						"location": "rezervbase"
-					},
-					"items": {
-						"stash": "68207081650ba524fc2ed293",
-						"data": [
-							{
-								"_id": "68207081650ba524fc2ed295",
-								"_tpl": "5ac66c5d5acfc4001718d314",
-								"parentId": "68207081650ba524fc2ed293",
-								"slotId": "main"
-							}
-						]
-					},
-					"maxStorageTime": 345600
-				},
-				{
-					"_id": "68207081650ba524fc2ed297",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1746956418,
-					"text": "",
-					"templateId": "595f995d86f77476b51172ee 1",
-					"hasRewards": false,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "10.05.2025",
-						"time": "23:47",
-						"location": "rezervbase"
-					},
-					"items": {}
 				}
 			],
 			"pinned": false,
-			"new": 5,
-			"attachmentsNew": 2
+			"new": 2,
+			"attachmentsNew": 0
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -44973,151 +44912,11 @@
 						]
 					},
 					"maxStorageTime": 604800
-				},
-				{
-					"_id": "68209009650ba524fc3460f3",
-					"uid": "59e7125688a45068a6249071",
-					"type": 7,
-					"dt": 1746964489,
-					"text": "You have received a gift from Cichaj",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": [
-							{
-								"_id": "68209009650ba524fc3460f4",
-								"_tpl": "5ae08f0a5acfc408fb1398a1",
-								"slotId": "main",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 100,
-										"Durability": 97.89394
-									},
-									"FireMode": {
-										"FireMode": "single"
-									},
-									"SpawnedInSession": false
-								},
-								"parentId": "5fe4977574f15b4ad31b66b6",
-								"location": {
-									"x": 1,
-									"y": 14,
-									"r": "Horizontal"
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460f5",
-								"_tpl": "5d25a6a48abbc306c64e6310",
-								"slotId": "mod_magazine",
-								"parentId": "68209009650ba524fc3460f4",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460f6",
-								"_tpl": "558ada594bdc2db9688b456a",
-								"slotId": "mod_stock",
-								"parentId": "68209009650ba524fc3460f4",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460f7",
-								"_tpl": "59e0bdb186f774156f04ce82",
-								"slotId": "mod_mount_000",
-								"parentId": "68209009650ba524fc3460f6",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460f8",
-								"_tpl": "560d657b4bdc2da74d8b4572",
-								"slotId": "mod_tactical",
-								"upd": {
-									"Light": {
-										"IsActive": false,
-										"SelectedMode": 0
-									},
-									"SpawnedInSession": false
-								},
-								"parentId": "68209009650ba524fc3460f7"
-							},
-							{
-								"_id": "68209009650ba524fc3460f9",
-								"_tpl": "5ae09bff5acfc4001562219d",
-								"slotId": "mod_barrel",
-								"parentId": "68209009650ba524fc3460f4",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460fa",
-								"_tpl": "5cf67a1bd7f00c06585fb6f3",
-								"slotId": "mod_muzzle",
-								"parentId": "68209009650ba524fc3460f9",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460fb",
-								"_tpl": "59fb257e86f7742981561852",
-								"slotId": "mod_muzzle",
-								"parentId": "68209009650ba524fc3460fa",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460fc",
-								"_tpl": "5b3f7bf05acfc433000ecf6b",
-								"slotId": "mod_mount",
-								"parentId": "68209009650ba524fc3460f4",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460fd",
-								"_tpl": "5d024f5cd7ad1a04a067e91a",
-								"slotId": "mod_mount",
-								"parentId": "68209009650ba524fc3460fc",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68209009650ba524fc3460fe",
-								"_tpl": "570fd6c2d2720bc6458b457f",
-								"slotId": "mod_scope",
-								"upd": {
-									"Sight": {
-										"ScopesCurrentCalibPointIndexes": [
-											0
-										],
-										"ScopesSelectedModes": [
-											0
-										],
-										"SelectedScope": 0,
-										"ScopeZoomValue": 0
-									},
-									"SpawnedInSession": false
-								},
-								"parentId": "68209009650ba524fc3460fd"
-							}
-						]
-					},
-					"maxStorageTime": 604800
 				}
 			],
 			"pinned": false,
-			"new": 3,
-			"attachmentsNew": 3
+			"new": 2,
+			"attachmentsNew": 2
 		},
 		"5c0647fdd443bc2504c2d371": {
 			"_id": "5c0647fdd443bc2504c2d371",
@@ -47469,7 +47268,100 @@
 	"inraid": {
 		"location": "RezervBase"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1746924262,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "10.05.2025",
+				"time": "21:20",
+				"location": "shoreline"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 2",
+			"items": [
+				{
+					"_id": "681b307080fb2b5ab43208fa",
+					"_tpl": "5e4d34ca86f774264f758330",
+					"slotId": "Earpiece",
+					"parentId": "681fb9d0915cdd45e030e0e6"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1746929114,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "10.05.2025",
+				"time": "22:40",
+				"location": "rezervbase"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 2",
+			"items": [
+				{
+					"_id": "681fb61e915cdd45e0305ab6",
+					"_tpl": "5ac66c5d5acfc4001718d314"
+				},
+				{
+					"_id": "681e56d3ed2a7a57a437e84a",
+					"_tpl": "5e4bfc1586f774264f7582d3"
+				},
+				{
+					"_id": "681e56d3ed2a7a57a437e84c",
+					"_tpl": "657f9c78ada5fadd1f07a58d",
+					"slotId": "Helmet_top",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 65,
+							"Durability": 65
+						}
+					},
+					"parentId": "681e56d3ed2a7a57a437e84a"
+				},
+				{
+					"_id": "681e56d3ed2a7a57a437e84d",
+					"_tpl": "657f9cb587e11c61f70bfaca",
+					"slotId": "Helmet_back",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 65,
+							"Durability": 48.9723473
+						}
+					},
+					"parentId": "681e56d3ed2a7a57a437e84a"
+				}
+			]
+		},
+		{
+			"scheduledTime": 1746933942,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "10.05.2025",
+				"time": "23:47",
+				"location": "rezervbase"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 2",
+			"items": [
+				{
+					"_id": "681fb61f915cdd45e0305ab8",
+					"_tpl": "5ac66c5d5acfc4001718d314"
+				},
+				{
+					"_id": "6f3ef6474132b19dfbe1b27d",
+					"_tpl": "5648ac824bdc2ded0b8b457d"
+				},
+				{
+					"_id": "681fb540915cdd45e0305249",
+					"_tpl": "5e9dcf5986f7746c417435b3"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"54cb50c76803fa8b248b4571": {},
 		"5c0647fdd443bc2504c2d371": {},
