@@ -41910,7 +41910,10 @@
 						"time": "14:32",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "681b9158d2c23363703e21b8",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
