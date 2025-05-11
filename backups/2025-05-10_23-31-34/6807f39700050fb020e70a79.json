@@ -35891,7 +35891,10 @@
 						"time": "20:05",
 						"location": "sandbox_high"
 					},
-					"items": {},
+					"items": {
+						"stash": "681aa172bf178f329837db34",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{

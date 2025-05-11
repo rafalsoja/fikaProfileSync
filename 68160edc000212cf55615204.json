@@ -205,7 +205,7 @@
 				},
 				"65141df0e69594cf853a40b9": {
 					"id": "65141df0e69594cf853a40b9",
-					"value": 21,
+					"value": 23,
 					"sourceId": "65141dd6303df252af1c72c9",
 					"type": "CounterCreator"
 				},
@@ -307,7 +307,7 @@
 				},
 				"6512f83596d92e790ada99b0": {
 					"id": "6512f83596d92e790ada99b0",
-					"value": 0,
+					"value": 2,
 					"sourceId": "6512eb3ddfb0ae1ee75a0376",
 					"type": "CounterCreator"
 				},
@@ -895,7 +895,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1746912027
+				"UpdateTime": 1746920879
 			},
 			"Hideout": {
 				"Areas": [
@@ -1390,18 +1390,18 @@
 				"Production": {},
 				"Seed": 1998564060,
 				"HideoutCounters": null,
-				"sptUpdateLastRunTimestamp": 1746912645
+				"sptUpdateLastRunTimestamp": 1746924664
 			},
 			"Info": {
 				"AccountType": 0,
 				"BannedState": false,
 				"BannedUntil": 0,
 				"Bans": [],
-				"Experience": 2124013,
+				"Experience": 2359760,
 				"GameVersion": "edge_of_darkness",
 				"IsStreamerModeAvailable": false,
 				"LastTimePlayedAsSavage": 0,
-				"Level": 38,
+				"Level": 39,
 				"LowerNickname": "dedicated_68160edc0000f903e584abb0",
 				"MemberCategory": 2,
 				"isMigratedSkills": false,
@@ -5017,9 +5017,9 @@
 					},
 					{
 						"Id": "StressResistance",
-						"Progress": 4.75199938,
+						"Progress": 6.59999943,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746912020
+						"LastAccess": 1746920874
 					},
 					{
 						"Id": "Metabolism",
@@ -5037,7 +5037,7 @@
 						"Id": "Perception",
 						"Progress": 0,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746912020
+						"LastAccess": 1746920874
 					},
 					{
 						"Id": "Intellect",
@@ -5055,7 +5055,7 @@
 						"Id": "Charisma",
 						"Progress": 300,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746912020
+						"LastAccess": 1746920874
 					},
 					{
 						"Id": "Pistol",
@@ -5167,9 +5167,9 @@
 					},
 					{
 						"Id": "MagDrills",
-						"Progress": 30.20002,
+						"Progress": 41.40003,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1746909569
+						"LastAccess": 1746918838
 					},
 					{
 						"Id": "FieldMedicine",
@@ -5272,7 +5272,7 @@
 								"Key": [
 									"Kills"
 								],
-								"Value": 9
+								"Value": 15
 							},
 							{
 								"Key": [
@@ -5280,7 +5280,7 @@
 									"ExpKill",
 									"ExpKillBase"
 								],
-								"Value": 4519
+								"Value": 1847
 							}
 						]
 					},
