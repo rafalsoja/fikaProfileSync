@@ -35783,7 +35783,10 @@
 					"templateId": "669fa399033a3ce9870338a8 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a5e1e7b90f02cf4011c8e",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -35998,7 +36001,10 @@
 						"time": "21:30",
 						"location": "shoreline"
 					},
-					"items": {},
+					"items": {
+						"stash": "681c7e4d8ecd6f2dc43209fb",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -37138,7 +37144,10 @@
 						"time": "17:08",
 						"location": "interchange"
 					},
-					"items": {},
+					"items": {
+						"stash": "681a5ce97b90f02cf47f89a8",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -37155,7 +37164,10 @@
 						"time": "18:03",
 						"location": "interchange"
 					},
-					"items": {},
+					"items": {
+						"stash": "681a68b27b90f02cf403287f",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -37172,7 +37184,10 @@
 						"time": "18:25",
 						"location": "factory4_day"
 					},
-					"items": {},
+					"items": {
+						"stash": "681a6d687b90f02cf406dbdc",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -37707,7 +37722,10 @@
 					"templateId": "596b455186f77457cb50eccb successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a548b7b90f02cf47a21a4",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -38020,7 +38038,10 @@
 					"templateId": "5ac2426c86f774138762edfe successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a33507b90f02cf46a1c5d",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -38346,7 +38367,41 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {},
+					"items": {
+						"stash": "681a50357b90f02cf475bb17",
+						"data": [
+							{
+								"_id": "681a50357b90f02cf475bb18",
+								"_tpl": "5449016a4bdc2d6f028b456f",
+								"upd": {
+									"StackObjectsCount": 22140,
+									"SpawnedInSession": true
+								},
+								"parentId": "681a50357b90f02cf475bb17",
+								"slotId": "main"
+							},
+							{
+								"_id": "681a50357b90f02cf475bb19",
+								"_tpl": "5d235b4d86f7742e017bc88a",
+								"upd": {
+									"StackObjectsCount": 4,
+									"SpawnedInSession": true
+								},
+								"parentId": "681a50357b90f02cf475bb17",
+								"slotId": "main"
+							},
+							{
+								"_id": "681a50357b90f02cf475bb1a",
+								"_tpl": "590a3efd86f77437d351a25b",
+								"upd": {
+									"StackObjectsCount": 1,
+									"SpawnedInSession": true
+								},
+								"parentId": "681a50357b90f02cf475bb17",
+								"slotId": "main"
+							}
+						]
+					},
 					"maxStorageTime": 518400
 				}
 			],
@@ -38765,7 +38820,10 @@
 					"templateId": "67618f93c508b3ae798a0239 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a35357b90f02cf46a53b5",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -38777,7 +38835,10 @@
 					"templateId": "67475931380e79bc84d831b9 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a6c427b90f02cf406c992",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -39898,7 +39959,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -39909,7 +39973,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "680cd6f267d4b6753036eb6f",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -39920,7 +39987,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -39931,7 +40001,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -39942,7 +40015,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -39953,7 +40029,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -39964,7 +40043,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -42094,7 +42176,10 @@
 					"templateId": "66b38e144f2ab7cc530c3fe7 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a54b67b90f02cf47a21a9",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -42325,7 +42410,10 @@
 					"templateId": "5ae448e586f7744dcf0c2a67 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a50137b90f02cf475bb0c",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
