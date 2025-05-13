@@ -205,7 +205,7 @@
 				},
 				"65141df0e69594cf853a40b9": {
 					"id": "65141df0e69594cf853a40b9",
-					"value": 29,
+					"value": 30,
 					"sourceId": "65141dd6303df252af1c72c9",
 					"type": "CounterCreator"
 				},
@@ -307,7 +307,7 @@
 				},
 				"6512f83596d92e790ada99b0": {
 					"id": "6512f83596d92e790ada99b0",
-					"value": 2,
+					"value": 3,
 					"sourceId": "6512eb3ddfb0ae1ee75a0376",
 					"type": "CounterCreator"
 				},
@@ -895,7 +895,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1747140277
+				"UpdateTime": 1747167822
 			},
 			"Hideout": {
 				"Areas": [
@@ -1390,7 +1390,7 @@
 				"Production": {},
 				"Seed": 1998564060,
 				"HideoutCounters": null,
-				"sptUpdateLastRunTimestamp": 1747142454
+				"sptUpdateLastRunTimestamp": 1747171352
 			},
 			"Info": {
 				"AccountType": 0,
@@ -5017,9 +5017,9 @@
 					},
 					{
 						"Id": "StressResistance",
-						"Progress": 12.1439981,
+						"Progress": 13.0679979,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747140270
+						"LastAccess": 1747167817
 					},
 					{
 						"Id": "Metabolism",
@@ -5037,7 +5037,7 @@
 						"Id": "Perception",
 						"Progress": 0,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747140270
+						"LastAccess": 1747167817
 					},
 					{
 						"Id": "Intellect",
@@ -5055,7 +5055,7 @@
 						"Id": "Charisma",
 						"Progress": 300,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747140270
+						"LastAccess": 1747167817
 					},
 					{
 						"Id": "Pistol",
@@ -5167,9 +5167,9 @@
 					},
 					{
 						"Id": "MagDrills",
-						"Progress": 75.00006,
+						"Progress": 80.60007,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747139293
+						"LastAccess": 1747165401
 					},
 					{
 						"Id": "FieldMedicine",
@@ -5263,16 +5263,9 @@
 						"Items": [
 							{
 								"Key": [
-									"Exp",
-									"ExpEnergy"
-								],
-								"Value": 11
-							},
-							{
-								"Key": [
 									"Kills"
 								],
-								"Value": 15
+								"Value": 24
 							},
 							{
 								"Key": [
@@ -5280,7 +5273,7 @@
 									"ExpKill",
 									"ExpKillBase"
 								],
-								"Value": 2119
+								"Value": 3567
 							}
 						]
 					},
