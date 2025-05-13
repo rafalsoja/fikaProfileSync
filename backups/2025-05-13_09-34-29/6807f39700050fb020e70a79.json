@@ -35843,7 +35843,10 @@
 					"templateId": "5967725e86f774601a446662 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a961bd9936d3a58482575",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -37213,7 +37216,10 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a9614d9936d3a5848256e",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -37230,7 +37236,10 @@
 						"time": "22:01",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "681aa172bf178f329837db37",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -37247,7 +37256,10 @@
 						"time": "23:00",
 						"location": "bigmap"
 					},
-					"items": {},
+					"items": {
+						"stash": "681aa87ebf178f32983a1b80",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{

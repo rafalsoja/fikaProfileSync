@@ -39810,7 +39810,10 @@
 					"templateId": "5967530a86f77462ba22226b successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a87f0d9936d3a5842df2f",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -40078,7 +40081,10 @@
 						"time": "18:10",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "681d287cf37fc64ca430567e",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -40095,7 +40101,10 @@
 						"time": "19:13",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "681d31e9f37fc64ca431c726",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -41146,7 +41155,10 @@
 					"templateId": "5969f9e986f7741dde183a50 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a9945d9936d3a584aea0a",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -41245,7 +41257,10 @@
 						"time": "00:35",
 						"location": "shoreline"
 					},
-					"items": {},
+					"items": {
+						"stash": "681abdabbf178f3298441a71",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -42197,7 +42212,10 @@
 					"templateId": "5c1234c286f77406fa13baeb successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681b5b5e527d380a4c416f01",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -42492,7 +42510,10 @@
 					"templateId": "painter_5 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a8810d9936d3a5842df49",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -42759,7 +42780,10 @@
 					"templateId": "5ac345dc86f774288030817f successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681a780bd9936d3a583c70a7",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -42782,7 +42806,10 @@
 					"templateId": "5ac3460c86f7742880308185 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681ab99abf178f3298424ec0",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45083,40 +45110,11 @@
 						]
 					},
 					"maxStorageTime": 604800
-				},
-				{
-					"_id": "68234387ed56f5618c371966",
-					"uid": "59e7125688a45068a6249071",
-					"type": 7,
-					"dt": 1747141511,
-					"text": "You have received a gift from Cichaj",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": [
-							{
-								"_id": "68234387ed56f5618c371967",
-								"_tpl": "5649ab884bdc2ded0b8b457f",
-								"slotId": "main",
-								"location": {
-									"x": 1,
-									"y": 17,
-									"r": "Horizontal"
-								},
-								"parentId": "5fe4977574f15b4ad31b66b6",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							}
-						]
-					},
-					"maxStorageTime": 604800
 				}
 			],
 			"pinned": false,
-			"new": 4,
-			"attachmentsNew": 4
+			"new": 3,
+			"attachmentsNew": 3
 		},
 		"5c0647fdd443bc2504c2d371": {
 			"_id": "5c0647fdd443bc2504c2d371",
@@ -46224,7 +46222,10 @@
 					"templateId": "5a27b75b86f7742e97191958 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681ab969bf178f3298424eaf",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -46247,7 +46248,10 @@
 					"templateId": "5a27b7a786f774579c3eb376 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681b5b62527d380a4c416f1b",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
