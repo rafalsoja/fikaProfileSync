@@ -205,7 +205,7 @@
 				},
 				"65141df0e69594cf853a40b9": {
 					"id": "65141df0e69594cf853a40b9",
-					"value": 30,
+					"value": 31,
 					"sourceId": "65141dd6303df252af1c72c9",
 					"type": "CounterCreator"
 				},
@@ -295,7 +295,7 @@
 				},
 				"6512f4fb1ea20e8cd761de2a": {
 					"id": "6512f4fb1ea20e8cd761de2a",
-					"value": 4,
+					"value": 5,
 					"sourceId": "6512eb3ddfb0ae1ee75a0376",
 					"type": "CounterCreator"
 				},
@@ -895,7 +895,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1747167822
+				"UpdateTime": 1747313780
 			},
 			"Hideout": {
 				"Areas": [
@@ -1390,7 +1390,7 @@
 				"Production": {},
 				"Seed": 1998564060,
 				"HideoutCounters": null,
-				"sptUpdateLastRunTimestamp": 1747171352
+				"sptUpdateLastRunTimestamp": 1747314471
 			},
 			"Info": {
 				"AccountType": 0,
@@ -4970,6 +4970,56 @@
 					},
 					"completedConditions": [],
 					"availableAfter": 0
+				},
+				{
+					"qid": "6825da4def4df20ae7000001",
+					"startTime": 0,
+					"status": 1,
+					"statusTimers": {
+						"1": 1747311179.833
+					},
+					"completedConditions": [],
+					"availableAfter": 0
+				},
+				{
+					"qid": "6825da4def4df20ae7000007",
+					"startTime": 0,
+					"status": 1,
+					"statusTimers": {
+						"1": 1747311179.833
+					},
+					"completedConditions": [],
+					"availableAfter": 0
+				},
+				{
+					"qid": "6825da4def4df20ae700000a",
+					"startTime": 0,
+					"status": 1,
+					"statusTimers": {
+						"1": 1747311179.833
+					},
+					"completedConditions": [],
+					"availableAfter": 0
+				},
+				{
+					"qid": "6825da4def4df20ae700000f",
+					"startTime": 0,
+					"status": 1,
+					"statusTimers": {
+						"1": 1747311179.833
+					},
+					"completedConditions": [],
+					"availableAfter": 0
+				},
+				{
+					"qid": "6825da4def4df20ae7000015",
+					"startTime": 0,
+					"status": 1,
+					"statusTimers": {
+						"1": 1747311179.833
+					},
+					"completedConditions": [],
+					"availableAfter": 0
 				}
 			],
 			"RagfairInfo": {
@@ -5017,9 +5067,9 @@
 					},
 					{
 						"Id": "StressResistance",
-						"Progress": 13.0679979,
+						"Progress": 13.9919977,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747167817
+						"LastAccess": 1747313775
 					},
 					{
 						"Id": "Metabolism",
@@ -5037,7 +5087,7 @@
 						"Id": "Perception",
 						"Progress": 0,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747167817
+						"LastAccess": 1747313775
 					},
 					{
 						"Id": "Intellect",
@@ -5055,7 +5105,7 @@
 						"Id": "Charisma",
 						"Progress": 300,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747167817
+						"LastAccess": 1747313775
 					},
 					{
 						"Id": "Pistol",
@@ -5167,9 +5217,9 @@
 					},
 					{
 						"Id": "MagDrills",
-						"Progress": 80.60007,
+						"Progress": 86.20007,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1747165401
+						"LastAccess": 1747311511
 					},
 					{
 						"Id": "FieldMedicine",
@@ -5265,7 +5315,7 @@
 								"Key": [
 									"Kills"
 								],
-								"Value": 24
+								"Value": 14
 							},
 							{
 								"Key": [
@@ -5273,7 +5323,7 @@
 									"ExpKill",
 									"ExpKillBase"
 								],
-								"Value": 3567
+								"Value": 1783
 							}
 						]
 					},
@@ -5431,6 +5481,887 @@
 					"id": "615ffc701c97c768137e719b",
 					"name": "Daily",
 					"activeQuests": [
+						{
+							"_id": "6825da4def4df20ae7000001",
+							"traderId": "54cb57776803fa99248b456e",
+							"location": "55f2d3fd4bdc2d5f408b4567",
+							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+							"type": "Exploration",
+							"isKey": false,
+							"restartable": false,
+							"instantComplete": false,
+							"secretQuest": false,
+							"canShowNotificationsInGame": true,
+							"rewards": {
+								"Started": [],
+								"Success": [
+									{
+										"id": "6825da4db57f7d1f542ef218",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": -1,
+										"value": 15964,
+										"type": "Experience"
+									},
+									{
+										"id": "6825da4db57f7d1f542ef219",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 0,
+										"target": "6825da4d3d7fa8ee53000001",
+										"value": 30636,
+										"isEncoded": false,
+										"findInRaid": false,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000001",
+												"_tpl": "5449016a4bdc2d6f028b456f",
+												"upd": {
+													"StackObjectsCount": 30636,
+													"SpawnedInSession": false
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef21a",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 1,
+										"target": "6825da4d3d7fa8ee53000002",
+										"value": 5,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000002",
+												"_tpl": "5d235b4d86f7742e017bc88a",
+												"upd": {
+													"StackObjectsCount": 5,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef21b",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 2,
+										"target": "6825da4d3d7fa8ee53000003",
+										"value": 1,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000003",
+												"_tpl": "5672cb724bdc2dc2088b456b",
+												"upd": {
+													"StackObjectsCount": 1,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef21c",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"target": "54cb57776803fa99248b456e",
+										"value": 0.02,
+										"type": "TraderStanding",
+										"index": 3
+									}
+								],
+								"Fail": []
+							},
+							"conditions": {
+								"AvailableForStart": [],
+								"AvailableForFinish": [
+									{
+										"id": "6825da4def4df20ae7000006",
+										"index": 0,
+										"dynamicLocale": true,
+										"visibilityConditions": [],
+										"globalQuestCounterId": "",
+										"parentId": "",
+										"value": 2,
+										"type": "Completion",
+										"oneSessionOnly": false,
+										"completeInSeconds": 0,
+										"doNotResetIfCounterCompleted": false,
+										"counter": {
+											"id": "6825da4def4df20ae7000005",
+											"conditions": [
+												{
+													"id": "6825da4def4df20ae7000003",
+													"dynamicLocale": true,
+													"status": [
+														"Survived"
+													],
+													"conditionType": "ExitStatus"
+												},
+												{
+													"id": "6825da4def4df20ae7000004",
+													"dynamicLocale": true,
+													"target": [
+														"factory4_day",
+														"factory4_night"
+													],
+													"conditionType": "Location"
+												}
+											]
+										},
+										"conditionType": "CounterCreator"
+									}
+								],
+								"Fail": []
+							},
+							"side": "Pmc",
+							"name": "616041eb031af660100c9967 name 54cb57776803fa99248b456e",
+							"note": "616041eb031af660100c9967 note 54cb57776803fa99248b456e",
+							"description": "Ah, mercenary, do you want to do a good deed? My clients are asking to ensure a safe area to conduct a specific secret operation. I would like to appoint you for this, as you are the most competent of the local workers. You will have to survey the area and report back to me. Good luck.",
+							"successMessageText": "Marvelous, young man. Thank you for some fine work.",
+							"failMessageText": "616041eb031af660100c9967 failMessageText 54cb57776803fa99248b456e 0",
+							"startedMessageText": "616041eb031af660100c9967 startedMessageText 54cb57776803fa99248b456e 0",
+							"changeQuestMessageText": "616041eb031af660100c9967 changeQuestMessageText 54cb57776803fa99248b456e 0",
+							"acceptPlayerMessage": "616041eb031af660100c9967 acceptPlayerMessage 54cb57776803fa99248b456e",
+							"declinePlayerMessage": "616041eb031af660100c9967 declinePlayerMessage 54cb57776803fa99248b456e",
+							"completePlayerMessage": "616041eb031af660100c9967 completePlayerMessage 54cb57776803fa99248b456e",
+							"status": 0,
+							"acceptanceAndFinishingSource": "eft",
+							"progressSource": "eft",
+							"rankingModes": [],
+							"gameModes": [],
+							"arenaLocations": [],
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0,
+							"questStatus": {
+								"id": "6825da4def4df20ae7000002",
+								"uid": "68160edc000212cf55615204",
+								"qid": "6825da4def4df20ae7000001",
+								"startTime": 0,
+								"status": 1,
+								"statusTimers": {}
+							},
+							"templateId": "616041eb031af660100c9967"
+						},
+						{
+							"_id": "6825da4def4df20ae7000007",
+							"traderId": "5a7c2eca46aef81a7ca2145d",
+							"location": "any",
+							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+							"type": "Completion",
+							"isKey": false,
+							"restartable": false,
+							"instantComplete": false,
+							"secretQuest": false,
+							"canShowNotificationsInGame": true,
+							"rewards": {
+								"Started": [],
+								"Success": [
+									{
+										"id": "6825da4db57f7d1f542ef21d",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": -1,
+										"value": 26683,
+										"type": "Experience"
+									},
+									{
+										"id": "6825da4db57f7d1f542ef21e",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 0,
+										"target": "6825da4d3d7fa8ee53000004",
+										"value": 52410,
+										"isEncoded": false,
+										"findInRaid": false,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000004",
+												"_tpl": "5449016a4bdc2d6f028b456f",
+												"upd": {
+													"StackObjectsCount": 52410,
+													"SpawnedInSession": false
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef21f",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 1,
+										"target": "6825da4d3d7fa8ee53000005",
+										"value": 5,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000005",
+												"_tpl": "5d235b4d86f7742e017bc88a",
+												"upd": {
+													"StackObjectsCount": 5,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef220",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 2,
+										"target": "6825da4d3d7fa8ee53000006",
+										"value": 1,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000006",
+												"_tpl": "564caa3d4bdc2d17108b458e",
+												"upd": {
+													"StackObjectsCount": 1,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef221",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"target": "5a7c2eca46aef81a7ca2145d",
+										"value": 0.02,
+										"type": "TraderStanding",
+										"index": 3
+									}
+								],
+								"Fail": []
+							},
+							"conditions": {
+								"AvailableForStart": [],
+								"AvailableForFinish": [
+									{
+										"id": "6825da4def4df20ae7000009",
+										"index": 0,
+										"parentId": "",
+										"dynamicLocale": true,
+										"visibilityConditions": [],
+										"globalQuestCounterId": "",
+										"target": [
+											"5cc80f38e4a949001152b560"
+										],
+										"value": 30,
+										"minDurability": 0,
+										"maxDurability": 100,
+										"dogtagLevel": 0,
+										"onlyFoundInRaid": true,
+										"isEncoded": false,
+										"conditionType": "HandoverItem"
+									}
+								],
+								"Fail": []
+							},
+							"side": "Pmc",
+							"name": "61604635c725987e815b1a46 name 5a7c2eca46aef81a7ca2145d",
+							"note": "61604635c725987e815b1a46 note 5a7c2eca46aef81a7ca2145d",
+							"description": "I have a mission for you. I need you to gather some items for me. You up for it?",
+							"successMessageText": "There you are! You got everything? Good stuff.",
+							"failMessageText": "61604635c725987e815b1a46 failMessageText 5a7c2eca46aef81a7ca2145d 0",
+							"startedMessageText": "61604635c725987e815b1a46 startedMessageText 5a7c2eca46aef81a7ca2145d 0",
+							"changeQuestMessageText": "61604635c725987e815b1a46 changeQuestMessageText 5a7c2eca46aef81a7ca2145d 0",
+							"acceptPlayerMessage": "61604635c725987e815b1a46 acceptPlayerMessage 5a7c2eca46aef81a7ca2145d",
+							"declinePlayerMessage": "61604635c725987e815b1a46 declinePlayerMessage 5a7c2eca46aef81a7ca2145d",
+							"completePlayerMessage": "61604635c725987e815b1a46 completePlayerMessage 5a7c2eca46aef81a7ca2145d",
+							"status": 0,
+							"acceptanceAndFinishingSource": "eft",
+							"progressSource": "eft",
+							"rankingModes": [],
+							"gameModes": [],
+							"arenaLocations": [],
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0,
+							"questStatus": {
+								"id": "6825da4def4df20ae7000008",
+								"uid": "68160edc000212cf55615204",
+								"qid": "6825da4def4df20ae7000007",
+								"startTime": 0,
+								"status": 1,
+								"statusTimers": {}
+							},
+							"templateId": "61604635c725987e815b1a46"
+						},
+						{
+							"_id": "6825da4def4df20ae700000a",
+							"traderId": "668aaff35fd574b6dcc4a686",
+							"location": "any",
+							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+							"type": "Elimination",
+							"isKey": false,
+							"restartable": false,
+							"instantComplete": false,
+							"secretQuest": false,
+							"canShowNotificationsInGame": true,
+							"rewards": {
+								"Started": [],
+								"Success": [
+									{
+										"id": "6825da4db57f7d1f542ef222",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": -1,
+										"value": 10959,
+										"type": "Experience"
+									},
+									{
+										"id": "6825da4db57f7d1f542ef223",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 0,
+										"target": "6825da4d3d7fa8ee53000007",
+										"value": 22221,
+										"isEncoded": false,
+										"findInRaid": false,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000007",
+												"_tpl": "5449016a4bdc2d6f028b456f",
+												"upd": {
+													"StackObjectsCount": 22221,
+													"SpawnedInSession": false
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef224",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 1,
+										"target": "6825da4d3d7fa8ee53000008",
+										"value": 4,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000008",
+												"_tpl": "5d235b4d86f7742e017bc88a",
+												"upd": {
+													"StackObjectsCount": 4,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef225",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 2,
+										"target": "6825da4d3d7fa8ee53000009",
+										"value": 1,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee53000009",
+												"_tpl": "573478bc24597738002c6175",
+												"upd": {
+													"StackObjectsCount": 1,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef226",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"target": "668aaff35fd574b6dcc4a686",
+										"value": 0.01,
+										"type": "TraderStanding",
+										"index": 3
+									},
+									{
+										"id": "6825da4db57f7d1f542ef227",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"target": "Vitality",
+										"value": 29.5,
+										"type": "Skill",
+										"index": 4
+									}
+								],
+								"Fail": []
+							},
+							"conditions": {
+								"AvailableForStart": [],
+								"AvailableForFinish": [
+									{
+										"id": "6825da4def4df20ae700000e",
+										"index": 0,
+										"dynamicLocale": true,
+										"visibilityConditions": [],
+										"globalQuestCounterId": "",
+										"parentId": "",
+										"value": 11,
+										"type": "Elimination",
+										"oneSessionOnly": false,
+										"completeInSeconds": 0,
+										"doNotResetIfCounterCompleted": false,
+										"isResetOnConditionFailed": false,
+										"isNecessary": false,
+										"counter": {
+											"id": "6825da4def4df20ae700000c",
+											"conditions": [
+												{
+													"id": "6825da4def4df20ae700000d",
+													"dynamicLocale": true,
+													"target": "Savage",
+													"value": 1,
+													"resetOnSessionEnd": false,
+													"enemyHealthEffects": [],
+													"daytime": {
+														"from": 0,
+														"to": 0
+													},
+													"conditionType": "Kills"
+												}
+											]
+										},
+										"conditionType": "CounterCreator"
+									}
+								],
+								"Fail": []
+							},
+							"side": "Pmc",
+							"name": "616052ea3054fc0e2c24ce6e name 668aaff35fd574b6dcc4a686",
+							"note": "616052ea3054fc0e2c24ce6e note 668aaff35fd574b6dcc4a686",
+							"description": "I have a mission for you. I need you to eliminate some trash from Tarkov's streets. You up for it?",
+							"successMessageText": "A damn beast you are, hehe. Good work, here's your share.",
+							"failMessageText": "616052ea3054fc0e2c24ce6e failMessageText 668aaff35fd574b6dcc4a686 0",
+							"startedMessageText": "616052ea3054fc0e2c24ce6e startedMessageText 668aaff35fd574b6dcc4a686 0",
+							"changeQuestMessageText": "616052ea3054fc0e2c24ce6e changeQuestMessageText 668aaff35fd574b6dcc4a686 0",
+							"acceptPlayerMessage": "616052ea3054fc0e2c24ce6e acceptPlayerMessage 668aaff35fd574b6dcc4a686",
+							"declinePlayerMessage": "616052ea3054fc0e2c24ce6e declinePlayerMessage 668aaff35fd574b6dcc4a686",
+							"completePlayerMessage": "616052ea3054fc0e2c24ce6e completePlayerMessage 668aaff35fd574b6dcc4a686",
+							"status": 0,
+							"acceptanceAndFinishingSource": "eft",
+							"progressSource": "eft",
+							"rankingModes": [],
+							"gameModes": [],
+							"arenaLocations": [],
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0,
+							"questStatus": {
+								"id": "6825da4def4df20ae700000b",
+								"uid": "68160edc000212cf55615204",
+								"qid": "6825da4def4df20ae700000a",
+								"startTime": 0,
+								"status": 1,
+								"statusTimers": {}
+							},
+							"templateId": "616052ea3054fc0e2c24ce6e"
+						},
+						{
+							"_id": "6825da4def4df20ae700000f",
+							"traderId": "54cb57776803fa99248b456e",
+							"location": "5704e3c2d2720bac5b8b4567",
+							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+							"type": "Exploration",
+							"isKey": false,
+							"restartable": false,
+							"instantComplete": false,
+							"secretQuest": false,
+							"canShowNotificationsInGame": true,
+							"rewards": {
+								"Started": [],
+								"Success": [
+									{
+										"id": "6825da4db57f7d1f542ef228",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": -1,
+										"value": 3756,
+										"type": "Experience"
+									},
+									{
+										"id": "6825da4db57f7d1f542ef229",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 0,
+										"target": "6825da4d3d7fa8ee5300000a",
+										"value": 14700,
+										"isEncoded": false,
+										"findInRaid": false,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee5300000a",
+												"_tpl": "5449016a4bdc2d6f028b456f",
+												"upd": {
+													"StackObjectsCount": 14700,
+													"SpawnedInSession": false
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef22a",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 1,
+										"target": "6825da4d3d7fa8ee5300000b",
+										"value": 3,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee5300000b",
+												"_tpl": "5d235b4d86f7742e017bc88a",
+												"upd": {
+													"StackObjectsCount": 3,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef22b",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 2,
+										"target": "6825da4d3d7fa8ee5300000c",
+										"value": 2,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee5300000c",
+												"_tpl": "5e2af02c86f7746d420957d4",
+												"upd": {
+													"StackObjectsCount": 2,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef22c",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"target": "54cb57776803fa99248b456e",
+										"value": 0.01,
+										"type": "TraderStanding",
+										"index": 3
+									}
+								],
+								"Fail": []
+							},
+							"conditions": {
+								"AvailableForStart": [],
+								"AvailableForFinish": [
+									{
+										"id": "6825da4def4df20ae7000014",
+										"index": 0,
+										"dynamicLocale": true,
+										"visibilityConditions": [],
+										"globalQuestCounterId": "",
+										"parentId": "",
+										"value": 1,
+										"type": "Completion",
+										"oneSessionOnly": false,
+										"completeInSeconds": 0,
+										"doNotResetIfCounterCompleted": false,
+										"counter": {
+											"id": "6825da4def4df20ae7000013",
+											"conditions": [
+												{
+													"id": "6825da4def4df20ae7000011",
+													"dynamicLocale": true,
+													"status": [
+														"Survived"
+													],
+													"conditionType": "ExitStatus"
+												},
+												{
+													"id": "6825da4def4df20ae7000012",
+													"dynamicLocale": true,
+													"target": [
+														"Woods"
+													],
+													"conditionType": "Location"
+												}
+											]
+										},
+										"conditionType": "CounterCreator"
+									}
+								],
+								"Fail": []
+							},
+							"side": "Pmc",
+							"name": "616041eb031af660100c9967 name 54cb57776803fa99248b456e",
+							"note": "616041eb031af660100c9967 note 54cb57776803fa99248b456e",
+							"description": "Ah, mercenary, do you want to do a good deed? My clients are asking to ensure a safe area to conduct a specific secret operation. I would like to appoint you for this, as you are the most competent of the local workers. You will have to survey the area and report back to me. Good luck.",
+							"successMessageText": "Marvelous, young man. Thank you for some fine work.",
+							"failMessageText": "616041eb031af660100c9967 failMessageText 54cb57776803fa99248b456e 0",
+							"startedMessageText": "616041eb031af660100c9967 startedMessageText 54cb57776803fa99248b456e 0",
+							"changeQuestMessageText": "616041eb031af660100c9967 changeQuestMessageText 54cb57776803fa99248b456e 0",
+							"acceptPlayerMessage": "616041eb031af660100c9967 acceptPlayerMessage 54cb57776803fa99248b456e",
+							"declinePlayerMessage": "616041eb031af660100c9967 declinePlayerMessage 54cb57776803fa99248b456e",
+							"completePlayerMessage": "616041eb031af660100c9967 completePlayerMessage 54cb57776803fa99248b456e",
+							"status": 0,
+							"acceptanceAndFinishingSource": "eft",
+							"progressSource": "eft",
+							"rankingModes": [],
+							"gameModes": [],
+							"arenaLocations": [],
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0,
+							"questStatus": {
+								"id": "6825da4def4df20ae7000010",
+								"uid": "68160edc000212cf55615204",
+								"qid": "6825da4def4df20ae700000f",
+								"startTime": 0,
+								"status": 1,
+								"statusTimers": {}
+							},
+							"templateId": "616041eb031af660100c9967"
+						},
+						{
+							"_id": "6825da4def4df20ae7000015",
+							"traderId": "668aaff35fd574b6dcc4a686",
+							"location": "any",
+							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+							"type": "Completion",
+							"isKey": false,
+							"restartable": false,
+							"instantComplete": false,
+							"secretQuest": false,
+							"canShowNotificationsInGame": true,
+							"rewards": {
+								"Started": [],
+								"Success": [
+									{
+										"id": "6825da4db57f7d1f542ef22d",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": -1,
+										"value": 11170,
+										"type": "Experience"
+									},
+									{
+										"id": "6825da4db57f7d1f542ef22e",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 0,
+										"target": "6825da4d3d7fa8ee5300000d",
+										"value": 31406,
+										"isEncoded": false,
+										"findInRaid": false,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee5300000d",
+												"_tpl": "5449016a4bdc2d6f028b456f",
+												"upd": {
+													"StackObjectsCount": 31406,
+													"SpawnedInSession": false
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef22f",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 1,
+										"target": "6825da4d3d7fa8ee5300000e",
+										"value": 6,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee5300000e",
+												"_tpl": "5d235b4d86f7742e017bc88a",
+												"upd": {
+													"StackObjectsCount": 6,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef230",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"index": 2,
+										"target": "6825da4d3d7fa8ee5300000f",
+										"value": 1,
+										"isEncoded": false,
+										"findInRaid": true,
+										"type": "Item",
+										"items": [
+											{
+												"_id": "6825da4d3d7fa8ee5300000f",
+												"_tpl": "5d1b309586f77425227d1676",
+												"upd": {
+													"StackObjectsCount": 1,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"id": "6825da4db57f7d1f542ef231",
+										"unknown": false,
+										"gameMode": [],
+										"availableInGameEditions": [],
+										"target": "668aaff35fd574b6dcc4a686",
+										"value": 0.03,
+										"type": "TraderStanding",
+										"index": 3
+									}
+								],
+								"Fail": []
+							},
+							"conditions": {
+								"AvailableForStart": [],
+								"AvailableForFinish": [
+									{
+										"id": "6825da4def4df20ae7000017",
+										"index": 0,
+										"parentId": "",
+										"dynamicLocale": true,
+										"visibilityConditions": [],
+										"globalQuestCounterId": "",
+										"target": [
+											"5d1c819a86f774771b0acd6c"
+										],
+										"value": 2,
+										"minDurability": 0,
+										"maxDurability": 100,
+										"dogtagLevel": 0,
+										"onlyFoundInRaid": true,
+										"isEncoded": false,
+										"conditionType": "HandoverItem"
+									},
+									{
+										"id": "6825da4def4df20ae7000018",
+										"index": 0,
+										"parentId": "",
+										"dynamicLocale": true,
+										"visibilityConditions": [],
+										"globalQuestCounterId": "",
+										"target": [
+											"5672cb304bdc2dc2088b456a"
+										],
+										"value": 3,
+										"minDurability": 0,
+										"maxDurability": 100,
+										"dogtagLevel": 0,
+										"onlyFoundInRaid": true,
+										"isEncoded": false,
+										"conditionType": "HandoverItem"
+									}
+								],
+								"Fail": []
+							},
+							"side": "Pmc",
+							"name": "61604635c725987e815b1a46 name 668aaff35fd574b6dcc4a686",
+							"note": "61604635c725987e815b1a46 note 668aaff35fd574b6dcc4a686",
+							"description": "I have a mission for you. I need you to gather some items for me. You up for it?",
+							"successMessageText": "There you are! You got everything? Good stuff.",
+							"failMessageText": "61604635c725987e815b1a46 failMessageText 668aaff35fd574b6dcc4a686 0",
+							"startedMessageText": "61604635c725987e815b1a46 startedMessageText 668aaff35fd574b6dcc4a686 0",
+							"changeQuestMessageText": "61604635c725987e815b1a46 changeQuestMessageText 668aaff35fd574b6dcc4a686 0",
+							"acceptPlayerMessage": "61604635c725987e815b1a46 acceptPlayerMessage 668aaff35fd574b6dcc4a686",
+							"declinePlayerMessage": "61604635c725987e815b1a46 declinePlayerMessage 668aaff35fd574b6dcc4a686",
+							"completePlayerMessage": "61604635c725987e815b1a46 completePlayerMessage 668aaff35fd574b6dcc4a686",
+							"status": 0,
+							"acceptanceAndFinishingSource": "eft",
+							"progressSource": "eft",
+							"rankingModes": [],
+							"gameModes": [],
+							"arenaLocations": [],
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0,
+							"questStatus": {
+								"id": "6825da4def4df20ae7000016",
+								"uid": "68160edc000212cf55615204",
+								"qid": "6825da4def4df20ae7000015",
+								"startTime": 0,
+								"status": 1,
+								"statusTimers": {}
+							},
+							"templateId": "61604635c725987e815b1a46"
+						}
+					],
+					"inactiveQuests": [
 						{
 							"_id": "68230cc774126e230a000001",
 							"traderId": "58330581ace78e27b8b10cee",
@@ -6316,885 +7247,7 @@
 							"templateId": "616052ea3054fc0e2c24ce6e"
 						}
 					],
-					"inactiveQuests": [
-						{
-							"_id": "681faff1fc1d51d119000001",
-							"traderId": "5ac3b934156ae10c4430e83c",
-							"location": "any",
-							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-							"type": "Completion",
-							"isKey": false,
-							"restartable": false,
-							"instantComplete": false,
-							"secretQuest": false,
-							"canShowNotificationsInGame": true,
-							"rewards": {
-								"Started": [],
-								"Success": [
-									{
-										"id": "681faff1915cdd45e02f5713",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": -1,
-										"value": 17164,
-										"type": "Experience"
-									},
-									{
-										"id": "681faff1915cdd45e02f5714",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 0,
-										"target": "681faff15f1c5d17a4000001",
-										"value": 49614,
-										"isEncoded": false,
-										"findInRaid": false,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000001",
-												"_tpl": "5449016a4bdc2d6f028b456f",
-												"upd": {
-													"StackObjectsCount": 49614,
-													"SpawnedInSession": false
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5715",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 1,
-										"target": "681faff15f1c5d17a4000002",
-										"value": 6,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000002",
-												"_tpl": "5d235b4d86f7742e017bc88a",
-												"upd": {
-													"StackObjectsCount": 6,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5716",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 2,
-										"target": "681faff15f1c5d17a4000003",
-										"value": 1,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000003",
-												"_tpl": "5c0e446786f7742013381639",
-												"upd": {
-													"StackObjectsCount": 1,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5717",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"target": "5ac3b934156ae10c4430e83c",
-										"value": 0.02,
-										"type": "TraderStanding",
-										"index": 3
-									}
-								],
-								"Fail": []
-							},
-							"conditions": {
-								"AvailableForStart": [],
-								"AvailableForFinish": [
-									{
-										"id": "681faff1fc1d51d119000003",
-										"index": 0,
-										"parentId": "",
-										"dynamicLocale": true,
-										"visibilityConditions": [],
-										"globalQuestCounterId": "",
-										"target": [
-											"5648a7494bdc2d9d488b4583"
-										],
-										"value": 2,
-										"minDurability": 80,
-										"maxDurability": 100,
-										"dogtagLevel": 0,
-										"onlyFoundInRaid": true,
-										"isEncoded": false,
-										"conditionType": "HandoverItem"
-									}
-								],
-								"Fail": []
-							},
-							"side": "Pmc",
-							"name": "61604635c725987e815b1a46 name 5ac3b934156ae10c4430e83c",
-							"note": "61604635c725987e815b1a46 note 5ac3b934156ae10c4430e83c",
-							"description": "I have a mission for you. I need you to gather some items for me. You up for it?",
-							"successMessageText": "There you are! You got everything? Good stuff.",
-							"failMessageText": "61604635c725987e815b1a46 failMessageText 5ac3b934156ae10c4430e83c 0",
-							"startedMessageText": "61604635c725987e815b1a46 startedMessageText 5ac3b934156ae10c4430e83c 0",
-							"changeQuestMessageText": "61604635c725987e815b1a46 changeQuestMessageText 5ac3b934156ae10c4430e83c 0",
-							"acceptPlayerMessage": "61604635c725987e815b1a46 acceptPlayerMessage 5ac3b934156ae10c4430e83c",
-							"declinePlayerMessage": "61604635c725987e815b1a46 declinePlayerMessage 5ac3b934156ae10c4430e83c",
-							"completePlayerMessage": "61604635c725987e815b1a46 completePlayerMessage 5ac3b934156ae10c4430e83c",
-							"status": 0,
-							"acceptanceAndFinishingSource": "eft",
-							"progressSource": "eft",
-							"rankingModes": [],
-							"gameModes": [],
-							"arenaLocations": [],
-							"changeCost": [
-								{
-									"templateId": "5449016a4bdc2d6f028b456f",
-									"count": 5000
-								}
-							],
-							"changeStandingCost": 0,
-							"questStatus": {
-								"id": "681faff1fc1d51d119000002",
-								"uid": "68160edc000212cf55615204",
-								"qid": "681faff1fc1d51d119000001",
-								"startTime": 0,
-								"status": 1,
-								"statusTimers": {}
-							},
-							"templateId": "61604635c725987e815b1a46"
-						},
-						{
-							"_id": "681faff1fc1d51d119000004",
-							"traderId": "5a7c2eca46aef81a7ca2145d",
-							"location": "any",
-							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-							"type": "Completion",
-							"isKey": false,
-							"restartable": false,
-							"instantComplete": false,
-							"secretQuest": false,
-							"canShowNotificationsInGame": true,
-							"rewards": {
-								"Started": [],
-								"Success": [
-									{
-										"id": "681faff1915cdd45e02f5718",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": -1,
-										"value": 16486,
-										"type": "Experience"
-									},
-									{
-										"id": "681faff1915cdd45e02f5719",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 0,
-										"target": "681faff15f1c5d17a4000004",
-										"value": 59440,
-										"isEncoded": false,
-										"findInRaid": false,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000004",
-												"_tpl": "5449016a4bdc2d6f028b456f",
-												"upd": {
-													"StackObjectsCount": 59440,
-													"SpawnedInSession": false
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f571a",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 1,
-										"target": "681faff15f1c5d17a4000005",
-										"value": 9,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000005",
-												"_tpl": "5d235b4d86f7742e017bc88a",
-												"upd": {
-													"StackObjectsCount": 9,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f571b",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 2,
-										"target": "681faff15f1c5d17a4000006",
-										"value": 2,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000006",
-												"_tpl": "672e2e754f01ef56b4aa66a3",
-												"upd": {
-													"StackObjectsCount": 2,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f571c",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"target": "5a7c2eca46aef81a7ca2145d",
-										"value": 0.04,
-										"type": "TraderStanding",
-										"index": 3
-									}
-								],
-								"Fail": []
-							},
-							"conditions": {
-								"AvailableForStart": [],
-								"AvailableForFinish": [
-									{
-										"id": "681faff1fc1d51d119000006",
-										"index": 0,
-										"parentId": "",
-										"dynamicLocale": true,
-										"visibilityConditions": [],
-										"globalQuestCounterId": "",
-										"target": [
-											"64b7af434b75259c590fa893"
-										],
-										"value": 17,
-										"minDurability": 0,
-										"maxDurability": 100,
-										"dogtagLevel": 0,
-										"onlyFoundInRaid": true,
-										"isEncoded": false,
-										"conditionType": "HandoverItem"
-									}
-								],
-								"Fail": []
-							},
-							"side": "Pmc",
-							"name": "61604635c725987e815b1a46 name 5a7c2eca46aef81a7ca2145d",
-							"note": "61604635c725987e815b1a46 note 5a7c2eca46aef81a7ca2145d",
-							"description": "I have a mission for you. I need you to gather some items for me. You up for it?",
-							"successMessageText": "There you are! You got everything? Good stuff.",
-							"failMessageText": "61604635c725987e815b1a46 failMessageText 5a7c2eca46aef81a7ca2145d 0",
-							"startedMessageText": "61604635c725987e815b1a46 startedMessageText 5a7c2eca46aef81a7ca2145d 0",
-							"changeQuestMessageText": "61604635c725987e815b1a46 changeQuestMessageText 5a7c2eca46aef81a7ca2145d 0",
-							"acceptPlayerMessage": "61604635c725987e815b1a46 acceptPlayerMessage 5a7c2eca46aef81a7ca2145d",
-							"declinePlayerMessage": "61604635c725987e815b1a46 declinePlayerMessage 5a7c2eca46aef81a7ca2145d",
-							"completePlayerMessage": "61604635c725987e815b1a46 completePlayerMessage 5a7c2eca46aef81a7ca2145d",
-							"status": 0,
-							"acceptanceAndFinishingSource": "eft",
-							"progressSource": "eft",
-							"rankingModes": [],
-							"gameModes": [],
-							"arenaLocations": [],
-							"changeCost": [
-								{
-									"templateId": "5449016a4bdc2d6f028b456f",
-									"count": 5000
-								}
-							],
-							"changeStandingCost": 0,
-							"questStatus": {
-								"id": "681faff1fc1d51d119000005",
-								"uid": "68160edc000212cf55615204",
-								"qid": "681faff1fc1d51d119000004",
-								"startTime": 0,
-								"status": 1,
-								"statusTimers": {}
-							},
-							"templateId": "61604635c725987e815b1a46"
-						},
-						{
-							"_id": "681faff1fc1d51d119000007",
-							"traderId": "668aaff35fd574b6dcc4a686",
-							"location": "any",
-							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-							"type": "Elimination",
-							"isKey": false,
-							"restartable": false,
-							"instantComplete": false,
-							"secretQuest": false,
-							"canShowNotificationsInGame": true,
-							"rewards": {
-								"Started": [],
-								"Success": [
-									{
-										"id": "681faff1915cdd45e02f571d",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": -1,
-										"value": 8659,
-										"type": "Experience"
-									},
-									{
-										"id": "681faff1915cdd45e02f571e",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 0,
-										"target": "681faff15f1c5d17a4000007",
-										"value": 31203,
-										"isEncoded": false,
-										"findInRaid": false,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000007",
-												"_tpl": "5449016a4bdc2d6f028b456f",
-												"upd": {
-													"StackObjectsCount": 31203,
-													"SpawnedInSession": false
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f571f",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 1,
-										"target": "681faff15f1c5d17a4000008",
-										"value": 5,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000008",
-												"_tpl": "5d235b4d86f7742e017bc88a",
-												"upd": {
-													"StackObjectsCount": 5,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5720",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 2,
-										"target": "681faff15f1c5d17a4000009",
-										"value": 2,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a4000009",
-												"_tpl": "5929a2a086f7744f4b234d43",
-												"upd": {
-													"StackObjectsCount": 2,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5721",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"target": "668aaff35fd574b6dcc4a686",
-										"value": 0.01,
-										"type": "TraderStanding",
-										"index": 3
-									}
-								],
-								"Fail": []
-							},
-							"conditions": {
-								"AvailableForStart": [],
-								"AvailableForFinish": [
-									{
-										"id": "681faff1fc1d51d11900000b",
-										"index": 0,
-										"dynamicLocale": true,
-										"visibilityConditions": [],
-										"globalQuestCounterId": "",
-										"parentId": "",
-										"value": 14,
-										"type": "Elimination",
-										"oneSessionOnly": false,
-										"completeInSeconds": 0,
-										"doNotResetIfCounterCompleted": false,
-										"isResetOnConditionFailed": false,
-										"isNecessary": false,
-										"counter": {
-											"id": "681faff1fc1d51d119000009",
-											"conditions": [
-												{
-													"id": "681faff1fc1d51d11900000a",
-													"dynamicLocale": true,
-													"target": "Savage",
-													"value": 1,
-													"resetOnSessionEnd": false,
-													"enemyHealthEffects": [],
-													"daytime": {
-														"from": 0,
-														"to": 0
-													},
-													"conditionType": "Kills"
-												}
-											]
-										},
-										"conditionType": "CounterCreator"
-									}
-								],
-								"Fail": []
-							},
-							"side": "Pmc",
-							"name": "616052ea3054fc0e2c24ce6e name 668aaff35fd574b6dcc4a686",
-							"note": "616052ea3054fc0e2c24ce6e note 668aaff35fd574b6dcc4a686",
-							"description": "I have a mission for you. I need you to eliminate some trash from Tarkov's streets. You up for it?",
-							"successMessageText": "A damn beast you are, hehe. Good work, here's your share.",
-							"failMessageText": "616052ea3054fc0e2c24ce6e failMessageText 668aaff35fd574b6dcc4a686 0",
-							"startedMessageText": "616052ea3054fc0e2c24ce6e startedMessageText 668aaff35fd574b6dcc4a686 0",
-							"changeQuestMessageText": "616052ea3054fc0e2c24ce6e changeQuestMessageText 668aaff35fd574b6dcc4a686 0",
-							"acceptPlayerMessage": "616052ea3054fc0e2c24ce6e acceptPlayerMessage 668aaff35fd574b6dcc4a686",
-							"declinePlayerMessage": "616052ea3054fc0e2c24ce6e declinePlayerMessage 668aaff35fd574b6dcc4a686",
-							"completePlayerMessage": "616052ea3054fc0e2c24ce6e completePlayerMessage 668aaff35fd574b6dcc4a686",
-							"status": 0,
-							"acceptanceAndFinishingSource": "eft",
-							"progressSource": "eft",
-							"rankingModes": [],
-							"gameModes": [],
-							"arenaLocations": [],
-							"changeCost": [
-								{
-									"templateId": "5449016a4bdc2d6f028b456f",
-									"count": 5000
-								}
-							],
-							"changeStandingCost": 0,
-							"questStatus": {
-								"id": "681faff1fc1d51d119000008",
-								"uid": "68160edc000212cf55615204",
-								"qid": "681faff1fc1d51d119000007",
-								"startTime": 0,
-								"status": 1,
-								"statusTimers": {}
-							},
-							"templateId": "616052ea3054fc0e2c24ce6e"
-						},
-						{
-							"_id": "681faff1fc1d51d11900000c",
-							"traderId": "5935c25fb3acc3127c3d8cd9",
-							"location": "5704e4dad2720bb55b8b4567",
-							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-							"type": "Exploration",
-							"isKey": false,
-							"restartable": false,
-							"instantComplete": false,
-							"secretQuest": false,
-							"canShowNotificationsInGame": true,
-							"rewards": {
-								"Started": [],
-								"Success": [
-									{
-										"id": "681faff1915cdd45e02f5722",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": -1,
-										"value": 3577,
-										"type": "Experience"
-									},
-									{
-										"id": "681faff1915cdd45e02f5723",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 0,
-										"target": "681faff15f1c5d17a400000a",
-										"value": 73,
-										"isEncoded": false,
-										"findInRaid": false,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a400000a",
-												"_tpl": "569668774bdc2da2298b4568",
-												"upd": {
-													"StackObjectsCount": 73,
-													"SpawnedInSession": false
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5724",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 1,
-										"target": "681faff15f1c5d17a400000b",
-										"value": 2,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a400000b",
-												"_tpl": "5d235b4d86f7742e017bc88a",
-												"upd": {
-													"StackObjectsCount": 2,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5725",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 2,
-										"target": "681faff15f1c5d17a400000c",
-										"value": 2,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a400000c",
-												"_tpl": "5c791e872e2216001219c40a",
-												"upd": {
-													"StackObjectsCount": 2,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5726",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"target": "5935c25fb3acc3127c3d8cd9",
-										"value": 0.01,
-										"type": "TraderStanding",
-										"index": 3
-									}
-								],
-								"Fail": []
-							},
-							"conditions": {
-								"AvailableForStart": [],
-								"AvailableForFinish": [
-									{
-										"id": "681faff1fc1d51d119000011",
-										"index": 0,
-										"dynamicLocale": true,
-										"visibilityConditions": [],
-										"globalQuestCounterId": "",
-										"parentId": "",
-										"value": 1,
-										"type": "Completion",
-										"oneSessionOnly": false,
-										"completeInSeconds": 0,
-										"doNotResetIfCounterCompleted": false,
-										"counter": {
-											"id": "681faff1fc1d51d119000010",
-											"conditions": [
-												{
-													"id": "681faff1fc1d51d11900000e",
-													"dynamicLocale": true,
-													"status": [
-														"Survived"
-													],
-													"conditionType": "ExitStatus"
-												},
-												{
-													"id": "681faff1fc1d51d11900000f",
-													"dynamicLocale": true,
-													"target": [
-														"Lighthouse"
-													],
-													"conditionType": "Location"
-												}
-											]
-										},
-										"conditionType": "CounterCreator"
-									}
-								],
-								"Fail": []
-							},
-							"side": "Pmc",
-							"name": "616041eb031af660100c9967 name 5935c25fb3acc3127c3d8cd9",
-							"note": "616041eb031af660100c9967 note 5935c25fb3acc3127c3d8cd9",
-							"description": "Ah, mercenary, do you want to do a good deed? My clients are asking to ensure a safe area to conduct a specific secret operation. I would like to appoint you for this, as you are the most competent of the local workers. You will have to survey the area and report back to me. Good luck.",
-							"successMessageText": "Marvelous, young man. Thank you for some fine work.",
-							"failMessageText": "616041eb031af660100c9967 failMessageText 5935c25fb3acc3127c3d8cd9 0",
-							"startedMessageText": "616041eb031af660100c9967 startedMessageText 5935c25fb3acc3127c3d8cd9 0",
-							"changeQuestMessageText": "616041eb031af660100c9967 changeQuestMessageText 5935c25fb3acc3127c3d8cd9 0",
-							"acceptPlayerMessage": "616041eb031af660100c9967 acceptPlayerMessage 5935c25fb3acc3127c3d8cd9",
-							"declinePlayerMessage": "616041eb031af660100c9967 declinePlayerMessage 5935c25fb3acc3127c3d8cd9",
-							"completePlayerMessage": "616041eb031af660100c9967 completePlayerMessage 5935c25fb3acc3127c3d8cd9",
-							"status": 0,
-							"acceptanceAndFinishingSource": "eft",
-							"progressSource": "eft",
-							"rankingModes": [],
-							"gameModes": [],
-							"arenaLocations": [],
-							"changeCost": [
-								{
-									"templateId": "5449016a4bdc2d6f028b456f",
-									"count": 5000
-								}
-							],
-							"changeStandingCost": 0,
-							"questStatus": {
-								"id": "681faff1fc1d51d11900000d",
-								"uid": "68160edc000212cf55615204",
-								"qid": "681faff1fc1d51d11900000c",
-								"startTime": 0,
-								"status": 1,
-								"statusTimers": {}
-							},
-							"templateId": "616041eb031af660100c9967"
-						},
-						{
-							"_id": "681faff1fc1d51d119000012",
-							"traderId": "5a7c2eca46aef81a7ca2145d",
-							"location": "5704e3c2d2720bac5b8b4567",
-							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-							"type": "Exploration",
-							"isKey": false,
-							"restartable": false,
-							"instantComplete": false,
-							"secretQuest": false,
-							"canShowNotificationsInGame": true,
-							"rewards": {
-								"Started": [],
-								"Success": [
-									{
-										"id": "681faff1915cdd45e02f5727",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": -1,
-										"value": 5044,
-										"type": "Experience"
-									},
-									{
-										"id": "681faff1915cdd45e02f5728",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 0,
-										"target": "681faff15f1c5d17a400000d",
-										"value": 16390,
-										"isEncoded": false,
-										"findInRaid": false,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a400000d",
-												"_tpl": "5449016a4bdc2d6f028b456f",
-												"upd": {
-													"StackObjectsCount": 16390,
-													"SpawnedInSession": false
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f5729",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 1,
-										"target": "681faff15f1c5d17a400000e",
-										"value": 2,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff15f1c5d17a400000e",
-												"_tpl": "5d235b4d86f7742e017bc88a",
-												"upd": {
-													"StackObjectsCount": 2,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f572a",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 2,
-										"target": "584148a524597759eb357a40",
-										"value": 1,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "584148a524597759eb357a40",
-												"_tpl": "576a581d2459771e7b1bc4f1"
-											},
-											{
-												"_id": "681faff1915cdd45e02f572b",
-												"_tpl": "576a5ed62459771e9c2096cb",
-												"parentId": "584148a524597759eb357a40",
-												"slotId": "mod_magazine"
-											},
-											{
-												"_id": "681faff1915cdd45e02f572c",
-												"_tpl": "576a63cd2459771e796e0e11",
-												"parentId": "584148a524597759eb357a40",
-												"slotId": "mod_pistol_grip"
-											}
-										]
-									},
-									{
-										"id": "681faff1915cdd45e02f572d",
-										"unknown": false,
-										"gameMode": [],
-										"availableInGameEditions": [],
-										"index": 3,
-										"target": "681faff25f1c5d17a4000001",
-										"value": 1,
-										"isEncoded": false,
-										"findInRaid": true,
-										"type": "Item",
-										"items": [
-											{
-												"_id": "681faff25f1c5d17a4000001",
-												"_tpl": "5d2f213448f0355009199284",
-												"upd": {
-													"StackObjectsCount": 1,
-													"SpawnedInSession": true
-												}
-											}
-										]
-									}
-								],
-								"Fail": []
-							},
-							"conditions": {
-								"AvailableForStart": [],
-								"AvailableForFinish": [
-									{
-										"id": "681faff1fc1d51d119000017",
-										"index": 0,
-										"dynamicLocale": true,
-										"visibilityConditions": [],
-										"globalQuestCounterId": "",
-										"parentId": "",
-										"value": 1,
-										"type": "Completion",
-										"oneSessionOnly": false,
-										"completeInSeconds": 0,
-										"doNotResetIfCounterCompleted": false,
-										"counter": {
-											"id": "681faff1fc1d51d119000016",
-											"conditions": [
-												{
-													"id": "681faff1fc1d51d119000014",
-													"dynamicLocale": true,
-													"status": [
-														"Survived"
-													],
-													"conditionType": "ExitStatus"
-												},
-												{
-													"id": "681faff1fc1d51d119000015",
-													"dynamicLocale": true,
-													"target": [
-														"Woods"
-													],
-													"conditionType": "Location"
-												},
-												{
-													"id": "681faff1fc1d51d119000018",
-													"dynamicLocale": true,
-													"exitName": "RUAF Gate",
-													"conditionType": "ExitName"
-												}
-											]
-										},
-										"conditionType": "CounterCreator"
-									}
-								],
-								"Fail": []
-							},
-							"side": "Pmc",
-							"name": "616041eb031af660100c9967 name 5a7c2eca46aef81a7ca2145d",
-							"note": "616041eb031af660100c9967 note 5a7c2eca46aef81a7ca2145d",
-							"description": "Ah, mercenary, do you want to do a good deed? My clients are asking to ensure a safe area to conduct a specific secret operation. I would like to appoint you for this, as you are the most competent of the local workers. You will have to survey the area and report back to me. Good luck.",
-							"successMessageText": "Marvelous, young man. Thank you for some fine work.",
-							"failMessageText": "616041eb031af660100c9967 failMessageText 5a7c2eca46aef81a7ca2145d 0",
-							"startedMessageText": "616041eb031af660100c9967 startedMessageText 5a7c2eca46aef81a7ca2145d 0",
-							"changeQuestMessageText": "616041eb031af660100c9967 changeQuestMessageText 5a7c2eca46aef81a7ca2145d 0",
-							"acceptPlayerMessage": "616041eb031af660100c9967 acceptPlayerMessage 5a7c2eca46aef81a7ca2145d",
-							"declinePlayerMessage": "616041eb031af660100c9967 declinePlayerMessage 5a7c2eca46aef81a7ca2145d",
-							"completePlayerMessage": "616041eb031af660100c9967 completePlayerMessage 5a7c2eca46aef81a7ca2145d",
-							"status": 0,
-							"acceptanceAndFinishingSource": "eft",
-							"progressSource": "eft",
-							"rankingModes": [],
-							"gameModes": [],
-							"arenaLocations": [],
-							"changeCost": [
-								{
-									"templateId": "5449016a4bdc2d6f028b456f",
-									"count": 5000
-								}
-							],
-							"changeStandingCost": 0,
-							"questStatus": {
-								"id": "681faff1fc1d51d119000013",
-								"uid": "68160edc000212cf55615204",
-								"qid": "681faff1fc1d51d119000012",
-								"startTime": 0,
-								"status": 1,
-								"statusTimers": {}
-							},
-							"templateId": "616041eb031af660100c9967"
-						}
-					],
-					"endTime": 1747213895,
+					"endTime": 1747397581,
 					"changeRequirement": {
 						"6816253741eea19997000001": {
 							"changeCost": [
@@ -7458,6 +7511,51 @@
 							"changeStandingCost": 0.01
 						},
 						"68230cc774126e230a000013": {
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0.01
+						},
+						"6825da4def4df20ae7000001": {
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0
+						},
+						"6825da4def4df20ae7000007": {
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0.01
+						},
+						"6825da4def4df20ae700000a": {
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0.01
+						},
+						"6825da4def4df20ae700000f": {
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0.01
+						},
+						"6825da4def4df20ae7000015": {
 							"changeCost": [
 								{
 									"templateId": "5449016a4bdc2d6f028b456f",

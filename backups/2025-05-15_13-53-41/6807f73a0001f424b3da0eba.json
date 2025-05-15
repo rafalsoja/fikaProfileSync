@@ -43007,7 +43007,10 @@
 					"templateId": "5fd9fad9c1ce6b1a3b486d00 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cc0218ecd6f2dc452794a",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -43019,7 +43022,10 @@
 					"templateId": "59675d6c86f7740a842fc482 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cecec6869904b742f0259",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -43085,7 +43091,10 @@
 					"templateId": "59674cd986f7744ab26e32f2 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d11476869904b74340ee1",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -43097,7 +43106,10 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d14d36869904b743425c0",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -43373,7 +43385,10 @@
 						"time": "18:37",
 						"location": "factory4_day"
 					},
-					"items": {},
+					"items": {
+						"stash": "681e78dded2a7a57a43c66e1",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -43390,7 +43405,10 @@
 						"time": "19:04",
 						"location": "factory4_day"
 					},
-					"items": {},
+					"items": {
+						"stash": "681e7d91ed2a7a57a43cbfa6",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -43439,7 +43457,10 @@
 						"time": "20:41",
 						"location": "factory4_night"
 					},
-					"items": {},
+					"items": {
+						"stash": "681ee6c413681f3f5c2ed11f",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -43456,7 +43477,10 @@
 						"time": "22:49",
 						"location": "woods"
 					},
-					"items": {},
+					"items": {
+						"stash": "681ee6c413681f3f5c2ed122",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -43521,7 +43545,10 @@
 						"time": "20:11",
 						"location": "shoreline"
 					},
-					"items": {},
+					"items": {
+						"stash": "681fe1eeab95ac63ac31922f",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -43580,7 +43607,10 @@
 						"time": "21:20",
 						"location": "shoreline"
 					},
-					"items": {},
+					"items": {
+						"stash": "68207081650ba524fc2ed290",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -43597,7 +43627,10 @@
 						"time": "22:40",
 						"location": "rezervbase"
 					},
-					"items": {},
+					"items": {
+						"stash": "68207081650ba524fc2ed293",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -43631,38 +43664,11 @@
 						"location": "rezervbase"
 					},
 					"items": {}
-				},
-				{
-					"_id": "6825d5cbb57f7d1f542ed1f0",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1747310028,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 3",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "13.05.2025",
-						"time": "20:23",
-						"location": "rezervbase"
-					},
-					"items": {
-						"stash": "6825d5cbb57f7d1f542ed1ef",
-						"data": [
-							{
-								"_id": "6825d5cbb57f7d1f542ed1f1",
-								"_tpl": "5ac66c5d5acfc4001718d314",
-								"parentId": "6825d5cbb57f7d1f542ed1ef",
-								"slotId": "main"
-							}
-						]
-					},
-					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 1
+			"new": 0,
+			"attachmentsNew": 0
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -44357,7 +44363,10 @@
 					"templateId": "5a68663e86f774501078f78a successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681bd7b25c5fd9162847b6e5",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -44380,7 +44389,10 @@
 					"templateId": "596a0e1686f7741ddf17dbee successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cc0388ecd6f2dc4527a6b",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -44392,7 +44404,10 @@
 					"templateId": "5a68665c86f774255929b4c7 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cc03d8ecd6f2dc4527a74",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -44426,7 +44441,10 @@
 					"templateId": "5a68667486f7742607157d28 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cc04b8ecd6f2dc4527a82",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -44482,7 +44500,10 @@
 					"templateId": "639135d89444fb141f4e6eea successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d261cf37fc64ca43041b6",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45577,7 +45598,10 @@
 					"templateId": "painter_7 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d267cf37fc64ca4304334",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45993,7 +46017,10 @@
 					"templateId": "5ac346a886f7744e1b083d67 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681ceda06869904b742f027a",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -46005,7 +46032,10 @@
 					"templateId": "5ac346cf86f7741d63233a02 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681ceda36869904b742f0280",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -46039,7 +46069,10 @@
 					"templateId": "5ac3475486f7741d6224abd3 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cf6606869904b74306e67",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -46051,7 +46084,10 @@
 					"templateId": "5ac346cf86f7741d63233a02 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d341af37fc64ca431ca67",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -46687,7 +46723,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46698,7 +46737,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46709,7 +46751,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46720,7 +46765,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46731,7 +46779,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68174b423e534a184c3ef31b",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46742,7 +46793,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68174b423e534a184c3ef31b",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46753,7 +46807,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46764,7 +46821,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68162f0f5c9d8153e43f7b47",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46775,7 +46835,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46786,7 +46849,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46797,7 +46863,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46808,7 +46877,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46819,7 +46891,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46830,7 +46905,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46841,7 +46919,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46852,7 +46933,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46863,7 +46947,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46874,7 +46961,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46885,7 +46975,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46896,7 +46989,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46907,7 +47003,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46918,7 +47017,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46929,7 +47031,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46940,7 +47045,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46951,7 +47059,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46962,7 +47073,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46973,7 +47087,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46984,7 +47101,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -46995,7 +47115,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47006,7 +47129,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47017,7 +47143,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47028,7 +47157,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47039,7 +47171,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47050,7 +47185,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47061,7 +47199,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47072,7 +47213,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47083,7 +47227,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47094,7 +47241,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47105,7 +47255,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681913d7a849f74a5851ac15",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47116,7 +47269,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681913d7a849f74a5851ac15",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47127,7 +47283,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681913d7a849f74a5851ac15",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47138,7 +47297,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681913d7a849f74a5851ac15",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47149,7 +47311,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681913d7a849f74a5851ac15",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47160,7 +47325,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47171,7 +47339,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -47182,7 +47353,10 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe4977574f15b4ad31b66b6",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48177,7 +48351,10 @@
 					"templateId": "Marvelous, young man. Thank you for some fine work.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681bd2295c5fd916284737ec",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48189,7 +48366,10 @@
 					"templateId": "5d25aed386f77442734d25d2 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681ce0978ecd6f2dc45d329b",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48212,7 +48392,10 @@
 					"templateId": "5d25b6be86f77444001e1b89 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cf4c76869904b7430504a",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48246,7 +48429,10 @@
 					"templateId": "5bc4776586f774512d07cf05 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cf6246869904b74306130",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48258,7 +48444,10 @@
 					"templateId": "5d25bfd086f77442734d3007 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d114b6869904b74340efa",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48281,7 +48470,10 @@
 					"templateId": "5d25e48d86f77408251c4bfb successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d136d6869904b74341de2",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48293,7 +48485,10 @@
 					"templateId": "63a88045abf76d719f42d715 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d25cbf37fc64ca4304009",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48316,7 +48511,10 @@
 					"templateId": "639136e84ed9512be67647db description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d25cff37fc64ca4304014",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48339,7 +48537,10 @@
 					"templateId": "5bc479e586f7747f376c7da3 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d342ff37fc64ca431ca85",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49142,7 +49343,10 @@
 					"templateId": "66058cb5ae4719735349b9e8 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cf8056869904b74307698",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49154,7 +49358,10 @@
 					"templateId": "66058cb7c7f3584787181476 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681cf8076869904b743076ca",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49258,7 +49465,10 @@
 					"templateId": "638fcd23dc65553116701d33 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d2637f37fc64ca43041c5",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49416,7 +49626,10 @@
 					"templateId": "5a27b7d686f77460d847e6a6 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681bd21f5c5fd916284737d7",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49439,7 +49652,10 @@
 					"templateId": "5a27b80086f774429a5d7e20 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681d3406f37fc64ca431ca50",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -50646,7 +50862,36 @@
 	"inraid": {
 		"location": "RezervBase"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1747179582,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "13.05.2025",
+				"time": "20:23",
+				"location": "rezervbase"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 3",
+			"items": [
+				{
+					"_id": "681e56d0ed2a7a57a437e840",
+					"_tpl": "656efd66034e8e01c407f35c",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 115,
+							"Durability": 115
+						}
+					}
+				},
+				{
+					"_id": "681fb61f915cdd45e0305ab7",
+					"_tpl": "5ac66c5d5acfc4001718d314"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"54cb50c76803fa8b248b4571": {},
 		"5c0647fdd443bc2504c2d371": {},
