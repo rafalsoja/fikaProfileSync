@@ -36640,10 +36640,7 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e32aeed2a7a57a430735c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -38331,10 +38328,7 @@
 					"templateId": "5979ed3886f77431307dc512 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e2612ed2a7a57a42f0102",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -38346,10 +38340,7 @@
 					"templateId": "5979eee086f774311955e614 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e2618ed2a7a57a42f0115",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -38361,10 +38352,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e2e51ed2a7a57a43064b5",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -38684,10 +38672,7 @@
 					"templateId": "639872f9decada40426d3447 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e33a4ed2a7a57a43076ac",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -39472,10 +39457,7 @@
 					"templateId": "67475c58c8d4ae3b9baf7d38 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e2e72ed2a7a57a43064d1",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -39498,10 +39480,7 @@
 					"templateId": "67472251414d587b8b36ba1f successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e2f72ed2a7a57a4306527",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -41842,10 +41821,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -41856,10 +41832,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -41870,10 +41843,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681ca8118ecd6f2dc4409a15",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -41884,10 +41854,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680d4a19d72a1c45c0373429",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -41898,28 +41865,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "681cbf918ecd6f2dc452793c",
-						"data": [
-							{
-								"_id": "681d05f46869904b7432dd39",
-								"_tpl": "62a09f32621468534a797acb",
-								"slotId": "main",
-								"location": {
-									"x": 13,
-									"y": 0,
-									"r": "Horizontal"
-								},
-								"upd": {
-									"SpawnedInSession": false,
-									"FoodDrink": {
-										"HpPercent": 1
-									}
-								},
-								"parentId": "681cbf918ecd6f2dc452793c"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -41930,10 +41876,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -41944,10 +41887,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -41958,10 +41898,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "680cd6f267d4b6753036eb6f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -42763,10 +42700,7 @@
 					"text": "Here is your reward for tier 1 of Endurance",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c0d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42777,10 +42711,7 @@
 					"text": "Here is your reward for tier 1 of Strength",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c15",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42791,10 +42722,7 @@
 					"text": "Here is your reward for tier 1 of Health",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c1d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42805,10 +42733,7 @@
 					"text": "Here is your reward for tier 1 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c24",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42819,10 +42744,7 @@
 					"text": "Here is your reward for tier 2 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c2a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42833,10 +42755,7 @@
 					"text": "Here is your reward for tier 3 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c39",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42847,10 +42766,7 @@
 					"text": "Here is your reward for tier 4 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c4a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42861,10 +42777,7 @@
 					"text": "Here is your reward for tier 5 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c52",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42875,10 +42788,7 @@
 					"text": "Here is your reward for tier 6 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c59",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42889,10 +42799,7 @@
 					"text": "Here is your reward for tier 7 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c63",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42903,10 +42810,7 @@
 					"text": "Here is your reward for tier 8 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c71",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42917,10 +42821,7 @@
 					"text": "Here is your reward for tier 9 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c80",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42931,10 +42832,7 @@
 					"text": "Here is your reward for tier 10 of Metabolism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c8f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42945,10 +42843,7 @@
 					"text": "Here is your reward for tier 1 of Perception",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4c99",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42959,10 +42854,7 @@
 					"text": "Here is your reward for tier 1 of Attention",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4ca0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42973,10 +42865,7 @@
 					"text": "Here is your reward for tier 1 of Charisma",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4ca8",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -42987,10 +42876,7 @@
 					"text": "Here is your reward for tier 1 of HideoutManagement",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681b883dd2c23363703d4caf",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -43027,10 +42913,7 @@
 					"templateId": "66bfc99c80d7fc529d9a0f7b successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681e2e5aed2a7a57a43064bf",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
