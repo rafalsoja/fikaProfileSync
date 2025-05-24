@@ -3458,7 +3458,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1748096126
+				"UpdateTime": 1748082756
 			},
 			"Hideout": {
 				"Areas": [
@@ -3983,7 +3983,7 @@
 				"Production": {},
 				"HideoutCounters": null,
 				"Seed": 1997639802,
-				"sptUpdateLastRunTimestamp": 1748096782
+				"sptUpdateLastRunTimestamp": 1748095785
 			},
 			"Info": {
 				"AccountType": 0,
@@ -37176,8 +37176,8 @@
 					"dt": 1748031344,
 					"text": "",
 					"templateId": "64f5aac4b63b74469b6c14c2 successMessageText",
-					"hasRewards": false,
-					"rewardCollected": true,
+					"hasRewards": true,
+					"rewardCollected": false,
 					"items": {
 						"stash": "6830d76f3314bb460c32007c",
 						"data": []
@@ -37202,8 +37202,8 @@
 					"dt": 1748088767,
 					"text": "",
 					"templateId": "666314b0acf8442f8b0531a1 successMessageText",
-					"hasRewards": false,
-					"rewardCollected": true,
+					"hasRewards": true,
+					"rewardCollected": false,
 					"items": {
 						"stash": "6831b7bfc94ff834d42f45b2",
 						"data": []
@@ -37217,8 +37217,8 @@
 					"dt": 1748088771,
 					"text": "",
 					"templateId": "666314b2a9290f9e0806cca3 description",
-					"hasRewards": false,
-					"rewardCollected": true,
+					"hasRewards": true,
+					"rewardCollected": false,
 					"items": {
 						"stash": "6831b7c2c94ff834d42f45be",
 						"data": []
@@ -39698,8 +39698,8 @@
 					"dt": 1748089499,
 					"text": "",
 					"templateId": "5ae3270f86f77445ba41d4dd successMessageText",
-					"hasRewards": false,
-					"rewardCollected": true,
+					"hasRewards": true,
+					"rewardCollected": false,
 					"items": {
 						"stash": "6831ba9ac94ff834d42f57a7",
 						"data": []
