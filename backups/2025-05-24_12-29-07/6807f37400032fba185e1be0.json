@@ -58797,7 +58797,10 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6829cffd3e3b864fc02ef700",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -58809,7 +58812,10 @@
 					"templateId": "5b47749f86f7746c5d6a5fd4 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6829d14f3e3b864fc02ef79c",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -58832,7 +58838,10 @@
 					"templateId": "5b477b6f86f7747290681823 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6829d2423e3b864fc02ef7c3",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -67751,7 +67760,10 @@
 					"text": "Here is your reward for tier 1 of TroubleShooting",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6825e475b57f7d1f54304694",
+						"data": []
+					},
 					"maxStorageTime": 720000
 				},
 				{

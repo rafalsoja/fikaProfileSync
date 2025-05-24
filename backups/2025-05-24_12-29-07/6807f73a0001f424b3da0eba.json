@@ -45016,53 +45016,11 @@
 					"hasRewards": false,
 					"rewardCollected": false,
 					"items": {}
-				},
-				{
-					"_id": "68319f79c94ff834d42ed34a",
-					"uid": "54cb50c76803fa8b248b4571",
-					"type": 8,
-					"dt": 1748082554,
-					"text": "",
-					"templateId": "58fe0e4586f774728248ca13 4",
-					"hasRewards": true,
-					"rewardCollected": false,
-					"systemData": {
-						"date": "23.05.2025",
-						"time": "19:26",
-						"location": "tarkovstreets"
-					},
-					"items": {
-						"stash": "68319f79c94ff834d42ed349",
-						"data": [
-							{
-								"_id": "68319f79c94ff834d42ed34b",
-								"_tpl": "5a966f51a2750c00156aacf6",
-								"parentId": "68319f79c94ff834d42ed349",
-								"slotId": "main"
-							},
-							{
-								"_id": "68319f79c94ff834d42ed34c",
-								"_tpl": "620109578d82e67e7911abf2",
-								"slotId": "main",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 100,
-										"Durability": 100
-									},
-									"FireMode": {
-										"FireMode": "single"
-									}
-								},
-								"parentId": "68319f79c94ff834d42ed349"
-							}
-						]
-					},
-					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 1
+			"new": 0,
+			"attachmentsNew": 0
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -46124,7 +46082,10 @@
 						"time": "18:26",
 						"location": "factory4_day"
 					},
-					"items": {},
+					"items": {
+						"stash": "6829cc8d3e3b864fc02ed370",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -52575,7 +52536,41 @@
 	"inraid": {
 		"location": "TarkovStreets"
 	},
-	"insurance": [],
+	"insurance": [
+		{
+			"scheduledTime": 1748037443.8,
+			"traderId": "54cb50c76803fa8b248b4571",
+			"maxStorageTime": 345600,
+			"systemData": {
+				"date": "23.05.2025",
+				"time": "19:26",
+				"location": "tarkovstreets"
+			},
+			"messageType": 8,
+			"messageTemplateId": "58fe0e4586f774728248ca13 4",
+			"items": [
+				{
+					"_id": "682786b84c39ee2a7034f2a5",
+					"_tpl": "5a966f51a2750c00156aacf6"
+				},
+				{
+					"_id": "682f4cae8092a00f103020a3",
+					"_tpl": "620109578d82e67e7911abf2",
+					"slotId": "Holster",
+					"upd": {
+						"Repairable": {
+							"MaxDurability": 100,
+							"Durability": 100
+						},
+						"FireMode": {
+							"FireMode": "single"
+						}
+					},
+					"parentId": "6830c3193314bb460c2fad3d"
+				}
+			]
+		}
+	],
 	"traderPurchases": {
 		"54cb50c76803fa8b248b4571": {},
 		"5c0647fdd443bc2504c2d371": {},
