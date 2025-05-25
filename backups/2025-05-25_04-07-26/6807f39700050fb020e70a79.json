@@ -47545,8 +47545,26 @@
 	"traderPurchases": {
 		"5935c25fb3acc3127c3d8cd9": {},
 		"54cb57776803fa99248b456e": {},
-		"54cb50c76803fa8b248b4571": {},
-		"5c0647fdd443bc2504c2d371": {},
+		"54cb50c76803fa8b248b4571": {
+			"66e80318ea847a407f0e7077": {
+				"count": 1,
+				"purchaseTimestamp": 1748135684
+			},
+			"66e8031bea847a407f0e7153": {
+				"count": 2,
+				"purchaseTimestamp": 1748135757
+			},
+			"66e8030cea847a407f0e6c8f": {
+				"count": 4,
+				"purchaseTimestamp": 1748135948
+			}
+		},
+		"5c0647fdd443bc2504c2d371": {
+			"670917f9f7040fb23a091726": {
+				"count": 1,
+				"purchaseTimestamp": 1748135442
+			}
+		},
 		"58330581ace78e27b8b10cee": {},
 		"6747208ef022cbbfc65c41bf": {},
 		"5a7c2eca46aef81a7ca2145d": {},
