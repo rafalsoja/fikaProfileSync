@@ -59332,7 +59332,10 @@
 					"templateId": "6179afd0bca27a099552e040 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6833268b07e8bf62d0364bd0",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -59355,7 +59358,10 @@
 					"templateId": "6179ad56c760af5ad2053587 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6833269807e8bf62d0364bdd",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -59388,7 +59394,10 @@
 						"time": "18:09",
 						"location": "lighthouse"
 					},
-					"items": {},
+					"items": {
+						"stash": "68336ff407e8bf62d03e2dc2",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -61535,7 +61544,10 @@
 					"templateId": "6179b3bdc7560e13d23eeb8d successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68336fb307e8bf62d03e2c18",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -63395,7 +63407,10 @@
 					"templateId": "6747508429ca66164b39e637 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "683326e307e8bf62d0364c8f",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -63407,7 +63422,10 @@
 					"templateId": "674750fa37089121191b7d6f description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "683326e507e8bf62d0364c9a",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -64394,7 +64412,10 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6833269307e8bf62d0364bd7",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -64406,7 +64427,10 @@
 					"templateId": "60c0c018f7afb4354815096a successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6833571a07e8bf62d03b9b76",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -68396,7 +68420,10 @@
 					"templateId": "6179b4d1bca27a099552e04e successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68336f9b07e8bf62d03e2c07",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -68408,7 +68435,10 @@
 					"templateId": "61958c366726521dd96828ec successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68336f9e07e8bf62d03e2c0b",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -68431,7 +68461,10 @@
 					"templateId": "639135534b15ca31f76bc317 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68336faa07e8bf62d03e2c10",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -69678,7 +69711,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69689,7 +69725,28 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {},
+					"items": {
+						"stash": "68162f0f5c9d8153e43f7b47",
+						"data": [
+							{
+								"_id": "68324b975e4a0e51d0315629",
+								"_tpl": "5d1b371186f774253763a656",
+								"slotId": "main",
+								"location": {
+									"x": 11,
+									"y": 2,
+									"r": "Horizontal"
+								},
+								"upd": {
+									"SpawnedInSession": false,
+									"Resource": {
+										"Value": 60
+									}
+								},
+								"parentId": "68162f0f5c9d8153e43f7b47"
+							}
+						]
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69700,7 +69757,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68162f0f5c9d8153e43f7b47",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69711,7 +69771,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681bd6615c5fd91628479a19",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69722,7 +69785,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69733,7 +69799,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -73249,7 +73318,16 @@
 		"5935c25fb3acc3127c3d8cd9": {},
 		"58330581ace78e27b8b10cee": {},
 		"5a7c2eca46aef81a7ca2145d": {},
-		"6747208ef022cbbfc65c41bf": {},
+		"6747208ef022cbbfc65c41bf": {
+			"66efe9b6e8a66b11cdd492ee": {
+				"count": 6,
+				"purchaseTimestamp": 1748698093
+			},
+			"66efe9bea584c3053e2aab6d": {
+				"count": 6,
+				"purchaseTimestamp": 1748698099
+			}
+		},
 		"668aaff35fd574b6dcc4a686": {},
 		"6617beeaa9cfa777ca915b7c": {},
 		"66bf1f65e1f3b83ea069a271": {}
