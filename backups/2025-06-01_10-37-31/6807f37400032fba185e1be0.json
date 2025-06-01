@@ -69744,7 +69744,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69755,7 +69758,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69766,7 +69772,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69777,7 +69786,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69788,7 +69800,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "681bd6615c5fd91628479a19",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69799,7 +69814,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
@@ -69810,7 +69828,10 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "5fe49cdfa19cac3fa9054115",
+						"data": []
+					},
 					"maxStorageTime": 604800
 				},
 				{
