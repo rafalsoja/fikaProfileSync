@@ -57016,7 +57016,10 @@
 						"time": "10:42",
 						"location": "interchange"
 					},
-					"items": {},
+					"items": {
+						"stash": "68370e1c7ba78756a03d3ff2",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
