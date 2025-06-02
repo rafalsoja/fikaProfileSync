@@ -42403,7 +42403,10 @@
 					"templateId": "6193850f60b34236ee0483de successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6834cc57ade6dd3d7033738c",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -47290,7 +47293,10 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6834cc6eade6dd3d7033739f",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48502,7 +48508,10 @@
 					"text": "Here is your reward for tier 1 of SilentOps",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68327435d55e295ae02ef1c5",
+						"data": []
+					},
 					"maxStorageTime": 720000
 				},
 				{

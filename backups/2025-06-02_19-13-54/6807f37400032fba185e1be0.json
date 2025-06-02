@@ -56819,7 +56819,10 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68355785ade6dd3d70365bd8",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -56847,7 +56850,10 @@
 					"templateId": "6179ac7511973d018217d0b9 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68357073ade6dd3d7037f55b",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -56881,7 +56887,10 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835707fade6dd3d7037f575",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -56909,7 +56918,10 @@
 					"templateId": "5c0d190cd09282029f5390d8 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835b8377ba78756a030fe3f",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -56921,7 +56933,10 @@
 					"templateId": "5c0bd94186f7747a727f09b2 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835b83a7ba78756a030fe77",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -56933,7 +56948,10 @@
 					"templateId": "626bd75c71bd851e971b82a5 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835c3f17ba78756a0324f58",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -59400,7 +59418,10 @@
 						"time": "18:37",
 						"location": "lighthouse"
 					},
-					"items": {},
+					"items": {
+						"stash": "6834c661ade6dd3d70335896",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -59433,7 +59454,10 @@
 						"time": "20:12",
 						"location": "lighthouse"
 					},
-					"items": {},
+					"items": {
+						"stash": "6834d6d8ade6dd3d7033b36b",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -59445,7 +59469,10 @@
 					"templateId": "626bd75b05f287031503c7f6 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "68357083ade6dd3d7037f583",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -59457,7 +59484,10 @@
 					"templateId": "Marvelous, young man. Thank you for some fine work.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835b8307ba78756a030fe14",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -60261,7 +60291,10 @@
 					"templateId": "6193850f60b34236ee0483de successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835c3fb7ba78756a03252ac",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -64385,7 +64418,10 @@
 					"templateId": "61904daa7d0d857927447b9c successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835708dade6dd3d7037f58a",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -64397,7 +64433,10 @@
 					"templateId": "5edab4b1218d181e29451435 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835c9e37ba78756a03366e8",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -67560,7 +67599,10 @@
 					"text": "Przedmiot: Oświetlacz naczyniowy LEDX 1 został kupiony przez Theodore.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835c99b7ba78756a03366cd",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
@@ -68409,7 +68451,10 @@
 					"templateId": "5a27bc1586f7741f6d40fa2f successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6835ca767ba78756a0336703",
+						"data": []
+					},
 					"maxStorageTime": 518400
 				},
 				{
