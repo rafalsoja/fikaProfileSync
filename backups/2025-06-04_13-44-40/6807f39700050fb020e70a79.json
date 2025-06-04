@@ -46596,7 +46596,10 @@
 						"time": "20:58",
 						"location": "interchange"
 					},
-					"items": {},
+					"items": {
+						"stash": "683a4e890b73b22d10387253",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -46613,7 +46616,10 @@
 						"time": "21:49",
 						"location": "rezervbase"
 					},
-					"items": {},
+					"items": {
+						"stash": "683ab80d0ad19866402ed2d0",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -46630,7 +46636,10 @@
 						"time": "22:27",
 						"location": "rezervbase"
 					},
-					"items": {},
+					"items": {
+						"stash": "683ab80d0ad19866402ed2dd",
+						"data": []
+					},
 					"maxStorageTime": 345600
 				},
 				{
@@ -57604,7 +57613,10 @@
 					"text": "Here is your reward for tier 1 of SilentOps",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {},
+					"items": {
+						"stash": "6834c2a7ade6dd3d7031f4d5",
+						"data": []
+					},
 					"maxStorageTime": 720000
 				},
 				{
