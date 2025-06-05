@@ -60922,11 +60922,50 @@
 						"location": "lighthouse"
 					},
 					"items": {}
+				},
+				{
+					"_id": "6841d576fce53716cc2ed375",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1749144951,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 3",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "04.06.2025",
+						"time": "13:06",
+						"location": "lighthouse"
+					},
+					"items": {
+						"stash": "6841d576fce53716cc2ed374",
+						"data": [
+							{
+								"_id": "6841d576fce53716cc2ed376",
+								"_tpl": "5aa2ba71e5b5b000137b758f",
+								"parentId": "6841d576fce53716cc2ed374",
+								"slotId": "main"
+							},
+							{
+								"_id": "6841d576fce53716cc2ed377",
+								"_tpl": "5d5fca1ea4b93635fd598c07",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 10,
+										"Durability": 10
+									}
+								},
+								"parentId": "6841d576fce53716cc2ed374",
+								"slotId": "main"
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": true,
-			"new": 1,
-			"attachmentsNew": 0
+			"new": 2,
+			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -63222,10 +63261,7 @@
 					"templateId": "60e71c48c1bfa3050473b8e5 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68388d4d8488f352b0303201",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -63340,10 +63376,7 @@
 					"templateId": "5da89b3a86f7742f9026cb83 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68389d778488f352b0327278",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -67133,10 +67166,7 @@
 					"templateId": "67475dbb321ddf314e6fbcad successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68389e888488f352b032745c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -67159,10 +67189,7 @@
 					"templateId": "67517bceebe6088837aa2dab successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6838ab6a8488f352b033b909",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -67174,10 +67201,7 @@
 					"templateId": "6747bfd667581ad41fc4a9de description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6838ab708488f352b033b91f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -67189,10 +67213,7 @@
 					"templateId": "6747c136681e886c4f32ec2d description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6838ab728488f352b033b945",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -67204,10 +67225,7 @@
 					"templateId": "6747c182942fe0faa5478a5e description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6838ab7a8488f352b033b975",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -76138,10 +76156,7 @@
 					"text": "Here is your reward for tier 1 of FirstAid",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6835c31d7ba78756a0324d8b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -77156,44 +77171,10 @@
 	"inraid": {
 		"location": "RezervBase"
 	},
-	"insurance": [
-		{
-			"scheduledTime": 1749052912.8,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "04.06.2025",
-				"time": "13:06",
-				"location": "lighthouse"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 3",
-			"items": [
-				{
-					"_id": "683ab80d0ad19866402ed2cf",
-					"_tpl": "5aa2ba71e5b5b000137b758f"
-				},
-				{
-					"_id": "683a406e0b73b22d1033eda9",
-					"_tpl": "5d5fca1ea4b93635fd598c07",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 10,
-							"Durability": 10
-						}
-					}
-				}
-			]
-		}
-	],
+	"insurance": [],
 	"traderPurchases": {
 		"5ac3b934156ae10c4430e83c": {},
-		"54cb50c76803fa8b248b4571": {
-			"66e80317ea847a407f0e7007": {
-				"count": 1,
-				"purchaseTimestamp": 1749049968
-			}
-		},
+		"54cb50c76803fa8b248b4571": {},
 		"54cb57776803fa99248b456e": {},
 		"5c0647fdd443bc2504c2d371": {},
 		"5935c25fb3acc3127c3d8cd9": {},
