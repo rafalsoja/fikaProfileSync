@@ -48957,10 +48957,7 @@
 						"time": "20:58",
 						"location": "interchange"
 					},
-					"items": {
-						"stash": "683a2b400b73b22d1031683f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48977,10 +48974,7 @@
 						"time": "21:49",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "683a3e150b73b22d10338f27",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -50473,10 +50467,7 @@
 					"templateId": "669fa39b91b0a8c9680fc467 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a45230b73b22d1035a611",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -50499,10 +50490,7 @@
 					"templateId": "639872fc93ae507d5858c3a6 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a45e40b73b22d1035a647",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -52263,10 +52251,7 @@
 					"templateId": "67472de565eb520c7a8af1a5 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a32e70b73b22d10329030",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -52289,10 +52274,7 @@
 					"templateId": "66c51c9298f84f4a15184520 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a4e500b73b22d10387247",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -55778,10 +55760,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "681913d7a849f74a5851ac15",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -56301,10 +56280,7 @@
 					"templateId": "5d25e4d586f77443e625e388 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a324a0b73b22d1032826d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -56645,10 +56621,7 @@
 					"templateId": "5ae448bf86f7744d733e55ee successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a1c680b73b22d10300e86",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -56682,10 +56655,7 @@
 					"templateId": "6663149cfd5ca9577902e037 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a32440b73b22d1032825e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -57052,10 +57022,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a2a910b73b22d103158f4",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -57849,10 +57816,7 @@
 					"text": "Here is your reward for tier 1 of TroubleShooting",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6837589f7ba78756a03ebba9",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{

@@ -62661,10 +62661,7 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683a26e00b73b22d103150d4",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
