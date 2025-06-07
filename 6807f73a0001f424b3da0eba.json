@@ -44647,26 +44647,7 @@
 					"text": "You have received a gift from Luxer",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "683611e97ba78756a0375d8c",
-						"data": [
-							{
-								"_id": "683a1369cae0f3591c2f0208",
-								"_tpl": "5aafbcd986f7745e590fff23",
-								"upd": {
-									"SpawnedInSession": false,
-									"StackObjectsCount": 1
-								},
-								"parentId": "683611e97ba78756a0375d8c",
-								"slotId": "main",
-								"location": {
-									"x": 9,
-									"y": 0,
-									"r": "Horizontal"
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -44677,10 +44658,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -44691,10 +44669,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -44705,10 +44680,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				}
 			],
@@ -47412,10 +47384,7 @@
 					"text": "Here is your reward for tier 1 of Assault",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6838889a8488f352b0301a7d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				}
 			],
