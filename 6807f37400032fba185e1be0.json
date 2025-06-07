@@ -62675,10 +62675,7 @@
 						"time": "17:05",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "683f53b70604a83bc4312087",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
