@@ -1,0 +1,92 @@
+{
+  "Woods": [
+    {
+      "name": "Minefield_LowPower1",
+      "maxMineCount": 250,
+      "minDistanceBetweenMines": 0.3
+    },
+    {
+      "name": "Minefield_LowPower2",
+      "maxMineCount": 250,
+      "minDistanceBetweenMines": 0.3
+    }
+  ],
+  "Lighthouse": [
+    {
+      "name": "Minefield_LowPower20",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower12",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower13",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower15",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower4",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower6",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower7",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower1",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower2",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    },
+    {
+      "name": "Minefield_LowPower10",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.75
+    }
+  ],
+  "Sandbox": [
+    {
+      "name": "Minefield_LowPower",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.35
+    }
+  ],
+  "Sandbox_high": [
+    {
+      "name": "Minefield_LowPower",
+      "maxMineCount": 50,
+      "minDistanceBetweenMines": 0.35
+    }
+  ],
+  "Shoreline": [
+    {
+      "name": "Minefield (1)",
+      "maxMineCount": 200,
+      "minDistanceBetweenMines": 1
+    },
+    {
+      "name": "Minefield",
+      "maxMineCount": 200,
+      "minDistanceBetweenMines": 1
+    }
+  ]
+}

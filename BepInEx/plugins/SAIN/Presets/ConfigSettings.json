@@ -1,0 +1,15 @@
+{
+  "AdvancedBotConfigs": false,
+  "DevBotConfigs": false,
+  "SelectedDefaultPreset": "none",
+  "SelectedCustomPreset": "Less Difficult [Modified]",
+  "DefaultPreset": "3. Default",
+  "ConfigScaling": 1.0,
+  "SliderToggle": true,
+  "ConfigEntryHeight": 20.0,
+  "ConfigSliderWidth": 0.59,
+  "ConfigResultsWidth": 0.045,
+  "ConfigResetWidth": 0.024,
+  "SubList_Indent_Vertical": 2.0,
+  "SubList_Indent_Horizontal": 25.0
+}

@@ -1,0 +1,12 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot29,"Кондрат",normal,33,Failed,"Is This a Reference?","Zone zone_stairway","2","19:43:30","19:48:25",
+Bot31,"Garrett",normal,6,Failed,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #2","1","19:43:31","19:44:37",
+Bot30,"Julian",normal,45,Failed,"Is This a Reference?","Zone zone_terminator","1","19:43:31","19:44:41",
+Bot32,"Аристарх",normal,32,Failed,"Is This a Reference?","Zone zone_half-life","1","19:43:33","19:45:29",
+Bot33,"Потап",normal,29,Failed,"Spawn Rush","Spawn Rush: Objective #1","1","19:43:33","19:43:56",
+Bot39,"Илюша Чегачу (Beau)",normal,1,Completed,"Basement Crates","Basement Crates: Objective #1","1","19:47:13","19:47:27",
+Bot39,"Илюша Чегачу (Beau)",normal,1,Completed,"Basement Crates","Basement Crates: Objective #2","1","19:47:32","19:47:37",
+Bot39,"Илюша Чегачу (Beau)",normal,1,Failed,"Basement Intersection Camping","Basement Intersection Camping: Objective #1","1","19:47:42","19:51:54",
+Bot40,"Федя Билетик (Darrick)",normal,1,Failed,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","19:47:53","19:47:56",
+Bot40,"Федя Билетик (Darrick)",normal,1,Failed,"3rd Floor Office","3rd Floor Office: Objective #1","1","19:48:01","19:48:45",
+Bot51,"Генка Хантер (Nathanial)",normal,1,Pending,"1st Floor Office","1st Floor Office: Objective #1","1","19:52:35","N/A",
