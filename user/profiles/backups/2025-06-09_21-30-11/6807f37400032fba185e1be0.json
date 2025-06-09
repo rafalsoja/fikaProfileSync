@@ -63028,10 +63028,7 @@
 						"time": "18:03",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "6841da691514880fbc2ed217",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -63048,10 +63045,7 @@
 						"time": "18:25",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "6841da691514880fbc2ed220",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -70075,10 +70069,7 @@
 					"templateId": "674754bfd14fc231ec90d9d9 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683f2bff0604a83bc4304461",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -71308,10 +71299,7 @@
 					"templateId": "5d25e4d586f77443e625e388 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683f2bea0604a83bc4304430",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -74633,10 +74621,7 @@
 					"templateId": "608974d01a66564e74191fc0 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683f2be60604a83bc4304421",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -76039,10 +76024,7 @@
 					"templateId": "60896888e4a85c72ef3fa300 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "683f2bf90604a83bc4304447",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],

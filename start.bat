@@ -29,18 +29,19 @@ if "!RESPONDING!" == "0" (
     echo [INFO] None of the servers are responding. Launching local server...
 
     echo [INFO] Profiles update...
-    cd /d "!GAME_DIR!\user\profiles"
+    cd /d "!GAME_DIR!"
     git pull
 
     echo [INFO] Launching SPT.Server.exe
-    cd /d "!GAME_DIR!"
     SPT.Server.exe
 
     echo [INFO] Saving profile changes...
-    cd /d "!GAME_DIR!\user\profiles"
-    git add .
+    git add BepInEx/plugins/*
+    git add BepInEx/config/*
+    git add user/profiles/*
+    git add start.bat
     git commit -m "Auto-commit po zamknieciu serwera"
-    git push
+    git push origin main
 )
 
 if "!RESPONDING!" == "1" (
