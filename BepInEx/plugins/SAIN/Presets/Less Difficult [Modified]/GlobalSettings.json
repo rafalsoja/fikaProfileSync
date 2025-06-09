@@ -169,7 +169,7 @@
     "FasterCQBReactionsGlobal": false,
     "AimDownSightsAimTimeMultiplier": 0.8,
     "PMCSAimForHead": false,
-    "PMCAimForHeadChance": 10.0
+    "PMCAimForHeadChance": 5.0
   },
   "Hearing": {
     "RAIN_SOUND_COEF_OUTSIDE": 0.5,
