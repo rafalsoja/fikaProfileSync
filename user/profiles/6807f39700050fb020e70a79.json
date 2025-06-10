@@ -49095,11 +49095,80 @@
 						"location": "sandbox_high"
 					},
 					"items": {}
+				},
+				{
+					"_id": "684817b20301d83c402ed2cf",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1749555123,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 4",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "09.06.2025",
+						"time": "20:33",
+						"location": "sandbox_high"
+					},
+					"items": {
+						"stash": "684817b20301d83c402ed2ce",
+						"data": [
+							{
+								"_id": "684817b20301d83c402ed2d0",
+								"_tpl": "5b40e2bc5acfc40016388216",
+								"slotId": "main",
+								"parentId": "684817b20301d83c402ed2ce"
+							},
+							{
+								"_id": "684817b20301d83c402ed2d1",
+								"_tpl": "657112234269e9a568089eac",
+								"slotId": "Helmet_top",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 140,
+										"Durability": 140
+									}
+								},
+								"parentId": "684817b20301d83c402ed2d0"
+							},
+							{
+								"_id": "684817b20301d83c402ed2d2",
+								"_tpl": "657112a4818110db4600aa66",
+								"slotId": "Helmet_back",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 140,
+										"Durability": 140
+									}
+								},
+								"parentId": "684817b20301d83c402ed2d0"
+							},
+							{
+								"_id": "684817b20301d83c402ed2d3",
+								"_tpl": "657112ce22996eaf110881fb",
+								"slotId": "Helmet_ears",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 140,
+										"Durability": 140
+									}
+								},
+								"parentId": "684817b20301d83c402ed2d0"
+							},
+							{
+								"_id": "684817b20301d83c402ed2d4",
+								"_tpl": "5c165d832e2216398b5a7e36",
+								"slotId": "main",
+								"parentId": "684817b20301d83c402ed2ce"
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 0,
-			"attachmentsNew": 0
+			"new": 1,
+			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -61341,172 +61410,7 @@
 	"inraid": {
 		"location": "bigmap"
 	},
-	"insurance": [
-		{
-			"scheduledTime": 1749510237,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "09.06.2025",
-				"time": "20:33",
-				"location": "sandbox_high"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 4",
-			"items": [
-				{
-					"_id": "6838b7a18488f352b0340a93",
-					"_tpl": "5b40e2bc5acfc40016388216",
-					"slotId": "Headwear",
-					"parentId": "6807f47a8e1b6367e4325ee3"
-				},
-				{
-					"_id": "6838b7a18488f352b0340a94",
-					"_tpl": "657112234269e9a568089eac",
-					"slotId": "Helmet_top",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 140,
-							"Durability": 140
-						}
-					},
-					"parentId": "6838b7a18488f352b0340a93"
-				},
-				{
-					"_id": "6838b7a18488f352b0340a95",
-					"_tpl": "657112a4818110db4600aa66",
-					"slotId": "Helmet_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 140,
-							"Durability": 140
-						}
-					},
-					"parentId": "6838b7a18488f352b0340a93"
-				},
-				{
-					"_id": "6838b7a18488f352b0340a96",
-					"_tpl": "657112ce22996eaf110881fb",
-					"slotId": "Helmet_ears",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 140,
-							"Durability": 140
-						}
-					},
-					"parentId": "6838b7a18488f352b0340a93"
-				},
-				{
-					"_id": "683ddbd8d558305e142ed3e4",
-					"_tpl": "672e2e75dbf780f902fd6d68",
-					"slotId": "TacticalVest",
-					"parentId": "6807f47a8e1b6367e4325ee3"
-				},
-				{
-					"_id": "683ddbd8d558305e142ed3dc",
-					"_tpl": "64afc71497cf3a403c01ff38",
-					"slotId": "front_plate",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 140,
-							"Durability": 130.5622
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683ddbd8d558305e142ed3db",
-					"_tpl": "64afc71497cf3a403c01ff38",
-					"slotId": "back_plate",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 140,
-							"Durability": 78.42141
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683ab80d0ad19866402ed2d8",
-					"_tpl": "6557458f83942d705f0c4962",
-					"slotId": "left_side_plate",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 50,
-							"Durability": 12.702055
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683ab80d0ad19866402ed2d7",
-					"_tpl": "6557458f83942d705f0c4962",
-					"slotId": "right_side_plate",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 50,
-							"Durability": 34.138855
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683ddbd8d558305e142ed3e5",
-					"_tpl": "6575ef599c7cad336508e453",
-					"slotId": "soft_armor_front",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 60,
-							"Durability": 27.8793373
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683ddbd8d558305e142ed3e6",
-					"_tpl": "6575ef6bf6a13a7b7100b093",
-					"slotId": "soft_armor_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 60,
-							"Durability": 60
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683ddbd8d558305e142ed3e7",
-					"_tpl": "6575ef78da698a4e980677eb",
-					"slotId": "soft_armor_left",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 30,
-							"Durability": 30
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683ddbd8d558305e142ed3e8",
-					"_tpl": "6575ef7f9c7cad336508e457",
-					"slotId": "soft_armor_right",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 30,
-							"Durability": 30
-						}
-					},
-					"parentId": "683ddbd8d558305e142ed3e4"
-				},
-				{
-					"_id": "683a4e890b73b22d10387255",
-					"_tpl": "5c165d832e2216398b5a7e36",
-					"slotId": "Earpiece",
-					"parentId": "6807f47a8e1b6367e4325ee3"
-				}
-			]
-		}
-	],
+	"insurance": [],
 	"traderPurchases": {
 		"5935c25fb3acc3127c3d8cd9": {},
 		"54cb57776803fa99248b456e": {},
