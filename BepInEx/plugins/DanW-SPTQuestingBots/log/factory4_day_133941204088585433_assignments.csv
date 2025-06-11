@@ -1,0 +1,10 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot104,"Бронислав",normal,58,Failed,"Spawn Rush","Spawn Rush: Objective #1","1","14:55:33","14:55:40",
+Bot104,"Бронислав",normal,58,Failed,"1st Floor Office","1st Floor Office: Objective #3","1","14:55:45","14:56:26",
+Bot105,"Артемий",normal,38,Failed,"Is This a Reference?","Zone zone_Always_sunny","1","14:55:33","14:55:57",
+Bot106,"Виталлий",normal,49,Pending,"Med Tent","Med Tent: Objective #1","2","14:55:34","N/A",
+Bot107,"Корнил",normal,41,Failed,"Health Care Privacy - Part 6","Item Blood sample","1","14:55:34","14:55:57",
+Bot108,"Роман",normal,42,Active,"Kitchen","Kitchen: Objective #1","1","14:55:35","N/A",
+Bot109,"Остап",normal,24,Failed,"Farming - Part 1","Zone place_SADOVOD_01_2","1","14:55:35","14:55:59",
+Bot110,"Глеб",normal,32,Active,"Is This a Reference?","Zone zone_harry_potter","1","14:55:36","N/A",
+Bot111,"Юрий",normal,43,Failed,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","14:55:36","14:56:21",
