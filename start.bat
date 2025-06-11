@@ -1,5 +1,5 @@
 @echo off
-setlocal enabledelayedexpansion
+setlocal EnableDelayedExpansion
 
 :: Change the game directory if needed
 set "GAME_DIR=C:\GAMES\Escape From Tarkov"
