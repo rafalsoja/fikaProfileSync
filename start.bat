@@ -28,6 +28,7 @@ if "!RESPONDING!" == "0" (
 if "!RESPONDING!" == "0" (
     echo [INFO] None of the servers are responding. Launching local server...
 
+
     echo [INFO] Profiles update...
     cd /d "!GAME_DIR!"
     git pull
@@ -36,11 +37,20 @@ if "!RESPONDING!" == "0" (
     SPT.Server.exe
 
     echo [INFO] Saving profile changes...
+
     git add BepInEx/plugins/*
     git add BepInEx/config/*
     git add user/profiles/*
     git add start.bat
-    git commit -m "Auto-commit po zamknieciu serwera"
+
+    set "defaultMsg=Standard commit after server shutdown"
+    set /p "commitMsg=Enter commit message (default: %defaultMsg%): "
+    if "!commitMsg!" == "" (
+        set "commitMsg=%defaultMsg%"
+    )
+    git commit -m "%commitMsg%"
+
+    echo [INFO] Pushing changes to the repository...
     git push origin main
 )
 
