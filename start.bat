@@ -38,20 +38,20 @@ if "!RESPONDING!" == "0" (
 
     echo [INFO] Saving profile changes...
 
-    git add BepInEx/plugins/*
-    git add BepInEx/config/*
-    git add user/profiles/*
-    git add start.bat
-
-    set "defaultMsg=Standard commit after server shutdown"
-    set /p "commitMsg=Enter commit message (default: %defaultMsg%): "
+    set "defaultMsg=Auto-commit after server shutdown"
+    set /p "commitMsg=Enter commit message (default: !defaultMsg!): "
     if "!commitMsg!" == "" (
-        set "commitMsg=%defaultMsg%"
+        set "commitMsg=!defaultMsg!"
     )
-    git commit -m "%commitMsg%"
 
-    echo [INFO] Pushing changes to the repository...
-    git push origin main
+    git diff --cached --quiet
+    if !errorlevel! == 0 (
+        echo [INFO] No changes, commit skipped.
+    ) else (
+        git commit -m "!commitMsg!"
+        echo [INFO] Pushing changes to the repository...
+        git push origin main
+    )
 )
 
 if "!RESPONDING!" == "1" (
