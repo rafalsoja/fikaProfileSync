@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot12,"Юрий",normal,10,Active,"Delivery From the Past","Zone case_extraction","1","16:41:08","N/A",
+Bot14,"Тихон",normal,20,Active,"Forklift Certified","Zone nf2024_2_7","1","16:41:09","N/A",
+Bot13,"Владимир",normal,21,Failed,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #2","1","16:41:09","16:41:19",
+Bot13,"Владимир",normal,21,Failed,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #1","1","16:41:19","16:41:20",
+Bot13,"Владимир",normal,21,Pending,"An Interesting Opportunity","Item Sealed letter","1","16:41:21","N/A",
+Bot15,"Вячеслав",normal,23,Active,"Black Swan","Zone nf2024_6_beacon_3","1","16:41:11","N/A",
+Bot16,"Осип",normal,14,Pending,"Farming - Part 1","Zone place_SADOVOD_01_2","2","16:41:20","N/A",
+Bot17,"Всеволод",normal,24,Pending,"Farming - Part 1","Zone place_SADOVOD_01_2","1","16:41:20","N/A",
+Bot19,"Демид",normal,13,Pending,"The Walls Have Eyes","Zone nf2024_7_3","1","16:41:21","N/A",
+Bot18,"Борис",normal,19,Active,"Forklift Certified","Zone nf2024_2_8","1","16:41:22","N/A",

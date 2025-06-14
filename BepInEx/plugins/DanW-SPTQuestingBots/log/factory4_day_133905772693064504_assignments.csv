@@ -1,0 +1,12 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot3,"Пантелей",normal,34,Active,"Spawn Rush","Spawn Rush: Objective #1","1","14:41:07","N/A",
+Bot4,"Пётр",normal,29,Pending,"Is This a Reference?","Zone zone_Always_sunny","1","14:41:07","N/A",
+Bot5,"Omar",normal,32,Active,"Is This a Reference?","Zone zone_sapper","1","14:41:12","N/A",
+Bot6,"Pablo",normal,23,Pending,"Forklift Certified","Zone nf2024_2_6","1","14:41:12","N/A",
+Bot7,"Корнил",normal,32,Active,"Is This a Reference?","Zone zone_sapper","1","14:41:12","N/A",
+Bot10,"Austin",normal,17,Active,"Chemical - Part 3","Item Syringe with a chemical","1","14:41:13","N/A",
+Bot8,"Pedro",normal,15,Active,"The Walls Have Eyes","Zone nf2024_7_2","1","14:41:13","N/A",
+Bot9,"Elmo",normal,18,Pending,"Farming - Part 1","Zone place_SADOVOD_01_2","1","14:41:13","N/A",
+Bot18,"Donald",normal,32,Pending,"Dragnet","Item Chemical container","1","14:46:55","N/A",
+Bot17,"Harris",normal,34,Failed,"Dragnet","Item Chemical container","1","14:46:55","14:47:32",
+Bot17,"Harris",normal,34,Pending,"TerraGroup Storage Room","TerraGroup Storage Room: Objective #1","1","14:47:37","N/A",
