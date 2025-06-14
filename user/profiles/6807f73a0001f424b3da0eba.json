@@ -38216,10 +38216,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6844b9c7079cdb2f8c32cb9c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -38252,10 +38249,7 @@
 						"time": "20:54",
 						"location": "sandbox_high"
 					},
-					"items": {
-						"stash": "684817b20301d83c402ed2d5",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -44261,10 +44255,7 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6844bc0d079cdb2f8c32cf51",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{

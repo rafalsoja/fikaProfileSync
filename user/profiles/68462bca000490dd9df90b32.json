@@ -15515,10 +15515,7 @@
 						"time": "01:51",
 						"location": "sandbox_high"
 					},
-					"items": {
-						"stash": "6846d444bac28562f42ed284",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -15593,10 +15590,7 @@
 						"time": "20:26",
 						"location": "sandbox_high"
 					},
-					"items": {
-						"stash": "684817b20301d83c402ed2f0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -15613,10 +15607,7 @@
 						"time": "22:09",
 						"location": "woods"
 					},
-					"items": {
-						"stash": "684817b20301d83c402ed313",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -15628,10 +15619,7 @@
 					"templateId": "5fd4c8b59e4b2a58b34bbd28 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "64b996c9d0de4697180359b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{

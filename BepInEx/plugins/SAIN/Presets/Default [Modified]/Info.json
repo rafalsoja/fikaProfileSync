@@ -1,0 +1,11 @@
+{
+  "Name": "Default [Modified]",
+  "Description": "[Modified] Bots are difficult but fair, the way SAIN was meant to played.",
+  "Creator": "user",
+  "SAINVersion": "3.2.1",
+  "SAINPresetVersion": "3.2.1",
+  "DateCreated": "06/11/2025 00:00:00",
+  "BaseSAINDifficulty": "hard",
+  "IsCustom": true,
+  "CanEditName": true
+}
