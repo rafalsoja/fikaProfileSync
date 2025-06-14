@@ -2,12 +2,8 @@
   "AdvancedBotConfigs": false,
   "DevBotConfigs": false,
   "SelectedDefaultPreset": "none",
-<<<<<<< HEAD
-  "SelectedCustomPreset": "Default [Modified]",
-=======
   "SelectedCustomPreset": "Baby Bots [Modified]",
->>>>>>> 4da74b708bff3d42661ed6a97cf99a0d285e4d65
-  "DefaultPreset": "3. Default",
+  "DefaultPreset": "1. Baby Bots",
   "ConfigScaling": 1.0,
   "SliderToggle": true,
   "ConfigEntryHeight": 20.0,

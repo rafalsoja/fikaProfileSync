@@ -48,6 +48,10 @@ if "!RESPONDING!" == "0" (
     if !errorlevel! == 0 (
         echo [INFO] No changes, commit skipped.
     ) else (
+        git add BepInEx\plugins\*
+        git add BepInEx\config\*
+        git add user\profiles\*
+        git add start.bat
         git commit -m "!commitMsg!"
         echo [INFO] Pushing changes to the repository...
         git push origin main
