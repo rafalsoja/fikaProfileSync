@@ -56632,10 +56632,7 @@
 						"time": "23:00",
 						"location": "woods"
 					},
-					"items": {
-						"stash": "6848cbf43dccc55b54355144",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
