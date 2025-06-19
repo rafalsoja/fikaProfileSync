@@ -41881,10 +41881,7 @@
 						"time": "18:26",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "684de5ac5ae8b75c603575ab",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -41901,10 +41898,7 @@
 						"time": "19:25",
 						"location": "woods"
 					},
-					"items": {
-						"stash": "684df6285ae8b75c6038501b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				}
 			],

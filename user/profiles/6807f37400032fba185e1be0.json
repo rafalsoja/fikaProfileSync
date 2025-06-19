@@ -64017,10 +64017,7 @@
 						"time": "19:25",
 						"location": "woods"
 					},
-					"items": {
-						"stash": "684df8815ae8b75c6038746d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -80759,10 +80756,7 @@
 					"text": "Here is your reward for tier 1 of Sniper",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68481c6c0301d83c402ee2ff",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
