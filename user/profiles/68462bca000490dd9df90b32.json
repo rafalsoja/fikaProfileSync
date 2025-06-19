@@ -20049,10 +20049,7 @@
 					"text": "Here is your reward for tier 1 of Strength",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6848ad143dccc55b54307905",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -20063,10 +20060,7 @@
 					"text": "Here is your reward for tier 1 of Health",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6848ad143dccc55b5430790d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -20077,10 +20071,7 @@
 					"text": "Here is your reward for tier 1 of Perception",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6848ad143dccc55b54307914",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -20091,10 +20082,7 @@
 					"text": "Here is your reward for tier 1 of Charisma",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6848ad143dccc55b54307919",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -20105,10 +20093,7 @@
 					"text": "Here is your reward for tier 1 of Endurance",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6848b4993dccc55b5431b3c5",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
