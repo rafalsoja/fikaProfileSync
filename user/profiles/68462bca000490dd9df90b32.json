@@ -19360,10 +19360,7 @@
 					"templateId": "5936d90786f7742b1420ba5b successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684dc4435ae8b75c60327198",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -19429,10 +19426,7 @@
 					"templateId": "5fd9fad9c1ce6b1a3b486d00 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684ddde25ae8b75c60354b0a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -19449,119 +19443,7 @@
 						"time": "19:18",
 						"location": "woods"
 					},
-					"items": {
-						"stash": "68505ebffe11d34a602ed32e",
-						"data": [
-							{
-								"_id": "68505ebffe11d34a602ed330",
-								"_tpl": "5ab8dab586f77441cd04f2a2",
-								"slotId": "main",
-								"parentId": "68505ebffe11d34a602ed32e"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed331",
-								"_tpl": "5c0e53c886f7747fa54205c7",
-								"slotId": "main",
-								"parentId": "68505ebffe11d34a602ed32e"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed332",
-								"_tpl": "656f63c027aed95beb08f62c",
-								"slotId": "front_plate",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 140,
-										"Durability": 137.006348
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed333",
-								"_tpl": "656efaf54772930db4031ff5",
-								"slotId": "back_plate",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 125,
-										"Durability": 125
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed334",
-								"_tpl": "654a8b0b0337d53f9102c2ae",
-								"slotId": "soft_armor_front",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 100,
-										"Durability": 78.5806656
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed335",
-								"_tpl": "654a8976f414fcea4004d78b",
-								"slotId": "soft_armor_back",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 100,
-										"Durability": 100
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed336",
-								"_tpl": "654a8b3df414fcea4004d78f",
-								"slotId": "soft_armor_left",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 50,
-										"Durability": 50
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed337",
-								"_tpl": "654a8b80f414fcea4004d797",
-								"slotId": "soft_armor_right",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 50,
-										"Durability": 50
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed338",
-								"_tpl": "654a8ae00337d53f9102c2aa",
-								"slotId": "Collar",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 40,
-										"Durability": 40
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							},
-							{
-								"_id": "68505ebffe11d34a602ed339",
-								"_tpl": "654a8bc5f414fcea4004d79b",
-								"slotId": "Groin",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 75,
-										"Durability": 75
-									}
-								},
-								"parentId": "68505ebffe11d34a602ed331"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -19578,17 +19460,7 @@
 						"time": "20:35",
 						"location": "woods"
 					},
-					"items": {
-						"stash": "68505ebffe11d34a602ed33a",
-						"data": [
-							{
-								"_id": "68505ebffe11d34a602ed33c",
-								"_tpl": "618cfae774bb2d036a049e7c",
-								"parentId": "68505ebffe11d34a602ed33a",
-								"slotId": "main"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				}
 			],
@@ -19735,10 +19607,7 @@
 					"templateId": "596a204686f774576d4c95de successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684dde225ae8b75c60354b19",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -19847,10 +19716,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684dcb4a5ae8b75c60339e60",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -19862,10 +19728,7 @@
 					"templateId": "596b36c586f77450d6045ad2 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684dcb9e5ae8b75c60339e81",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -20160,10 +20023,7 @@
 					"templateId": "There you are! You got everything? Good stuff.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684dde0b5ae8b75c60354b12",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
