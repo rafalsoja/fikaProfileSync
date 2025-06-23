@@ -65505,10 +65505,7 @@
 						"time": "22:23",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "68518cb4ce31ed57042ed2f5",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -65525,10 +65522,7 @@
 						"time": "23:08",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "68518cb4ce31ed57042ed2f9",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -65691,10 +65685,26 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "68567f9608012d52e02ed387",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1750499222,
+					"text": "",
+					"templateId": "595f995d86f77476b51172ee 0",
+					"hasRewards": false,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "20.06.2025",
+						"time": "22:02",
+						"location": "tarkovstreets"
+					},
+					"items": {}
 				}
 			],
 			"pinned": true,
-			"new": 1,
+			"new": 2,
 			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
@@ -68216,10 +68226,7 @@
 						"time": "23:08",
 						"location": "rezervbase"
 					},
-					"items": {
-						"stash": "68518cb4ce31ed57042ed305",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -73907,10 +73914,7 @@
 					"templateId": "5d25e44f86f77443e625e385 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68509b30fe11d34a60336e20",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -83897,34 +83901,7 @@
 	"inraid": {
 		"location": "TarkovStreets"
 	},
-	"insurance": [
-		{
-			"scheduledTime": 1750467580.2,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "20.06.2025",
-				"time": "22:02",
-				"location": "tarkovstreets"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 0",
-			"items": [
-				{
-					"_id": "6855bc02c0a2b56fa833cbd5",
-					"_tpl": "62e153bcdb1a5c41971c1b5b"
-				},
-				{
-					"_id": "68496c3fe0602c19842ed101",
-					"_tpl": "5aa2ba71e5b5b000137b758f"
-				},
-				{
-					"_id": "68558b62c0a2b56fa830e471",
-					"_tpl": "62e153bcdb1a5c41971c1b5b"
-				}
-			]
-		}
-	],
+	"insurance": [],
 	"traderPurchases": {
 		"5ac3b934156ae10c4430e83c": {},
 		"54cb50c76803fa8b248b4571": {},

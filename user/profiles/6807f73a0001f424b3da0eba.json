@@ -48101,10 +48101,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48115,10 +48112,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48129,10 +48123,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48143,10 +48134,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48157,10 +48145,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48171,10 +48156,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48185,10 +48167,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48199,10 +48178,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48213,10 +48189,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48227,10 +48200,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -48775,10 +48745,7 @@
 					"templateId": "608a768d82e40b3c727fd17d successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68509ab0fe11d34a60336023",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49559,10 +49526,7 @@
 					"templateId": "674723bdd56b0c5b295bb6a1 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68509ac2fe11d34a6033605a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49574,10 +49538,7 @@
 					"templateId": "66c51c9298f84f4a15184520 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68509ac5fe11d34a60336083",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49992,10 +49953,7 @@
 					"text": "Przedmiot: nieśmiertelnik 1 został kupiony przez Георгий.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6850a0fbfe11d34a60338a7e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -51205,10 +51163,7 @@
 					"text": "Here is your reward for tier 1 of StressResistance",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684dbeef5ae8b75c603220d3",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -51219,10 +51174,7 @@
 					"text": "Here is your reward for tier 1 of Vitality",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684ddd765ae8b75c60354af2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{

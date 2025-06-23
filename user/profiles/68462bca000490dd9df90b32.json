@@ -18643,10 +18643,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18657,10 +18654,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18671,10 +18665,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18685,10 +18676,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18699,10 +18687,7 @@
 					"text": "You have received a gift from Cichaj",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe4977574f15b4ad31b66b6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18713,22 +18698,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "684ddef15ae8b75c60354f07",
-								"_tpl": "544a11ac4bdc2d470e8b456a",
-								"slotId": "main",
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"location": {
-									"x": 2,
-									"y": 4,
-									"r": "Horizontal"
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -19967,10 +19937,7 @@
 					"text": "Here is your reward for tier 1 of Attention",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "684dae2a5ae8b75c602ee374",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				}
 			],
