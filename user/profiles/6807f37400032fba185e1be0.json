@@ -65601,10 +65601,7 @@
 						"time": "16:20",
 						"location": "tarkovstreets"
 					},
-					"items": {
-						"stash": "6855b045c0a2b56fa8329d3e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -65621,10 +65618,7 @@
 						"time": "16:52",
 						"location": "tarkovstreets"
 					},
-					"items": {
-						"stash": "6855bc02c0a2b56fa833cbcd",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{

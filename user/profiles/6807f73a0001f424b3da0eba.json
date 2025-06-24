@@ -42118,10 +42118,7 @@
 						"time": "20:06",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "68549b1e70a0b10644360dac",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -42185,10 +42182,7 @@
 						"time": "16:19",
 						"location": "tarkovstreets"
 					},
-					"items": {
-						"stash": "6855b750c0a2b56fa832b8df",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{

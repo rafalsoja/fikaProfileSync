@@ -18709,25 +18709,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509c9bfe11d34a60336fee",
-								"_tpl": "60b0f6c058e0b0481a09ad11",
-								"slotId": "main",
-								"location": {
-									"x": 2,
-									"y": 2,
-									"r": "Horizontal"
-								},
-								"upd": {
-									"SpawnedInSession": false
-								},
-								"parentId": "5fe49cdfa19cac3fa9054115"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18738,26 +18720,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509e9afe11d34a6033738d",
-								"_tpl": "6576f4708ca9c4381d16cd9d",
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 39,
-									"SpawnedInSession": false
-								},
-								"location": {
-									"x": 2,
-									"y": 7,
-									"r": "Horizontal"
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18768,36 +18731,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509e9dfe11d34a6033738f",
-								"_tpl": "633a98eab8b0506e48497c1a",
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"slotId": "main",
-								"location": {
-									"x": 3,
-									"y": 8,
-									"r": "Horizontal"
-								},
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509e9dfe11d34a60337390",
-								"_tpl": "6576f4708ca9c4381d16cd9d",
-								"parentId": "68509e9dfe11d34a6033738f",
-								"slotId": "cartridges",
-								"location": 0,
-								"upd": {
-									"StackObjectsCount": 20,
-									"SpawnedInSession": false
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18808,36 +18742,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509ea0fe11d34a60337392",
-								"_tpl": "633a98eab8b0506e48497c1a",
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"slotId": "main",
-								"location": {
-									"x": 4,
-									"y": 8,
-									"r": "Horizontal"
-								},
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509ea0fe11d34a60337393",
-								"_tpl": "6576f4708ca9c4381d16cd9d",
-								"parentId": "68509ea0fe11d34a60337392",
-								"slotId": "cartridges",
-								"upd": {
-									"StackObjectsCount": 20,
-									"SpawnedInSession": false
-								},
-								"location": 0
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18848,36 +18753,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509ea2fe11d34a60337395",
-								"_tpl": "633a98eab8b0506e48497c1a",
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"slotId": "main",
-								"upd": {
-									"SpawnedInSession": false
-								},
-								"location": {
-									"x": 1,
-									"y": 7,
-									"r": "Horizontal"
-								}
-							},
-							{
-								"_id": "68509ea2fe11d34a60337396",
-								"_tpl": "6576f4708ca9c4381d16cd9d",
-								"parentId": "68509ea2fe11d34a60337395",
-								"slotId": "cartridges",
-								"location": 0,
-								"upd": {
-									"StackObjectsCount": 20,
-									"SpawnedInSession": false
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18888,36 +18764,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509ea6fe11d34a60337398",
-								"_tpl": "633a98eab8b0506e48497c1a",
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"slotId": "main",
-								"location": {
-									"x": 3,
-									"y": 9,
-									"r": "Horizontal"
-								},
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509ea6fe11d34a60337399",
-								"_tpl": "6576f4708ca9c4381d16cd9d",
-								"parentId": "68509ea6fe11d34a60337398",
-								"slotId": "cartridges",
-								"location": 0,
-								"upd": {
-									"StackObjectsCount": 20,
-									"SpawnedInSession": false
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -18928,99 +18775,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509eb8fe11d34a60337548",
-								"_tpl": "62e14904c2699c0ec93adc47",
-								"upd": {
-									"FireMode": {
-										"FireMode": "single"
-									},
-									"Foldable": {
-										"Folded": false
-									},
-									"Repairable": {
-										"Durability": 100,
-										"MaxDurability": 100
-									},
-									"SpawnedInSession": false
-								},
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"slotId": "main",
-								"location": {
-									"x": 0,
-									"y": 8,
-									"r": "Horizontal"
-								}
-							},
-							{
-								"_id": "68509eb8fe11d34a60337549",
-								"_tpl": "62e2a754b6c0ee2f230cee0f",
-								"parentId": "68509eb8fe11d34a60337548",
-								"slotId": "mod_muzzle",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509eb8fe11d34a6033754a",
-								"_tpl": "62e292e7b6c0ee2f230cee00",
-								"parentId": "68509eb8fe11d34a60337548",
-								"slotId": "mod_stock",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509eb8fe11d34a6033754b",
-								"_tpl": "62e27a7865f0b1592a49e17b",
-								"parentId": "68509eb8fe11d34a60337548",
-								"slotId": "mod_reciever",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509eb8fe11d34a6033754c",
-								"_tpl": "62e15547db1a5c41971c1b5e",
-								"parentId": "68509eb8fe11d34a60337548",
-								"slotId": "mod_handguard",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509eb8fe11d34a6033754d",
-								"_tpl": "62ed189fb3608410ef5a2bfc",
-								"parentId": "68509eb8fe11d34a6033754c",
-								"slotId": "mod_mount_001",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509eb8fe11d34a6033754e",
-								"_tpl": "637b9c37b7e3bc41b21ce71a",
-								"parentId": "68509eb8fe11d34a60337548",
-								"slotId": "mod_pistolgrip",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509eb8fe11d34a6033754f",
-								"_tpl": "6576f4708ca9c4381d16cd9d",
-								"parentId": "68509eb8fe11d34a60337548",
-								"slotId": "patron_in_weapon",
-								"upd": {
-									"StackObjectsCount": 1,
-									"SpawnedInSession": false
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -19031,62 +18786,7 @@
 					"text": "You have received a gift from Michau",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": [
-							{
-								"_id": "68509f19fe11d34a6033756c",
-								"_tpl": "64a536392d2c4e6e970f4121",
-								"parentId": "5fe49cdfa19cac3fa9054115",
-								"slotId": "main",
-								"location": {
-									"x": 4,
-									"y": 1,
-									"r": 0,
-									"rotation": false
-								},
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509f19fe11d34a6033756d",
-								"_tpl": "6570653e89fd4926380b733e",
-								"parentId": "68509f19fe11d34a6033756c",
-								"slotId": "Soft_armor_front",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509f19fe11d34a6033756e",
-								"_tpl": "6570658a89fd4926380b7346",
-								"parentId": "68509f19fe11d34a6033756c",
-								"slotId": "Soft_armor_back",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509f19fe11d34a6033756f",
-								"_tpl": "656fac30c6baea13cd07e10c",
-								"parentId": "68509f19fe11d34a6033756c",
-								"slotId": "Front_plate",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							},
-							{
-								"_id": "68509f19fe11d34a60337570",
-								"_tpl": "656fac30c6baea13cd07e10c",
-								"parentId": "68509f19fe11d34a6033756c",
-								"slotId": "Back_plate",
-								"upd": {
-									"SpawnedInSession": false
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				}
 			],
