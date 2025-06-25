@@ -65667,17 +65667,7 @@
 						"time": "21:25",
 						"location": "tarkovstreets"
 					},
-					"items": {
-						"stash": "6855f91dc0a2b56fa83a7031",
-						"data": [
-							{
-								"_id": "6855f91dc0a2b56fa83a7033",
-								"_tpl": "5c0e774286f77468413cc5b2",
-								"parentId": "6855f91dc0a2b56fa83a7031",
-								"slotId": "main"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -82410,10 +82400,7 @@
 					"text": "Here is your reward for tier 1 of Sniper",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6850893cfe11d34a6030c9b3",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				}
 			],

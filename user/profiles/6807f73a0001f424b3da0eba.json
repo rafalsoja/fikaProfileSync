@@ -42215,95 +42215,7 @@
 						"time": "21:45",
 						"location": "tarkovstreets"
 					},
-					"items": {
-						"stash": "6855fdcfc0a2b56fa83a8a09",
-						"data": [
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a0b",
-								"_tpl": "60bf74184a63fc79b60c57f6",
-								"slotId": "main",
-								"parentId": "6855fdcfc0a2b56fa83a8a09"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a0c",
-								"_tpl": "6691ee6725fbee27e156917d",
-								"slotId": "main",
-								"parentId": "6855fdcfc0a2b56fa83a8a09"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a0d",
-								"_tpl": "6691ee6725fbee27e156917d",
-								"slotId": "main",
-								"parentId": "6855fdcfc0a2b56fa83a8a09"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a0e",
-								"_tpl": "6691ee6725fbee27e156917d",
-								"slotId": "main",
-								"parentId": "6855fdcfc0a2b56fa83a8a09"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a0f",
-								"_tpl": "656e0436d44a1bb4220303a0",
-								"slotId": "main",
-								"parentId": "6855fdcfc0a2b56fa83a8a09"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a10",
-								"_tpl": "5648a7494bdc2d9d488b4583",
-								"slotId": "main",
-								"parentId": "6855fdcfc0a2b56fa83a8a09"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a11",
-								"_tpl": "65703d866584602f7d057a8a",
-								"slotId": "Soft_armor_front",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 100,
-										"Durability": 97
-									}
-								},
-								"parentId": "6855fdcfc0a2b56fa83a8a10"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a12",
-								"_tpl": "65703fa06584602f7d057a8e",
-								"slotId": "Soft_armor_back",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 100,
-										"Durability": 97
-									}
-								},
-								"parentId": "6855fdcfc0a2b56fa83a8a10"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a13",
-								"_tpl": "65703fe46a912c8b5c03468b",
-								"slotId": "Soft_armor_left",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 50,
-										"Durability": 48.5
-									}
-								},
-								"parentId": "6855fdcfc0a2b56fa83a8a10"
-							},
-							{
-								"_id": "6855fdcfc0a2b56fa83a8a14",
-								"_tpl": "657040374e67e8ec7a0d261c",
-								"slotId": "soft_armor_right",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 50,
-										"Durability": 48.5
-									}
-								},
-								"parentId": "6855fdcfc0a2b56fa83a8a10"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				}
 			],
@@ -51179,10 +51091,7 @@
 					"text": "Here is your reward for tier 1 of Vitality",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68508e51fe11d34a603104af",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
@@ -51193,10 +51102,7 @@
 					"text": "Here is your reward for tier 1 of StressResistance",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68508e51fe11d34a603104b8",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{

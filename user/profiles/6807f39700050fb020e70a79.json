@@ -4987,6 +4987,30 @@
 					"id": "5d6282d64e7f7ccdcb940567",
 					"type": "TextBonus",
 					"value": 0
+				},
+				{
+					"filter": [
+						"57347ca924597744596b4e71"
+					],
+					"icon": "/files/Hideout/icon_hideout_videocardslots.png",
+					"id": "64f5b9e5fa34f11b38075700",
+					"passive": true,
+					"production": false,
+					"type": "AdditionalSlots",
+					"value": 10,
+					"visible": true
+				},
+				{
+					"icon": "/files/Hideout/icon_hideout_createitem_bitcoin.png",
+					"id": "5d8b8310270eff88e1f47beb",
+					"type": "TextBonus",
+					"value": 0
+				},
+				{
+					"icon": "/files/Hideout/Icon_Preset-stand_Mannequin_Small.png",
+					"id": "6698e72c17b8f677b3077ef1",
+					"type": "TextBonus",
+					"value": 2
 				}
 			],
 			"Customization": {
@@ -5151,7 +5175,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1750802384
+				"UpdateTime": 1750863828
 			},
 			"Hideout": {
 				"Areas": [
@@ -5329,8 +5353,8 @@
 										"upd": {
 											"StackObjectsCount": 1,
 											"Resource": {
-												"Value": 56.214,
-												"UnitsConsumed": 3.786
+												"Value": 43.898,
+												"UnitsConsumed": 6.102
 											},
 											"SpawnedInSession": true
 										}
@@ -5529,10 +5553,10 @@
 					},
 					{
 						"active": true,
-						"completeTime": 1750812220,
-						"constructing": true,
+						"completeTime": 0,
+						"constructing": false,
 						"lastRecipe": "",
-						"level": 0,
+						"level": 1,
 						"passiveBonusesEnabled": true,
 						"slots": [
 							{
@@ -5740,10 +5764,10 @@
 					},
 					{
 						"active": true,
-						"completeTime": 1750808494,
-						"constructing": true,
+						"completeTime": 0,
+						"constructing": false,
 						"lastRecipe": "",
-						"level": 1,
+						"level": 2,
 						"passiveBonusesEnabled": true,
 						"slots": [],
 						"type": 26
@@ -5771,11 +5795,11 @@
 				},
 				"Production": {
 					"5d5589c1f934db045e6c5492": {
-						"Progress": 14907.489999999216,
+						"Progress": 19086.489999999216,
 						"inProgress": true,
 						"RecipeId": "5d5589c1f934db045e6c5492",
 						"StartTimestamp": "1750628328",
-						"ProductionTime": 17257.5,
+						"ProductionTime": 17160,
 						"Products": [],
 						"GivenItemsInStart": [],
 						"Interrupted": false,
@@ -5788,7 +5812,7 @@
 				},
 				"HideoutCounters": null,
 				"Seed": 1997639802,
-				"sptUpdateLastRunTimestamp": 1750804131
+				"sptUpdateLastRunTimestamp": 1750873757
 			},
 			"Info": {
 				"AccountType": 0,
@@ -16286,7 +16310,7 @@
 					},
 					{
 						"_id": "65e5bb1713227bb7690cea0a",
-						"_tpl": "65e5957613227bb7690ce9f6"
+						"_tpl": "65e597266017f07a3204b775"
 					},
 					{
 						"_id": "684067b82da06d6ac82ee1b2",
@@ -36450,6 +36474,18 @@
 					{
 						"_id": "5fe49cdfa19cac3fa9054116",
 						"_tpl": "5963866286f7747bf429b572"
+					},
+					{
+						"_id": "685c1227c5df283b702ee228",
+						"_tpl": "55d7217a4bdc2d86028b456d",
+						"parentId": "65e5bb1713227bb7690cea0a",
+						"slotId": "Stand2"
+					},
+					{
+						"_id": "685c1227c5df283b702ee229",
+						"_tpl": "627a4e6b255f7527fb05a0f6",
+						"parentId": "685c1227c5df283b702ee228",
+						"slotId": "Pockets"
 					}
 				],
 				"questRaidItems": "5fe49cdfa19cac3fa9054116",
@@ -41602,9 +41638,9 @@
 					},
 					{
 						"Id": "HideoutManagement",
-						"Progress": 1746.8,
+						"Progress": 1807.8,
 						"PointsEarnedDuringSession": 0,
-						"LastAccess": 1750785209
+						"LastAccess": 1750864423
 					},
 					{
 						"Id": "SilentOps",
