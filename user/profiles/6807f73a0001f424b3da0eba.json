@@ -42050,10 +42050,7 @@
 					"templateId": "5967725e86f774601a446662 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "685487ed70a0b1064435afdf",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -42065,10 +42062,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "685487f070a0b1064435afe6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -42162,10 +42156,7 @@
 					"templateId": "6573397ef3f8344c4575cd87 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68558a59c0a2b56fa830d5f8",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -43580,10 +43571,7 @@
 					"templateId": "66aba85403e0ee3101042877 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68559442c0a2b56fa8320be6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -44445,10 +44433,7 @@
 					"templateId": "665eec4a4dfc83b0ed0a9dca successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6854880c70a0b1064435b146",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -45505,10 +45490,7 @@
 					"templateId": "63913715f8e5dd32bf4e3aaa successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68558a83c0a2b56fa830d61c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45542,10 +45524,7 @@
 					"templateId": "639135e8c115f907b14700aa successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68559463c0a2b56fa83210cb",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45557,10 +45536,7 @@
 					"templateId": "639136fa9444fb141f4e6eee successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68559468c0a2b56fa83210d2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45583,10 +45559,7 @@
 					"templateId": "639872fa9b4fb827b200d8e5 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6855c6fec0a2b56fa8362843",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45609,10 +45582,7 @@
 					"templateId": "5ae327c886f7745c7b3f2f3f successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6855c79ac0a2b56fa8362866",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45635,10 +45605,7 @@
 					"templateId": "5c1128e386f7746565181106 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6855c7b4c0a2b56fa8362873",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45650,10 +45617,7 @@
 					"templateId": "639872fc93ae507d5858c3a6 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6855c97dc0a2b56fa83636b4",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -45676,10 +45640,7 @@
 					"templateId": "5b47799d86f7746c5d6a5fd8 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6855cc92c0a2b56fa83645a0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -48696,10 +48657,7 @@
 					"templateId": "63a511ea30d85e10e375b045 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68559481c0a2b56fa83210d9",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -49595,10 +49553,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68558a9cc0a2b56fa830d662",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -51113,10 +51068,7 @@
 					"text": "Here is your reward for tier 1 of Crafting",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6851b444f6b67c278c2ef153",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				}
 			],
