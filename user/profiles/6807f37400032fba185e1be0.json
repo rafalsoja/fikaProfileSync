@@ -73908,10 +73908,7 @@
 					"templateId": "64e7b971f9d6fa49d6769b44 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6855db5ac0a2b56fa838d60c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
