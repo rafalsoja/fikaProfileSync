@@ -68474,10 +68474,7 @@
 					"templateId": "5da89b3a86f7742f9026cb83 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686012535842930aa032bb3b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 604800
 				},
 				{
@@ -72386,10 +72383,7 @@
 					"templateId": "67509cb7f4536e3f9382009b successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68613eb62f6d08246c2feb41",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -72401,10 +72395,7 @@
 					"templateId": "67509d5ecf08e0fbf1764f36 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "68613eba2f6d08246c2feb4a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -79443,10 +79434,7 @@
 					"text": "Here is your reward for tier 1 of Crafting",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "685ea7ca54cc5d62ac2ee4be",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 720000
 				},
 				{
