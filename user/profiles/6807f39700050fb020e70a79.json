@@ -50548,157 +50548,9 @@
 				}
 			],
 			"RagfairInfo": {
-				"isRatingGrowing": true,
-				"offers": [
-					{
-						"_id": "687303fdb27a7d1b342fc273",
-						"intId": 3,
-						"user": {
-							"id": "6807f39700050fb020e70a79",
-							"memberType": 0,
-							"selectedMemberCategory": 0,
-							"nickname": "Luxer",
-							"rating": 1.9590632000000008,
-							"isRatingGrowing": true,
-							"aid": 1014782
-						},
-						"root": "eeca8f3ca4534c10514dcdc2",
-						"items": [
-							{
-								"_id": "eeca8f3ca4534c10514dcdc2",
-								"_tpl": "618428466ef05c2ce828f218",
-								"parentId": "hideout",
-								"slotId": "hideout",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 86,
-										"Durability": 71.78465
-									},
-									"Foldable": {
-										"Folded": false
-									},
-									"FireMode": {
-										"FireMode": "fullauto"
-									},
-									"StackObjectsCount": 1
-								}
-							},
-							{
-								"_id": "4a5c9763e6b06cda35c7f5ba",
-								"_tpl": "55802f5d4bdc2dac148b458f",
-								"parentId": "eeca8f3ca4534c10514dcdc2",
-								"slotId": "mod_pistol_grip"
-							},
-							{
-								"_id": "6872581fb0b29f0ab8310ed3",
-								"_tpl": "5aaa5dfee5b5b000140293d3",
-								"parentId": "eeca8f3ca4534c10514dcdc2",
-								"slotId": "mod_magazine"
-							},
-							{
-								"_id": "a5205d98b343a11deab7fd37",
-								"_tpl": "618426d96c780c1e710c9b9f",
-								"parentId": "eeca8f3ca4534c10514dcdc2",
-								"slotId": "mod_reciever"
-							},
-							{
-								"_id": "8b1c08928c7e8db37611c0df",
-								"_tpl": "6183fd9e8004cc50514c358f",
-								"parentId": "a5205d98b343a11deab7fd37",
-								"slotId": "mod_barrel"
-							},
-							{
-								"_id": "afd98eb0f03d023ba265cd1f",
-								"_tpl": "5d02676dd7ad1a049e54f6dc",
-								"parentId": "8b1c08928c7e8db37611c0df",
-								"slotId": "mod_muzzle"
-							},
-							{
-								"_id": "84632247e030a86d02e49823",
-								"_tpl": "61816df1d3a39d50044c139e",
-								"parentId": "a5205d98b343a11deab7fd37",
-								"slotId": "mod_mount_000"
-							},
-							{
-								"_id": "b74c8da583a3b662cb2038e8",
-								"_tpl": "61965d9058ef8c428c287e0d",
-								"parentId": "84632247e030a86d02e49823",
-								"slotId": "mod_mount"
-							},
-							{
-								"_id": "9aed207dc3e324b4fe682bd5",
-								"_tpl": "61816dfa6ef05c2ce828f1ad",
-								"parentId": "a5205d98b343a11deab7fd37",
-								"slotId": "mod_mount_001"
-							},
-							{
-								"_id": "d8236b602a89a91b0146b03a",
-								"_tpl": "5c06595c0db834001a66af6c",
-								"parentId": "9aed207dc3e324b4fe682bd5",
-								"slotId": "mod_tactical_001",
-								"upd": {
-									"Light": {
-										"IsActive": true,
-										"SelectedMode": 0
-									}
-								}
-							},
-							{
-								"_id": "fcbe5efee4bba8cbc55d1b71",
-								"_tpl": "61825d06d92c473c770215de",
-								"parentId": "eeca8f3ca4534c10514dcdc2",
-								"slotId": "mod_stock"
-							},
-							{
-								"_id": "5064fe8f34d35e6b0e6ced0d",
-								"_tpl": "61825d136ef05c2ce828f1cc",
-								"parentId": "fcbe5efee4bba8cbc55d1b71",
-								"slotId": "mod_stock_001"
-							},
-							{
-								"_id": "2d9160c3e98c8855d1002b0e",
-								"_tpl": "618167616ef05c2ce828f1a8",
-								"parentId": "5064fe8f34d35e6b0e6ced0d",
-								"slotId": "mod_stock"
-							},
-							{
-								"_id": "d580c9e7d7489451b2f1aedd",
-								"_tpl": "61825d24d3a39d50044c13af",
-								"parentId": "fcbe5efee4bba8cbc55d1b71",
-								"slotId": "mod_stock_002"
-							},
-							{
-								"_id": "ad56557f2229152e65319d37",
-								"_tpl": "6181688c6c780c1e710c9b04",
-								"parentId": "eeca8f3ca4534c10514dcdc2",
-								"slotId": "mod_charge"
-							},
-							{
-								"_id": "68725832735b6555ad000024",
-								"_tpl": "59e6927d86f77411da468256",
-								"parentId": "eeca8f3ca4534c10514dcdc2",
-								"slotId": "patron_in_weapon"
-							}
-						],
-						"itemsCost": 18000,
-						"requirements": [
-							{
-								"_tpl": "5449016a4bdc2d6f028b456f",
-								"count": 160000,
-								"onlyFunctional": false
-							}
-						],
-						"requirementsCost": 160000,
-						"summaryCost": 160000,
-						"startTime": 1752368125,
-						"endTime": 1752411325,
-						"loyaltyLevel": 1,
-						"sellInOnePiece": false,
-						"locked": false,
-						"sellResult": []
-					}
-				],
-				"rating": 1.9590632000000008
+				"isRatingGrowing": false,
+				"offers": [],
+				"rating": 1.9290632000000008
 			},
 			"Skills": {
 				"Common": [
@@ -71268,10 +71120,7 @@
 					"templateId": "Marvelous, young man. Thank you for some fine work.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c2a322ff4cb2480347638",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -72152,10 +72001,7 @@
 					"templateId": "A damn beast you are, hehe. Good work, here's your share.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c2a362ff4cb2480347652",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -73551,10 +73397,7 @@
 					"templateId": "64f83bd983cfca080a362c82 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c2b672ff4cb2480347aa7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				}
 			],
@@ -80239,10 +80082,7 @@
 					"templateId": "64e7b971f9d6fa49d6769b44 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c2a4a2ff4cb24803478dd",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -81041,10 +80881,7 @@
 					"text": "Przedmiot: Wstrzykiwacz stymulanta bojowego SJ12 TGLabs 1 został kupiony przez Пахом.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c08a62ff4cb2480318a45",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -81055,10 +80892,7 @@
 					"text": "Przedmiot: Wstrzykiwacz stymulanta 3-(b-TG) 1 został kupiony przez Stanton.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c08ce2ff4cb2480318a4a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -81069,10 +80903,7 @@
 					"text": "Przedmiot: Wstrzykiwacz stymulanta 3-(b-TG) 1 został kupiony przez Аристарх.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c08d82ff4cb2480318a4f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -81083,10 +80914,7 @@
 					"text": "Przedmiot: Wstrzykiwacz stymulanta PNB (Produkt 16) 1 został kupiony przez Weldon.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c08f62ff4cb2480318a58",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -81097,10 +80925,7 @@
 					"text": "Przedmiot: Pistolet Magnum Research Desert Eagle L6 .50 AE 1 został kupiony przez Кузьма.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "686c09792ff4cb2480318a5d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -82610,11 +82435,142 @@
 						"data": []
 					},
 					"maxStorageTime": 518400
+				},
+				{
+					"_id": "68757df9c7d8835c3c2ed284",
+					"uid": "5ac3b934156ae10c4430e83c",
+					"type": 13,
+					"dt": 1752530425,
+					"text": "",
+					"templateId": "5bdabfe486f7743e1665df6e 0",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"items": {
+						"stash": "68757df9c7d8835c3c2ed283",
+						"data": [
+							{
+								"_id": "68757df9c7d8835c3c2ed285",
+								"_tpl": "618428466ef05c2ce828f218",
+								"parentId": "68757df9c7d8835c3c2ed283",
+								"slotId": "main",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 86,
+										"Durability": 71.78465
+									},
+									"Foldable": {
+										"Folded": false
+									},
+									"FireMode": {
+										"FireMode": "fullauto"
+									},
+									"StackObjectsCount": 1
+								}
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed286",
+								"_tpl": "55802f5d4bdc2dac148b458f",
+								"parentId": "68757df9c7d8835c3c2ed285",
+								"slotId": "mod_pistol_grip"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed287",
+								"_tpl": "5aaa5dfee5b5b000140293d3",
+								"parentId": "68757df9c7d8835c3c2ed285",
+								"slotId": "mod_magazine"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed288",
+								"_tpl": "618426d96c780c1e710c9b9f",
+								"parentId": "68757df9c7d8835c3c2ed285",
+								"slotId": "mod_reciever"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed289",
+								"_tpl": "6183fd9e8004cc50514c358f",
+								"parentId": "68757df9c7d8835c3c2ed288",
+								"slotId": "mod_barrel"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed28a",
+								"_tpl": "5d02676dd7ad1a049e54f6dc",
+								"parentId": "68757df9c7d8835c3c2ed289",
+								"slotId": "mod_muzzle"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed28b",
+								"_tpl": "61816df1d3a39d50044c139e",
+								"parentId": "68757df9c7d8835c3c2ed288",
+								"slotId": "mod_mount_000"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed28c",
+								"_tpl": "61965d9058ef8c428c287e0d",
+								"parentId": "68757df9c7d8835c3c2ed28b",
+								"slotId": "mod_mount"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed28d",
+								"_tpl": "61816dfa6ef05c2ce828f1ad",
+								"parentId": "68757df9c7d8835c3c2ed288",
+								"slotId": "mod_mount_001"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed28e",
+								"_tpl": "5c06595c0db834001a66af6c",
+								"parentId": "68757df9c7d8835c3c2ed28d",
+								"slotId": "mod_tactical_001",
+								"upd": {
+									"Light": {
+										"IsActive": true,
+										"SelectedMode": 0
+									}
+								}
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed28f",
+								"_tpl": "61825d06d92c473c770215de",
+								"parentId": "68757df9c7d8835c3c2ed285",
+								"slotId": "mod_stock"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed290",
+								"_tpl": "61825d136ef05c2ce828f1cc",
+								"parentId": "68757df9c7d8835c3c2ed28f",
+								"slotId": "mod_stock_001"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed291",
+								"_tpl": "618167616ef05c2ce828f1a8",
+								"parentId": "68757df9c7d8835c3c2ed290",
+								"slotId": "mod_stock"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed292",
+								"_tpl": "61825d24d3a39d50044c13af",
+								"parentId": "68757df9c7d8835c3c2ed28f",
+								"slotId": "mod_stock_002"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed293",
+								"_tpl": "6181688c6c780c1e710c9b04",
+								"parentId": "68757df9c7d8835c3c2ed285",
+								"slotId": "mod_charge"
+							},
+							{
+								"_id": "68757df9c7d8835c3c2ed294",
+								"_tpl": "59e6927d86f77411da468256",
+								"parentId": "68757df9c7d8835c3c2ed285",
+								"slotId": "patron_in_weapon"
+							}
+						]
+					},
+					"maxStorageTime": 259200
 				}
 			],
 			"pinned": true,
-			"new": 0,
-			"attachmentsNew": 0
+			"new": 1,
+			"attachmentsNew": 1
 		},
 		"5935c25fb3acc3127c3d8cd9": {
 			"_id": "5935c25fb3acc3127c3d8cd9",
